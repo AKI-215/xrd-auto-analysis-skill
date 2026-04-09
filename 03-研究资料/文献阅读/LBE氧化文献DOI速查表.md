@@ -1,0 +1,5 @@
+**以下是简化后的表格**（**只保留DOI**，其他列已删除）。
+每行对应一篇论文，按年份排序：
+| 年份 | 作者简写 | DOI 链接 |
+|------|-----------------------|----------| 
+2012 | Gheno et al. | [10.1016/j.corsci.2012.07.024](https://doi.org/10.1016/j.corsci.2012.07.024) | | 2013 | Gheno et al. | [10.1016/j.corsci.2013.08.008](https://doi.org/10.1016/j.corsci.2013.08.008) | | 2017 | Gong et al. | [10.1016/j.actamat.2017.02.034](https://doi.org/10.1016/j.actamat.2017.02.034) | | 2021 | Li et al. | [10.1016/j.matchar.2021.111054](https://doi.org/10.1016/j.matchar.2021.111054) | | 2021 | Oleksak et al. | [10.1038/s41529-021-00194-1](https://doi.org/10.1038/s41529-021-00194-1) | | 2023 | Eklund et al. | [10.1016/j.corsci.2023.111155](https://doi.org/10.1016/j.corsci.2023.111155) | | 2023 | Zhou et al. | [10.1016/j.matchar.2023.113221](https://doi.org/10.1016/j.matchar.2023.113221) | | 2024 | Sundar et al. | [10.1016/j.corsci.2024.111850](https://doi.org/10.1016/j.corsci.2024.111850) | | 2024 | Subramanian et al. | [10.1016/j.corsci.2024.112016](https://doi.org/10.1016/j.corsci.2024.112016) | 点击链接即可直达对应论文页面。 如需完整引用格式或某篇PDF链接，再告诉我！

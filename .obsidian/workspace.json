@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "ae3ae49592bce5f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "31556af7f649f5e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221d28bd1d1b9c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-研究资料/组会/组会.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "组会"
+            }
+          },
+          {
+            "id": "bbc145060865b572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-研究资料/Fe-rich nodule/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77a5434ad67c2999",
+    "type": "split",
+    "children": [
+      {
+        "id": "9374259019704817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7189937be57cf2b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a87c0f87f71a7d3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4c1cbd8c3b123d5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "61000c7096f4bab5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "60e975fdcc8a91bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76b5096b3e31a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56dc389b5b5c8bb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pic/Pasted image 20260326220121.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Pasted image 20260326220121 的反向链接列表"
+            }
+          },
+          {
+            "id": "166857ad27bddfaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pic/Pasted image 20260326220121.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Pasted image 20260326220121 的出链列表"
+            }
+          },
+          {
+            "id": "a95b652f19feeee6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "136ab79060848dfa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d1a30aeb16dad8c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "材料质谱/材料分析方法，新能源.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "材料分析方法，新能源 的大纲"
+            }
+          },
+          {
+            "id": "d18575a9db0aca4e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "github-sync:Sync with Remote": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "bbc145060865b572",
+  "lastOpenFiles": [
+    "03-研究资料/组会/组会.md",
+    "03-研究资料/Fe-rich nodule/未命名.md",
+    "03-研究资料/Fe-rich nodule",
+    "附件/Pasted image 20260408124853.png",
+    "附件/Pasted image 20260408124843.png",
+    "附件/Pasted image 20260408124836.png",
+    "附件/Pasted image 20260408124828.png",
+    "附件/Pasted image 20260408124818.png",
+    "附件/Pasted image 20260408124805.png",
+    "04-方法与工具/GPT/00-GPT导航.md",
+    "03-研究资料/组会",
+    "04-方法与工具/GPT/99-原始归档/真题总结与考察频次.md",
+    "04-方法与工具/GPT/99-原始归档/氧化突起形成机制.md",
+    "04-方法与工具/GPT/99-原始归档/金属氧化层界面表征.md",
+    "04-方法与工具/GPT/01-研究现状与选题/LBE研究方向与选题模板.md",
+    "04-方法与工具/GPT/01-研究现状与选题/高温氧化-水蒸气-sCO2研究现状.md",
+    "00-首页.md",
+    "Pasted image 20260403220746.png",
+    "未命名 2.md",
+    "Pasted image 20260407200024.png",
+    "GPT/gpt问答.md",
+    "有限元4.30/未命名 1.md",
+    "有限元4.30/未命名.md",
+    "有限元4.30/核电厂结构设计及有限元分析方法——关于高温工况下核电管道结构完整性评估与有限元分析方法的调研.md",
+    "安全分析5.29/铅冷快堆安全分析现状及展望.md",
+    "机器学习/未命名 1.md",
+    "安全分析5.29/安全分析报告.md",
+    "未命名 1.md",
+    "材料质谱/材料分析方法，新能源.md",
+    "Pasted image 20260403224348.png",
+    "Pasted image 20260403224133.png",
+    "材料质谱/资料.md",
+    "材料质谱/基于飞行时间质谱的原子探针层析（APT）原理、定量挑战及材料应用.md",
+    "小论文/铁氧化物瘤形成机理的学术论文.md",
+    "小论文",
+    "文献阅读/未命名.md",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名.canvas",
+    "科技英语写作/- 2026.3.26：.md",
+    "科技英语写作/作业.md",
+    "科技英语写作/- 2026.3.26.md",
+    "s40543-023-00407-z.pdf",
+    "机器学习",
+    "未命名 1.canvas",
+    "材料质谱",
+    "有限元4.30",
+    "pic"
+  ]
+}
