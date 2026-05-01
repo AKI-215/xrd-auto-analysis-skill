@@ -1,0 +1,33 @@
+data_SodiumHydrogenSulfate
+_chemical_name_common SodiumHydrogenSulfate
+_chemical_formula_sum 'Na H S O4'
+_symmetry_space_group_name_H-M P-1
+_space_group_IT_number 2
+_cell_length_a 7.005000
+_cell_length_b 7.125000
+_cell_length_c 6.712000
+_cell_angle_alpha 95.940000
+_cell_angle_beta 87.690000
+_cell_angle_gamma 104.480000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 0.298000 0.278300 0.452900 1.000000
+Na2 Na 0.169000 0.667800 0.843100 1.000000
+S1 S 0.205900 0.721300 0.385400 1.000000
+S2 S 0.301300 0.210000 0.957400 1.000000
+O1 O 0.318100 0.936300 0.345400 1.000000
+O2 O 0.342800 0.642200 0.488700 1.000000
+O3 O 0.151900 0.616000 0.193200 1.000000
+O4 O 0.041800 0.747200 0.509900 1.000000
+O5 O 0.333700 0.036300 0.848300 1.000000
+O6 O 0.445400 0.290200 0.112900 1.000000
+O7 O 0.102500 0.165700 0.056500 1.000000
+O8 O 0.303200 0.357300 0.815500 1.000000
+
+# Reference: 00-025-0833

@@ -1,0 +1,37 @@
+data_MagnesiumPhosphateHydrate
+_chemical_name_common MagnesiumPhosphateHydrate
+_chemical_formula_sum 'Mg2 ( P2 O7 ) ( H2 O )3.5'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 10.931700
+_cell_length_b 8.055780
+_cell_length_c 9.277400
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.201000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 0.095440 0.694900 0.229000 1.000000
+P2 P 0.754040 0.920100 0.184100 1.000000
+Mg1 Mg 0.500000 0.000000 0.000000 1.000000
+Mg2 Mg 0.000000 0.500000 0.500000 1.000000
+Mg3 Mg 0.895600 0.853900 0.475400 1.000000
+O1 O 0.221800 0.613100 0.278800 1.000000
+O2 O 0.013700 0.703600 0.359900 1.000000
+O3 O 0.123300 0.864000 0.162100 1.000000
+O4 O 0.036200 0.579400 0.117800 1.000000
+O5 O 0.757700 0.827000 0.325000 1.000000
+O6 O 0.854000 0.871900 0.084400 1.000000
+O7 O 0.631100 0.910300 0.121100 1.000000
+O8 O 0.765900 0.978700 0.611100 1.000000
+O9 O 0.383100 0.818100 0.093400 1.000000
+O10 O 0.546900 0.671300 0.334800 1.000000
+O11 O 0.511500 0.995300 0.548900 1.000000
+
+# Reference: 04-012-6989

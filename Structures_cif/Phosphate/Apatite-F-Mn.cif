@@ -1,0 +1,28 @@
+data_CaMnApatite
+_chemical_name_common CaMnApatite
+_chemical_formula_sum 'Ca4.791 Mn0.211 (PO4)3 F0.93'
+_symmetry_space_group_name_H-M P6_3/m
+_space_group_IT_number 176
+_cell_length_a 9.360000
+_cell_length_b 9.360000
+_cell_length_c 6.860000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.333300 0.666700 0.001500 1.000000
+Mn1 Mn 0.333300 0.666700 0.001500 1.000000
+Ca2 Ca -0.007000 0.241600 0.250000 1.000000
+Mn2 Mn -0.007000 0.241600 0.250000 1.000000
+P1 P 0.369400 0.398400 0.250000 1.000000
+O1 O 0.485900 0.327300 0.250000 1.000000
+O2 O 0.466600 0.588200 0.250000 1.000000
+O3 O 0.257500 0.341400 0.070700 1.000000
+F1 F 0.000000 0.000000 0.250000 1.000000

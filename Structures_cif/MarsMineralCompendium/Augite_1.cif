@@ -1,0 +1,28 @@
+data_Augite
+_chemical_name_common Augite
+_chemical_formula_sum 'Ca Mg.74 Fe.25 Si2 O6'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 9.750400
+_cell_length_b 8.901500
+_cell_length_c 5.274440
+_cell_angle_alpha 90.000000
+_cell_angle_beta 106.016000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.295800 0.250000 1.000000
+Fe1 Fe 0.000000 0.907500 0.250000 0.250000
+Mg1 Mg 0.000000 0.907500 0.250000 0.740000
+O1 O 0.112800 0.090000 0.131900 1.000000
+O2 O 0.372000 0.249300 0.337500 1.000000
+O3 O 0.345100 0.022200 0.003200 1.000000
+Si1 Si 0.290100 0.085000 0.239300 1.000000
+
+# Reference: amcsd_0012864

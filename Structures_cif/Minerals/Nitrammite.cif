@@ -1,0 +1,27 @@
+data_Nitrammite
+_chemical_name_common Nitrammite
+_chemical_formula_sum '( N H4 ) ( N O3 )'
+_symmetry_space_group_name_H-M P2_1/m2_1/m2/n
+_space_group_IT_number 59
+_cell_length_a 5.745000
+_cell_length_b 5.438000
+_cell_length_c 4.942000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 0.250000 0.250000 0.506700 1.000000
+O1 O 0.434200 0.250000 0.383200 1.000000
+H1 H 0.750000 0.101100 0.032400 1.000000
+N2 N 0.750000 0.250000 0.916400 1.000000
+O2 O 0.250000 0.250000 0.762900 1.000000
+H2 H 0.604500 0.250000 0.810200 1.000000
+
+# Reference: 04-009-3765

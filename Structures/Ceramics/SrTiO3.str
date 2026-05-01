@@ -1,0 +1,10 @@
+PHASE=StrontiumTitaniumOxide // 00-005-0634
+Reference=00-005-0634 //
+Formula=Sr_Ti_O3 //
+SpacegroupNo=221 HermannMauguin=P4/m-32/m Setting=1 Lattice=Cubic //
+PARAM=A=0.390520_0.386615^0.394425 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:StrontiumTitaniumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=TI Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=SR Wyckoff=b x=0.500000 y=0.500000 z=0.500000 TDS=0.010000
+E=O Wyckoff=d x=0.500000 y=0.000000 z=0.000000 TDS=0.010000

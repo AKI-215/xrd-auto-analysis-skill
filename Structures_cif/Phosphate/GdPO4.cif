@@ -1,0 +1,25 @@
+data_GdPO4
+_chemical_name_common GdPO4
+_chemical_formula_sum 'Gd P O4'
+_symmetry_space_group_name_H-M P12_1/n1
+_space_group_IT_number 14
+_cell_length_a 6.643500
+_cell_length_b 6.841400
+_cell_length_c 6.328100
+_cell_angle_alpha 90.000000
+_cell_angle_beta 103.976000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Gd1 Gd 0.281500 0.155290 0.096950 1.000000
+P1 P 0.303100 0.161200 0.613100 1.000000
+O1 O 0.253900 0.001300 0.438500 1.000000
+O2 O 0.383700 0.334600 0.502400 1.000000
+O3 O 0.472900 0.101600 0.812600 1.000000
+O4 O 0.118700 0.213800 0.713100 1.000000

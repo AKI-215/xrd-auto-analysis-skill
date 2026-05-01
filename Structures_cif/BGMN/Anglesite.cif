@@ -1,0 +1,24 @@
+data_Anglesite
+_chemical_name_common Anglesite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 8.482000
+_cell_length_b 5.398000
+_cell_length_c 6.959000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1 Pb 0.188000 0.000000 0.168000 1.000000
+S1 S 0.063000 0.000000 0.684000 1.000000
+O1 O 0.910000 0.000000 0.595000 1.000000
+O2 O 0.185000 0.000000 0.540000 1.000000
+O3 O 0.077000 0.025000 0.813000 1.000000

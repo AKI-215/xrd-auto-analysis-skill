@@ -1,0 +1,24 @@
+data_NiOxalateHydrate
+_chemical_name_common NiOxalateHydrate
+_chemical_formula_sum 'Ni C2 O6 H4'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 11.774800
+_cell_length_b 5.332800
+_cell_length_c 9.832600
+_cell_angle_alpha 90.000000
+_cell_angle_beta 127.210000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 0.000000 0.175000 0.250000 1.000000
+C1 C 0.037000 0.674000 0.335000 1.000000
+O1 O 0.085000 0.471000 0.420000 1.000000
+O2 O 0.085000 0.877000 0.420000 1.000000
+O3 O 0.172000 0.174000 0.250000 1.000000

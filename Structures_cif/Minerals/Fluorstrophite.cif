@@ -1,0 +1,33 @@
+data_Fluorstrophite
+_chemical_name_common Fluorstrophite
+_chemical_formula_sum 'Sr3.65 Ca1.35 ( P O4 )3 F'
+_symmetry_space_group_name_H-M P6_3
+_space_group_IT_number 173
+_cell_length_a 9.565000
+_cell_length_b 9.565000
+_cell_length_c 7.115000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.488600 0.152800 0.747000 1.000000
+O2 O 0.535600 0.121200 0.230000 1.000000
+F1 F 0.000000 0.000000 0.286000 1.000000
+Sr1 Sr 0.333330 0.666660 0.000000 1.000000
+O3 O 0.329000 0.257000 0.091000 1.000000
+Sr2 Sr 0.238800 0.985300 0.259100 1.000000
+O4 O 0.356000 0.264000 0.434000 1.000000
+Ca1 Ca 0.333330 0.666660 0.504900 1.000000
+P1 P 0.400500 0.370800 0.263000 1.000000
+Ca2 Ca 0.333330 0.666660 0.000000 1.000000
+Ca3 Ca 0.238800 0.985300 0.259100 1.000000
+Sr3 Sr 0.333330 0.666660 0.504900 1.000000
+
+# Reference: 04-009-1806

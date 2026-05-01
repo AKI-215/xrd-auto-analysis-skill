@@ -1,0 +1,25 @@
+data_Montmorillonite
+_chemical_name_common Montmorillonite
+_chemical_formula_sum 'Al2 Si4 O12 Ca.5'
+_symmetry_space_group_name_H-M P1
+_space_group_IT_number 1
+_cell_length_a 5.180000
+_cell_length_b 8.980000
+_cell_length_c 15.000000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.375300 0.167000 0.221400 1.000000
+Ca1 Ca 0.689300 0.500000 0.721500 1.000000
+O1 O 0.178400 0.309000 0.294100 1.000000
+Si1 Si 0.191900 0.671000 0.399900 1.000000
+
+# Reference: amcsd_0002868

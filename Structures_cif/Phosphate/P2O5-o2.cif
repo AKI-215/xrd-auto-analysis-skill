@@ -1,0 +1,27 @@
+data_P2O5ortho2
+_chemical_name_common P2O5ortho2
+_chemical_formula_sum 'P2 O5'
+_symmetry_space_group_name_H-M P2_1/n2_1/a2_1/m
+_space_group_IT_number 62
+_cell_length_a 9.230000
+_cell_length_b 7.180000
+_cell_length_c 4.940000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 0.244000 0.288000 0.250000 1.000000
+P2 P -0.098000 -0.156000 0.250000 1.000000
+O1 O -0.219000 -0.011000 0.250000 1.000000
+O2 O -0.142000 0.346000 0.250000 1.000000
+O3 O 0.055000 -0.089000 0.250000 1.000000
+O4 O 0.136000 0.282000 0.000000 1.000000
+
+# Reference: PDF-04-005-4669

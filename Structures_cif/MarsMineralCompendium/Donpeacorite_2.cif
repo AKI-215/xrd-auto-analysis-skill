@@ -1,0 +1,36 @@
+data_Donpeacorite
+_chemical_name_common Donpeacorite
+_chemical_formula_sum 'Mg1.433 Mn.541 Ti.002 Ca.024 Si1.997 Al.003 O6'
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 18.366800
+_cell_length_b 8.872500
+_cell_length_c 5.228900
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.474940 0.337940 0.795570 0.003100
+Si1 Si 0.474940 0.337940 0.795570 0.996900
+Ca1 Ca 0.377620 0.479890 0.368520 0.024500
+Mg1 Mg 0.377620 0.479890 0.368520 0.444300
+Mn1 Mn 0.377620 0.479890 0.368520 0.531200
+Mg2 Mg 0.375300 0.654080 0.872300 0.988200
+Mn2 Mn 0.375300 0.654080 0.872300 0.010300
+Ti1 Ti 0.375300 0.654080 0.872300 0.001500
+O1 O 0.183220 0.338350 0.040920 1.000000
+O2 O 0.563050 0.338500 0.797520 1.000000
+O3 O 0.309740 0.501960 0.045480 1.000000
+O4 O 0.435290 0.487600 0.701730 1.000000
+O5 O 0.302220 0.229330 0.821660 1.000000
+O6 O 0.447580 0.203990 0.591390 1.000000
+Si2 Si 0.271020 0.341200 0.047630 1.000000
+
+# Reference: amcsd_0003667

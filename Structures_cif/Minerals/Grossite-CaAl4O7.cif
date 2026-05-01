@@ -1,0 +1,28 @@
+data_CalciumAluminumOxide
+_chemical_name_common CalciumAluminumOxide
+_chemical_formula_sum 'Ca Al4 O7'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 12.839800
+_cell_length_b 8.862400
+_cell_length_c 5.431100
+_cell_angle_alpha 90.000000
+_cell_angle_beta 106.830000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.809100 0.250000 1.000000
+O1 O 0.000000 0.523100 0.250000 1.000000
+Al1 Al 0.164100 0.086700 0.303000 1.000000
+Al2 Al 0.119800 0.440600 0.241000 1.000000
+O2 O 0.115500 0.051200 0.565900 1.000000
+O3 O 0.118500 0.255300 0.149100 1.000000
+O4 O 0.192400 0.443600 0.579700 1.000000
+
+# Reference: 04-007-8974

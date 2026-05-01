@@ -1,0 +1,28 @@
+data_CuHydroxyapatite
+_chemical_name_common CuHydroxyapatite
+_chemical_formula_sum 'Ca5 Cu0.27 (PO4)3 O0.54 (OH)0.32'
+_symmetry_space_group_name_H-M P6_3/m
+_space_group_IT_number 176
+_cell_length_a 9.430000
+_cell_length_b 9.430000
+_cell_length_c 6.907000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.000000 0.001500 1.000000
+Ca2 Ca 0.006950 0.254480 0.000000 1.000000
+Cu1 Cu 0.000000 0.000000 0.000000 1.000000
+P1 P 0.399140 0.368710 0.000000 1.000000
+O1 O 0.329200 0.484800 0.000000 1.000000
+O2 O 0.588400 0.465900 0.000000 1.000000
+O3 O 0.347100 0.260000 0.069500 1.000000
+O4 O 0.000000 0.000000 0.217000 1.000000
+O5 O 0.000000 0.000000 0.217000 1.000000

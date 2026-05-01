@@ -1,0 +1,26 @@
+data_Diopside_Fe0_26
+_chemical_name_common Diopside_Fe0.26
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 9.773000
+_cell_length_b 8.952000
+_cell_length_c 5.252000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 105.700000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 0.000000 0.908000 0.000000 0.740000
+Fe1 Fe 0.000000 0.908000 0.000000 0.260000
+Ca1 Ca 0.000000 0.300000 0.000000 1.000000
+Si1 Si 0.287300 0.093200 0.232300 1.000000
+O1 O 0.116900 0.091200 0.145300 1.000000
+O2 O 0.362300 0.248800 0.322700 1.000000
+O3 O 0.350500 0.017800 0.998000 1.000000

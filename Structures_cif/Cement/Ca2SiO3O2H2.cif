@@ -1,0 +1,32 @@
+data_Ca2SiO3O2H2
+_chemical_name_common Ca2SiO3O2H2
+_chemical_formula_sum 'Ca2 (SiO3) (OH)2'
+_symmetry_space_group_name_H-M Cmc2_1
+_space_group_IT_number 1
+_cell_length_a 3.639000
+_cell_length_b 16.311000
+_cell_length_c 11.829000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.783600 0.564000 1.000000
+Ca2 Ca 0.000000 0.100800 0.452100 1.000000
+Ca3 Ca 0.000000 0.451000 0.688800 1.000000
+Si1 Si 0.430000 0.086300 0.898100 1.000000
+Si2 Si 0.000000 0.127300 0.713400 1.000000
+O1 O 0.000000 0.690900 0.418800 1.000000
+O2 O 0.000000 0.374100 0.519800 1.000000
+O3 O 0.000000 0.036300 0.638000 1.000000
+O4 O 0.000000 0.203600 0.625100 1.000000
+O5 O 0.000000 0.511000 0.387700 1.000000
+O6 O 0.000000 0.863000 0.736100 1.000000
+O7 O 0.364000 0.132800 0.795000 1.000000
+O8 O 0.000000 0.890000 0.373000 1.000000

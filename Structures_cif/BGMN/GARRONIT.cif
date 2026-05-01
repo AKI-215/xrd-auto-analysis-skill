@@ -1,0 +1,33 @@
+data_Garronite
+_chemical_name_common Garronite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M I-4m2
+_space_group_IT_number 119
+_cell_length_a 9.927000
+_cell_length_b 9.927000
+_cell_length_c 10.303000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.339300 0.000000 0.000000 0.375000
+Si1 Si 0.339300 0.000000 0.000000 0.625000
+Al2 Al 0.657900 0.000000 0.000000 0.375000
+Si2 Si 0.657900 0.000000 0.000000 0.625000
+O1 O 0.825400 0.000000 0.535100 1.000000
+O2 O 0.692200 0.000000 0.219200 1.000000
+O3 O 0.292200 0.248800 0.124400 1.000000
+Ca1 Ca 0.648000 0.000000 0.906000 1.000000
+Ca2 Ca 0.762000 0.000000 0.893000 1.000000
+Na1 Na 0.719000 0.000000 0.777000 1.000000
+O4 O 0.000000 0.000000 0.841000 1.000000
+O5 O 0.895000 0.000000 0.000000 1.000000
+O6 O 0.161000 0.433000 0.234000 1.000000
+O7 O 0.827000 0.000000 0.019000 1.000000

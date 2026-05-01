@@ -1,0 +1,23 @@
+data_PbOtetragonal
+_chemical_name_common PbOtetragonal
+_chemical_formula_sum 'O Pb'
+_symmetry_space_group_name_H-M P4/n2_1/m2/m
+_space_group_IT_number 129
+_cell_length_a 3.972000
+_cell_length_b 3.972000
+_cell_length_c 5.018000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.000000 0.000000 0.000000 1.000000
+Pb1 Pb 0.000000 0.500000 0.233000 1.000000
+
+# Reference: cod_1537982

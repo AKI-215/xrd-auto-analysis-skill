@@ -1,0 +1,31 @@
+data_NaPerchlorate
+_chemical_name_common NaPerchlorate
+_chemical_formula_sum 'Cl H2 Na O5'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 15.542200
+_cell_length_b 5.539900
+_cell_length_c 11.045500
+_cell_angle_alpha 90.000000
+_cell_angle_beta 110.666000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 0.125410 0.977360 0.193320 1.000000
+H1 H 0.380000 0.020000 0.003000 1.000000
+H2 H 0.364000 0.153000 0.047000 1.000000
+Na1 Na 0.000000 0.466260 0.250000 1.000000
+Na2 Na 0.250000 0.250000 0.500000 1.000000
+O1 O 0.194000 0.988370 0.135410 1.000000
+O2 O 0.374670 0.023920 0.051000 1.000000
+O3 O 0.066210 0.179570 0.150870 1.000000
+O4 O 0.167330 0.983750 0.331310 1.000000
+O5 O 0.075370 0.756800 0.157100 1.000000
+
+# Reference: 04-010-2904

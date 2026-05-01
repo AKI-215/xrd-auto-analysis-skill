@@ -1,0 +1,19 @@
+data_TRIS_HCl
+_chemical_name_common TRIS-HCl
+_chemical_formula_sum 'C4H11NO3 HCl'
+_symmetry_space_group_name_H-M I12/m1
+_space_group_IT_number 12
+_cell_length_a 12.032000
+_cell_length_b 7.570000
+_cell_length_c 9.330000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 105.260000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy

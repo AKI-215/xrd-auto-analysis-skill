@@ -1,0 +1,30 @@
+data_Sanidine_Na75
+_chemical_name_common Sanidine_Na75
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.314000
+_cell_length_b 12.972000
+_cell_length_c 7.150000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.100000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.008100 0.179200 0.223600 0.250000
+Si1 Si 0.008100 0.179200 0.223600 0.750000
+Al2 Al 0.696700 0.116400 0.342200 0.250000
+Si2 Si 0.696700 0.116400 0.342200 0.750000
+Na1 Na 0.722000 0.000000 0.862800 0.750000
+K1 K 0.722000 0.000000 0.862800 0.250000
+O1 O 0.000000 0.860900 0.000000 1.000000
+O2 O 0.391600 0.000000 0.715800 1.000000
+O3 O 0.823000 0.136100 0.224200 1.000000
+O4 O 0.025600 0.304400 0.252800 1.000000
+O5 O 0.187700 0.124100 0.406300 1.000000

@@ -1,0 +1,25 @@
+data_Jarosite
+_chemical_name_common Jarosite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 7.304000
+_cell_length_b 7.304000
+_cell_length_c 17.268000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.000000 0.000000 0.000000 1.000000
+S1 S 0.000000 0.000000 0.691600 1.000000
+Fe1 Fe 0.000000 0.000000 0.000000 1.000000
+O1 O 0.000000 0.000000 0.606600 1.000000
+O2 O 0.115300 0.230700 0.721000 1.000000
+O3 O 0.208600 0.417300 0.531600 1.000000

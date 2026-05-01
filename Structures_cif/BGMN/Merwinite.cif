@@ -1,0 +1,33 @@
+data_Merwinite
+_chemical_name_common Merwinite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P12_1/a1
+_space_group_IT_number 14
+_cell_length_a 13.254000
+_cell_length_b 5.293000
+_cell_length_c 9.328000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 91.900000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.256300 0.178900 0.223400 1.000000
+Ca2 Ca 0.081100 0.227100 -0.075300 1.000000
+Ca3 Ca 0.097800 0.733300 0.425400 1.000000
+Mg1 Mg 0.004300 0.256600 0.253500 1.000000
+Si1 Si 0.132600 0.229300 0.600800 1.000000
+Si2 Si 0.141200 0.728000 0.093100 1.000000
+O1 O 0.074000 0.212300 0.445000 1.000000
+O2 O 0.063200 0.419300 0.693700 1.000000
+O3 O 0.125300 -0.047500 0.677300 1.000000
+O4 O 0.241400 0.361800 0.594000 1.000000
+O5 O 0.076800 0.706400 -0.059100 1.000000
+O6 O 0.254800 0.813000 0.068300 1.000000
+O7 O 0.126600 0.472600 0.185300 1.000000
+O8 O 0.083200 -0.042400 0.175100 1.000000

@@ -1,0 +1,11 @@
+PHASE=StrontiumChlorideHydrate // 04-010-0166
+Reference=04-010-0166 //
+Formula=Sr_Cl2_(_H2_O_) //
+SpacegroupNo=62 HermannMauguin=P2_1/n2_1/m2_1/a Setting=1 Lattice=Orthorhombic //
+PARAM=A=1.088100_1.077219^1.098981 PARAM=B=0.416200_0.412038^0.420362 PARAM=C=0.886400_0.877536^0.895264 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:StrontiumChlorideHydrate=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=SR Wyckoff=c x=0.187700 y=0.250000 z=0.103320 TDS=0.014820
+E=CL Wyckoff=c x=0.399900 y=0.250000 z=0.384600 TDS=0.013762
+E=CL Wyckoff=c x=0.376800 y=0.250000 z=0.832100 TDS=0.012894
+E=O Wyckoff=c x=0.161300 y=0.250000 z=0.602700 TDS=0.016841

@@ -1,0 +1,11 @@
+PHASE=DiytterbiumdiiridateIV // ICSD35850
+Reference=ICSD35850 //
+Formula=Ir2_O6.97_Yb2 //
+SpacegroupNo=227 HermannMauguin=F4_1/d-32/m Setting=2 OriginChoice=2 Lattice=Cubic //
+PARAM=A=1.010400_1.000296^1.020504 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:DiytterbiumdiiridateIV=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=YB Wyckoff=d x=0.500000 y=0.500000 z=0.500000 TDS=0.010000
+E=IR Wyckoff=c x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=O Wyckoff=b x=0.375000 y=0.375000 z=0.375000 TDS=0.010000
+E=O Wyckoff=f x=0.340000 y=0.125000 z=0.125000 TDS=0.010000

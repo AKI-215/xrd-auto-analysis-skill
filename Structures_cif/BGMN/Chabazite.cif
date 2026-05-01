@@ -1,0 +1,30 @@
+data_Chabazite
+_chemical_name_common Chabazite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 13.879000
+_cell_length_b 13.879000
+_cell_length_c 15.029000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Si1 Si 0.666600 0.562200 0.437800 0.666700
+Al1 Al 0.666600 0.562200 0.437800 0.333300
+O1 O 0.736000 0.000000 0.000000 1.000000
+O2 O 0.347000 0.000000 0.000000 1.000000
+O3 O 0.547700 0.000000 0.199300 1.000000
+O4 O 0.432700 0.000000 0.541300 1.000000
+O5 O 0.443000 0.000000 0.313000 1.000000
+O6 O 0.000000 0.000000 0.000000 1.000000
+O7 O 0.000000 0.000000 0.806000 1.000000
+O8 O 0.000000 0.000000 0.584000 1.000000
+Ca1 Ca 0.878300 0.900700 0.475700 1.000000

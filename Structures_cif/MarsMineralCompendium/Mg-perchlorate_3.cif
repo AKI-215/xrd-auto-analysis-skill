@@ -1,0 +1,28 @@
+data_MgPerchlorate
+_chemical_name_common MgPerchlorate
+_chemical_formula_sum 'Cl2 H4 Mg O10'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 14.387800
+_cell_length_b 5.218600
+_cell_length_c 5.438000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 108.199000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 0.625780 0.000000 0.830430 1.000000
+H1 H 0.671870 0.626170 0.437660 1.000000
+Mg1 Mg 0.000000 0.000000 0.500000 1.000000
+O1 O 0.881670 0.000000 0.648370 1.000000
+O2 O 0.320430 0.000000 0.890000 1.000000
+O3 O 0.057620 0.250000 0.793170 1.000000
+O4 O 0.312650 0.000000 0.345250 1.000000
+
+# Reference: 04-016-8495

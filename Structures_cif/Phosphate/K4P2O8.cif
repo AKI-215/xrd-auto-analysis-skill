@@ -1,0 +1,28 @@
+data_K4P2O8
+_chemical_name_common K4P2O8
+_chemical_formula_sum 'K4 ( P2 O8 )'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 5.904100
+_cell_length_b 10.254000
+_cell_length_c 7.356000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 99.050000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.764080 0.732310 0.025860 1.000000
+K2 K 0.747840 0.084450 0.173100 1.000000
+P1 P 0.722550 0.424470 0.218830 1.000000
+O1 O 0.609100 0.462200 0.000000 1.000000
+O2 O 0.543600 0.346000 0.293800 1.000000
+O3 O 0.927500 0.349300 0.182600 1.000000
+O4 O 0.772600 0.552400 0.317400 1.000000
+
+# Reference: 04-016-5816

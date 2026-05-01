@@ -1,0 +1,30 @@
+data_Sanidine_Na16
+_chemical_name_common Sanidine_Na16
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.531000
+_cell_length_b 13.007000
+_cell_length_c 7.179000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.719300 0.000000 0.863700 0.831000
+Na1 Na 0.719300 0.000000 0.863700 0.169000
+Si1 Si 0.008500 0.181900 0.223500 0.720000
+Al1 Al 0.008500 0.181900 0.223500 0.280000
+Si2 Si 0.702300 0.116900 0.343600 0.780000
+Al2 Al 0.702300 0.116900 0.343600 0.220000
+O1 O 0.000000 0.857100 0.000000 1.000000
+O2 O 0.377500 0.000000 0.714900 1.000000
+O3 O 0.826200 0.140600 0.226200 1.000000
+O4 O 0.027700 0.307200 0.254700 1.000000
+O5 O 0.184400 0.125200 0.404900 1.000000

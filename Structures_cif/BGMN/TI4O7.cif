@@ -1,0 +1,30 @@
+data_Ti4O7
+_chemical_name_common Ti4O7
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M I-1
+_space_group_IT_number 2
+_cell_length_a 5.597000
+_cell_length_b 7.125000
+_cell_length_c 20.429000
+_cell_angle_alpha 67.700000
+_cell_angle_beta 57.200000
+_cell_angle_gamma 108.800000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti1 Ti 0.020100 0.020300 0.066200 1.000000
+Ti2 Ti 0.084300 0.039700 0.201300 1.000000
+Ti3 Ti 0.027800 0.527200 0.062800 1.000000
+Ti4 Ti 0.080000 0.537800 0.201100 1.000000
+O1 O 0.911900 0.660700 0.139000 1.000000
+O2 O 0.062300 0.332400 0.015300 1.000000
+O3 O 0.034100 0.316500 0.164200 1.000000
+O4 O 0.611500 0.833500 0.081400 1.000000
+O5 O 0.623800 0.842800 0.223800 1.000000
+O6 O 0.413800 0.176800 0.057800 1.000000
+O7 O 0.442300 0.172900 0.198400 1.000000

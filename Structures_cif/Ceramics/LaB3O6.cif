@@ -1,0 +1,31 @@
+data_BoronLanthanumOxide
+_chemical_name_common BoronLanthanumOxide
+_chemical_formula_sum 'La B3 O6'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 4.242700
+_cell_length_b 11.721700
+_cell_length_c 7.304000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 91.150000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+La1 La 0.220030 0.375510 0.881530 1.000000
+B1 B 0.689500 0.378000 0.571900 1.000000
+B2 B 0.804500 0.593700 0.626500 1.000000
+B3 B 0.677200 0.334100 0.211100 1.000000
+O1 O 0.847100 0.373100 0.389000 1.000000
+O2 O 0.792500 0.475800 0.681600 1.000000
+O3 O 0.349600 0.378600 0.546100 1.000000
+O4 O 0.748000 0.410000 0.061800 1.000000
+O5 O 0.781200 0.283900 0.691900 1.000000
+O6 O 0.667400 0.668300 0.764500 1.000000
+
+# Reference: 04-014-1237

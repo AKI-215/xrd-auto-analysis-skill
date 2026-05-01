@@ -1,0 +1,24 @@
+data_Stannite_Zn
+_chemical_name_common Stannite_Zn
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M I-42m
+_space_group_IT_number 121
+_cell_length_a 5.449000
+_cell_length_b 5.449000
+_cell_length_c 10.757000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.000000 0.000000 0.000000 0.810000
+Zn1 Zn 0.000000 0.000000 0.000000 0.190000
+Sn1 Sn 0.000000 0.000000 0.000000 1.000000
+Cu1 Cu 0.000000 0.000000 0.000000 1.000000
+S1 S 0.744900 0.000000 0.370200 1.000000

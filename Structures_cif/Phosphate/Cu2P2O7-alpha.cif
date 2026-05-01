@@ -1,0 +1,27 @@
+data_Cu2P2O7
+_chemical_name_common Cu2P2O7
+_chemical_formula_sum 'Cu2 ( P2 O7 )'
+_symmetry_space_group_name_H-M A12/a1
+_space_group_IT_number 15
+_cell_length_a 9.164000
+_cell_length_b 8.113000
+_cell_length_c 6.895000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 109.620000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 0.507060 0.312880 0.981860 1.000000
+P1 P 0.205660 0.007500 0.197540 1.000000
+O1 O 0.250000 0.046600 0.000000 1.000000
+O2 O 0.361400 0.000200 0.375700 1.000000
+O3 O 0.112800 0.155900 0.220800 1.000000
+O4 O 0.117900 0.849200 0.178500 1.000000
+
+# Reference: 04-007-7311

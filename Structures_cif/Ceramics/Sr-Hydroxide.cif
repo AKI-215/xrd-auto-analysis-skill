@@ -1,0 +1,24 @@
+data_StrontiumHydroxide
+_chemical_name_common StrontiumHydroxide
+_chemical_formula_sum 'Sr ( O H )2'
+_symmetry_space_group_name_H-M P2_1/n2_1/a2_1/m
+_space_group_IT_number 62
+_cell_length_a 9.889000
+_cell_length_b 6.120200
+_cell_length_c 3.918400
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 0.161290 0.095920 0.250000 1.000000
+O1 O 0.395200 0.344200 0.250000 1.000000
+O2 O 0.369300 0.865100 0.250000 1.000000
+
+# Reference: 04-013-8832

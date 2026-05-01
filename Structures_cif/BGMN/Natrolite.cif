@@ -1,0 +1,31 @@
+data_Natrolite
+_chemical_name_common Natrolite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M Fdd2
+_space_group_IT_number 43
+_cell_length_a 18.300000
+_cell_length_b 18.630000
+_cell_length_c 6.600000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 0.221600 0.031100 0.615800 1.000000
+Al1 Al 0.037300 0.094400 0.612000 1.000000
+Si1 Si 0.000000 0.000000 1.000000 1.000000
+Si2 Si 0.154200 0.211100 0.622000 1.000000
+O1 O 0.023000 0.068300 0.859500 1.000000
+O2 O 0.070300 0.182100 0.595400 1.000000
+O3 O 0.098000 0.035100 0.496700 1.000000
+O4 O 0.206600 0.153000 0.721900 1.000000
+O5 O 0.180400 0.227500 0.382800 1.000000
+O6 O 0.056200 0.189400 0.104500 1.000000
+H1 H 0.051300 0.144300 0.028200 1.000000
+H2 H 0.101200 0.188300 0.174000 1.000000

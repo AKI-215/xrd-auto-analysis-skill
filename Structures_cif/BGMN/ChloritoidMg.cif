@@ -1,0 +1,33 @@
+data_Chloritoidmg
+_chemical_name_common Chloritoidmg
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 9.460000
+_cell_length_b 5.471000
+_cell_length_c 18.182000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 101.400000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.000000 0.000000 0.000000 1.000000
+Al2 Al 0.000000 0.402500 0.000000 1.000000
+Mg1 Mg 0.084000 0.745800 0.000900 0.650000
+Fe1 Fe 0.084000 0.745800 0.000900 0.350000
+Al3 Al 0.249900 0.653600 0.248900 1.000000
+Si1 Si 0.464000 0.403000 0.155900 1.000000
+O1 O 0.114600 0.392700 0.052900 1.000000
+O2 O 0.264600 0.944700 0.050000 1.000000
+O3 O 0.426700 0.397700 0.063600 1.000000
+O4 O 0.394500 0.158900 0.188200 1.000000
+O5 O 0.394900 0.647900 0.187300 1.000000
+O6 O 0.139300 0.903700 0.187000 1.000000
+O7 O 0.148500 0.401600 0.201600 1.000000
+H1 H 0.137000 0.404000 0.112000 1.000000

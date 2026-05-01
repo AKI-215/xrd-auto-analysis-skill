@@ -1,0 +1,22 @@
+data_Brookite
+_chemical_name_common Brookite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 9.174000
+_cell_length_b 5.449000
+_cell_length_c 5.138000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti1 Ti 0.128900 0.097200 0.862800 1.000000
+O1 O 0.009500 0.149100 0.183500 1.000000
+O2 O 0.231400 0.111000 0.536600 1.000000

@@ -1,0 +1,30 @@
+data_Sanidine_Na35
+_chemical_name_common Sanidine_Na35
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.451000
+_cell_length_b 12.997000
+_cell_length_c 7.179000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.100000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.284400 0.000000 0.138300 0.650000
+Na1 Na 0.284400 0.000000 0.138300 0.350000
+Si1 Si 0.009100 0.183400 0.223600 0.730000
+Al1 Al 0.009100 0.183400 0.223600 0.270000
+Si2 Si 0.706900 0.117700 0.343100 0.770000
+Al2 Al 0.706900 0.117700 0.343100 0.230000
+O1 O 0.000000 0.144300 0.000000 1.000000
+O2 O 0.630800 0.000000 0.283200 1.000000
+O3 O 0.827000 0.144800 0.225500 1.000000
+O4 O 0.032700 0.309200 0.256800 1.000000
+O5 O 0.181400 0.125600 0.404900 1.000000

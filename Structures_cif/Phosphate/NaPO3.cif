@@ -1,0 +1,29 @@
+data_NaPO3
+_chemical_name_common NaPO3
+_chemical_formula_sum 'Na P O3'
+_symmetry_space_group_name_H-M P12_1/n1
+_space_group_IT_number 14
+_cell_length_a 12.120000
+_cell_length_b 6.200000
+_cell_length_c 6.990000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 92.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 0.006000 0.379000 0.764000 1.000000
+P1 P 0.215000 0.362000 0.489000 1.000000
+O1 O 0.217000 0.231000 0.286000 1.000000
+O2 O 0.042000 0.290000 0.087000 1.000000
+O3 O 0.056000 0.978000 0.314000 1.000000
+O4 O 0.228000 0.215000 0.654000 1.000000
+Na2 Na 0.130000 0.870000 0.629000 1.000000
+P2 P 0.111000 0.125000 0.182000 1.000000
+O5 O 0.120000 0.512000 0.499000 1.000000
+O6 O 0.173000 0.987000 0.021000 1.000000

@@ -1,0 +1,25 @@
+data_Nahcolite
+_chemical_name_common Nahcolite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 3.510000
+_cell_length_b 9.710000
+_cell_length_c 8.050000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 111.800000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 0.428500 0.004400 -0.285500 1.000000
+C1 C 0.212300 0.238400 -0.076700 1.000000
+O1 O 0.189300 0.366600 -0.071400 1.000000
+O2 O -0.010400 0.161900 -0.204600 1.000000
+O3 O 0.495900 0.170500 0.059200 1.000000
+H1 H 0.669000 0.252000 0.143000 1.000000

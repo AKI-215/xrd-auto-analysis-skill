@@ -1,0 +1,10 @@
+PHASE=AluminumOxideHydroxide // 04-010-5683
+Reference=04-010-5683 //
+Formula=Al_O_(_O_H_) //
+SpacegroupNo=63 HermannMauguin=C2/m2/c2_1/m Setting=1 Lattice=Orthorhombic //
+PARAM=A=0.287350_0.284476^0.290224 PARAM=B=1.223440_1.211206^1.235674 PARAM=C=0.370070_0.366369^0.373771 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:AluminumOxideHydroxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=AL Wyckoff=c x=0.000000 y=0.683500 z=0.250000 TDS=0.010000
+E=O Wyckoff=c x=0.000000 y=0.289100 z=0.250000 TDS=0.010000
+E=O Wyckoff=c x=0.000000 y=0.077500 z=0.250000 TDS=0.010000

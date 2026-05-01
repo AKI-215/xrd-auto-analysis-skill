@@ -1,0 +1,26 @@
+data_FLUORAPATITE
+_chemical_name_common FLUORAPATITE
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P6_3/m
+_space_group_IT_number 176
+_cell_length_a 9.367000
+_cell_length_b 9.367000
+_cell_length_c 6.884000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.000000 0.498900 1.000000
+Ca2 Ca 0.765500 0.758400 0.000000 1.000000
+P1 P 0.970700 0.601900 0.000000 1.000000
+O1 O 0.158100 0.673800 0.000000 1.000000
+O2 O 0.878800 0.412000 0.000000 1.000000
+O3 O 0.341600 0.256800 0.070400 1.000000
+F1 F 0.000000 0.000000 0.000000 1.000000

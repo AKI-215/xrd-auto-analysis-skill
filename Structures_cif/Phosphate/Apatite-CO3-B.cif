@@ -1,0 +1,33 @@
+data_CO3ApatiteB
+_chemical_name_common CO3ApatiteB
+_chemical_formula_sum 'Ca5 ( P O4 )2.7 ( C O3 )0.8 ( O H )0.3'
+_symmetry_space_group_name_H-M P6_3/m
+_space_group_IT_number 176
+_cell_length_a 9.471600
+_cell_length_b 9.471600
+_cell_length_c 6.896800
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.666660 0.333330 0.002100 1.000000
+Ca2 Ca 0.989400 0.248900 0.250000 1.000000
+P1 P 0.371400 0.401600 0.250000 1.000000
+O1 O 0.484700 0.330300 0.250000 1.000000
+O2 O 0.466200 0.585800 0.250000 1.000000
+O3 O 0.259500 0.344100 0.075200 1.000000
+O4 O 0.000000 0.000000 0.220000 1.000000
+C1 C 0.000000 0.000000 0.000000 1.000000
+O5 O 0.041000 0.010000 0.657000 1.000000
+O6 O 0.939000 0.115000 0.552000 1.000000
+O7 O 0.940000 0.040000 0.450000 1.000000
+O8 O 0.337000 0.410000 0.470000 1.000000
+
+# Reference: 04-016-7498

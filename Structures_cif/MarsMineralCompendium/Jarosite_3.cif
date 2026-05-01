@@ -1,0 +1,29 @@
+data_Jarosite
+_chemical_name_common Jarosite
+_chemical_formula_sum 'K (Fe2.79 Al.21) S2 O14 H6'
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 7.291300
+_cell_length_b 7.291300
+_cell_length_c 17.174400
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.500000 0.000000 0.500000 0.070000
+Fe1 Fe 0.500000 0.000000 0.500000 0.930000
+H1 H 0.188000 0.812000 0.112000 1.000000
+K1 K 0.000000 0.000000 0.000000 1.000000
+O1 O 0.000000 0.000000 0.606500 1.000000
+O2 O 0.222870 0.777130 0.945970 1.000000
+O3 O 0.127130 0.872870 0.135530 1.000000
+S1 S 0.000000 0.000000 0.308620 1.000000
+
+# Reference: amcsd_0020094

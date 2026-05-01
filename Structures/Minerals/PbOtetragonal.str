@@ -1,0 +1,9 @@
+PHASE=PbOtetragonal // cod_1537982
+Reference=cod_1537982 //
+Formula=O_Pb //
+SpacegroupNo=129 HermannMauguin=P4/n2_1/m2/m Setting=1 OriginChoice=1 UniqueAxis=c Lattice=Tetragonal //
+PARAM=A=0.397200_0.393228^0.401172 PARAM=C=0.501800_0.496782^0.506818 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:PbOtetragonal=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=O Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=PB Wyckoff=c x=0.000000 y=0.500000 z=0.233000 TDS=0.010000

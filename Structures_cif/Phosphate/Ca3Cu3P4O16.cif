@@ -1,0 +1,35 @@
+data_Ca3Cu3P4O16
+_chemical_name_common Ca3Cu3P4O16
+_chemical_formula_sum 'Ca3 Cu3 ( P O4 )4'
+_symmetry_space_group_name_H-M P12_1/a1
+_space_group_IT_number 14
+_cell_length_a 17.619000
+_cell_length_b 4.899500
+_cell_length_c 8.917000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 124.080000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 0.000000 0.000000 0.000000 1.000000
+Cu2 Cu 0.119900 0.475400 0.943100 1.000000
+Ca1 Ca 0.500000 0.000000 0.500000 1.000000
+Ca2 Ca 0.264500 0.462100 0.724400 1.000000
+P1 P 0.593900 0.991700 0.249800 1.000000
+P2 P 0.840600 0.014800 0.215800 1.000000
+O1 O 0.679900 0.905400 0.423400 1.000000
+O2 O 0.008700 0.549600 0.253100 1.000000
+O3 O 0.600100 0.288300 0.199300 1.000000
+O4 O 0.582400 0.807400 0.093500 1.000000
+O5 O 0.898300 0.855100 0.388800 1.000000
+O6 O 0.854300 0.927500 0.066000 1.000000
+O7 O 0.357100 0.173300 0.245800 1.000000
+O8 O 0.739900 0.962000 0.152900 1.000000
+
+# Reference: 04-010-4372

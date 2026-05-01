@@ -1,0 +1,26 @@
+data_Svanbergite
+_chemical_name_common Svanbergite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 6.991000
+_cell_length_b 6.991000
+_cell_length_c 16.568000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 0.000000 0.000000 0.000000 1.000000
+P1 P 0.000000 0.000000 0.690600 0.500000
+S1 S 0.000000 0.000000 0.690600 0.500000
+Al1 Al 0.000000 0.000000 0.000000 1.000000
+O1 O 0.000000 0.000000 0.600600 1.000000
+O2 O 0.115500 0.000000 0.722700 1.000000
+O3 O 0.208400 0.000000 0.531000 1.000000

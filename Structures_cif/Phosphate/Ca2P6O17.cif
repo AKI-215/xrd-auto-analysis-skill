@@ -1,0 +1,35 @@
+data_Ca2P6O17
+_chemical_name_common Ca2P6O17
+_chemical_formula_sum 'Ca2 P6 O17'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 5.753000
+_cell_length_b 18.265000
+_cell_length_c 7.625000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 111.120000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.093380 0.426850 0.855020 1.000000
+P1 P -0.315890 0.320490 0.022120 1.000000
+P2 P -0.516810 0.470230 0.306130 1.000000
+P3 P -0.275030 0.332680 0.419150 1.000000
+O1 O -0.200400 0.312960 0.248200 1.000000
+O2 O -0.510400 0.383660 0.346500 1.000000
+O3 O -0.066300 0.362700 0.574700 1.000000
+O4 O -0.398500 0.236780 -0.034000 1.000000
+O5 O 0.453700 0.363330 0.965400 1.000000
+O6 O -0.109500 0.339410 0.960300 1.000000
+O7 O 0.231500 0.486410 1.166900 1.000000
+O8 O 0.295600 0.511900 0.744400 1.000000
+O9 O -0.293000 0.501600 0.314900 1.000000
+O10 O -0.553300 0.492100 0.502200 1.000000
+
+# Reference: 04-011-2512

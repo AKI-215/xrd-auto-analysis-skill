@@ -1,0 +1,31 @@
+data_FerrosiliteFe
+_chemical_name_common FerrosiliteFe
+_chemical_formula_sum 'Fe O3 Si'
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 18.418000
+_cell_length_b 9.078000
+_cell_length_c 5.236600
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.375730 0.654150 0.874600 1.000000
+Fe2 Fe 0.377660 0.485670 0.366700 1.000000
+O1 O 0.184800 0.339600 0.038700 1.000000
+O2 O 0.311800 0.496400 0.058200 1.000000
+O3 O 0.302500 0.236300 0.816300 1.000000
+O4 O 0.561000 0.336500 0.786800 1.000000
+O5 O 0.433200 0.480600 0.693200 1.000000
+O6 O 0.447600 0.202800 0.586500 1.000000
+Si1 Si 0.272290 0.338700 0.049300 1.000000
+Si2 Si 0.473100 0.334480 0.789100 1.000000
+
+# Reference: cod_9000476

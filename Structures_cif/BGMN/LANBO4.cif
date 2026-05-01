@@ -1,0 +1,23 @@
+data_LaNbO4
+_chemical_name_common LaNbO4
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 7.884000
+_cell_length_b 11.523000
+_cell_length_c 5.203000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 135.267000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+La1 La 0.000000 0.629400 0.000000 1.000000
+Nb1 Nb 0.000000 0.104100 0.000000 1.000000
+O1 O 0.236900 0.033500 0.289500 1.000000
+O2 O 0.147600 0.204200 0.635800 1.000000

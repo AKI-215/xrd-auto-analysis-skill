@@ -1,0 +1,30 @@
+data_Fe3Si2O5OH4
+_chemical_name_common Fe3Si2O5OH4
+_chemical_formula_sum 'Fe3 Si2 O5 ( O H )4'
+_symmetry_space_group_name_H-M P31m
+_space_group_IT_number 157
+_cell_length_a 5.494000
+_cell_length_b 5.494000
+_cell_length_c 7.090000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.665300 0.000000 0.500000 1.000000
+Si1 Si 0.333330 0.666660 0.102000 1.000000
+Fe2 Fe 0.333330 0.666660 0.102000 1.000000
+O1 O 0.443200 0.000000 0.023400 1.000000
+O2 O 0.000000 0.000000 0.351000 1.000000
+O3 O 0.331800 0.000000 0.639100 1.000000
+O4 O 0.333330 0.666660 0.345800 1.000000
+H1 H 0.000000 0.000000 0.223000 1.000000
+H2 H 0.348000 0.000000 0.745000 1.000000
+
+# Reference: 04-013-2660

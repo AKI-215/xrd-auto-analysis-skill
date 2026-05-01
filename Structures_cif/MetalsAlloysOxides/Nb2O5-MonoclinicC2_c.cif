@@ -1,0 +1,25 @@
+data_NiobiumOxide
+_chemical_name_common NiobiumOxide
+_chemical_formula_sum 'Nb2 O5'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 12.740000
+_cell_length_b 4.883000
+_cell_length_c 5.561000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 105.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Nb1 Nb 0.359800 0.258740 0.251200 1.000000
+O1 O 0.000000 0.896500 0.250000 1.000000
+O2 O 0.891200 0.557900 0.529100 1.000000
+O3 O 0.205500 0.072300 0.125600 1.000000
+
+# Reference: 00-068-0148

@@ -1,0 +1,31 @@
+data_Ammoniumsulphate
+_chemical_name_common Ammoniumsulphate
+_chemical_formula_sum '(NH4)2 (SO4)'
+_symmetry_space_group_name_H-M P2_1/n2_1/a2_1/m
+_space_group_IT_number 62
+_cell_length_a 7.782000
+_cell_length_b 10.636000
+_cell_length_c 5.993000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 0.689500 0.402500 0.250000 1.000000
+N2 N 0.967700 0.705000 0.250000 1.000000
+H1 H 0.810000 0.372000 0.250000 1.000000
+H2 H 0.600000 0.343000 0.250000 1.000000
+H3 H 0.676000 0.457000 0.122000 1.000000
+H4 H 0.069000 0.649000 0.250000 1.000000
+H5 H 0.991000 0.792000 0.250000 1.000000
+H6 H 0.893000 0.682000 0.124000 1.000000
+S1 S 0.244000 0.419200 0.250000 1.000000
+O1 O 0.061200 0.388700 0.250000 1.000000
+O2 O 0.270100 0.555900 0.250000 1.000000
+O3 O 0.323900 0.366500 0.048800 1.000000

@@ -1,0 +1,31 @@
+data_PARAGONITE_2M
+_chemical_name_common PARAGONITE_2M
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 5.135000
+_cell_length_b 8.894000
+_cell_length_c 19.365000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 94.200000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.257000 0.413000 0.000000 1.000000
+Si1 Si 0.946000 0.421000 0.140600 0.745000
+Al2 Al 0.946000 0.421000 0.140600 0.255000
+Si2 Si 0.441000 0.252000 0.139600 0.745000
+Al3 Al 0.441000 0.252000 0.139600 0.255000
+Na1 Na 0.000000 0.093000 0.000000 1.000000
+O1 O 0.940000 0.072000 0.053700 1.000000
+O2 O 0.958000 0.436000 0.056600 1.000000
+O3 O 0.396000 0.245000 0.054700 1.000000
+O4 O 0.753000 0.294000 0.168000 1.000000
+O5 O 0.258000 0.386000 0.173800 1.000000
+O6 O 0.373000 0.093000 0.174800 1.000000

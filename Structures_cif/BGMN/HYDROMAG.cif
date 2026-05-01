@@ -1,0 +1,29 @@
+data_Hydromagnesite
+_chemical_name_common Hydromagnesite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C2/m2/c2_1/a
+_space_group_IT_number 64
+_cell_length_a 8.384000
+_cell_length_b 18.371000
+_cell_length_c 8.961000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 0.182500 0.172600 0.066800 1.000000
+Mg2 Mg 0.000000 0.000000 0.000000 1.000000
+C1 C 0.000000 0.543600 0.000000 1.000000
+C2 C 0.000000 0.763700 0.670800 1.000000
+O1 O 0.000000 0.613300 0.523000 1.000000
+O2 O 0.169400 0.379900 0.098200 1.000000
+O3 O 0.177900 0.005200 0.151500 1.000000
+O4 O 0.000000 0.610900 0.000000 1.000000
+O5 O 0.000000 0.785200 0.804000 1.000000
+O6 O 0.364600 0.247900 0.103900 1.000000

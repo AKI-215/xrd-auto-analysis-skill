@@ -1,0 +1,25 @@
+data_AlPO4
+_chemical_name_common AlPO4
+_chemical_formula_sum 'Al ( P O4 )'
+_symmetry_space_group_name_H-M P3_121
+_space_group_IT_number 152
+_cell_length_a 4.937000
+_cell_length_b 4.937000
+_cell_length_c 10.943000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.416000 0.292100 0.397700 1.000000
+P1 P 0.466600 0.000000 0.833330 1.000000
+O2 O 0.417000 0.257800 0.884200 1.000000
+Al1 Al 0.466200 0.000000 0.333330 1.000000
+
+# Reference: 04-009-5761

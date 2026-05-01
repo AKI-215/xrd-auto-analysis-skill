@@ -1,0 +1,26 @@
+data_Berthierite
+_chemical_name_common Berthierite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 11.401000
+_cell_length_b 3.758000
+_cell_length_c 14.148000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.816600 0.000000 0.834800 1.000000
+Sb1 Sb 0.644600 0.000000 0.563000 1.000000
+Sb2 Sb 0.961200 0.000000 0.385500 1.000000
+S1 S 0.804500 0.000000 0.270200 1.000000
+S2 S 0.922000 0.000000 0.684200 1.000000
+S3 S 0.723600 0.000000 0.994500 1.000000
+S4 S 0.549400 0.000000 0.404600 1.000000

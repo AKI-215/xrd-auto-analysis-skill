@@ -1,0 +1,12 @@
+PHASE=Sodiumironhexacyanoferratehydrate // ICSD15560
+Reference=ICSD15560 //
+Formula=C6_Fe2_N6_Na1.88 //
+SpacegroupNo=148 HermannMauguin=R-3 Setting=1 UniqueAxis=c Lattice=Trigonal //
+PARAM=A=0.654310_0.647767^0.660853 PARAM=C=1.882900_1.864071^1.901729 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:Sodiumironhexacyanoferratehydrate=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=FE Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.013423
+E=FE Wyckoff=b x=0.000000 y=0.000000 z=0.500000 TDS=0.013423
+E=C Wyckoff=f x=0.243000 y=0.250000 z=0.056600 TDS=0.009870
+E=N Wyckoff=f x=0.297000 y=0.394000 z=0.102400 TDS=0.009870
+E=NA(0.9400) Wyckoff=c x=0.000000 y=0.000000 z=0.199700 TDS=0.049743

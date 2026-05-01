@@ -1,0 +1,23 @@
+data_MoNi
+_chemical_name_common MoNi
+_chemical_formula_sum 'Mo0.5 Ni0.5'
+_symmetry_space_group_name_H-M P6_3/m2/m2/c
+_space_group_IT_number 194
+_cell_length_a 2.540000
+_cell_length_b 2.540000
+_cell_length_c 4.180000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 0.333330 0.666660 0.250000 1.000000
+Mo1 Mo 0.333330 0.666660 0.250000 1.000000
+
+# Reference: 04-002-1276

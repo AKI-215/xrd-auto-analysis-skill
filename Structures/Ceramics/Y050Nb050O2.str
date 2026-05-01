@@ -1,0 +1,9 @@
+PHASE=YttriumNiobiumOxide // 04-002-8258
+Reference=04-002-8258 //
+Formula=Y0.5_Nb0.5_O2 //
+SpacegroupNo=137 HermannMauguin=P4_2/n2_1/m2/c Setting=2 OriginChoice=2 UniqueAxis=c Lattice=Tetragonal //
+PARAM=A=0.366300_0.362637^0.369963 PARAM=C=0.545500_0.540045^0.550955 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:YttriumNiobiumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=(Y(0.5000),NB(0.5000)) Wyckoff=a x=0.750000 y=0.250000 z=0.750000 TDS=0.010000
+E=O Wyckoff=d x=0.250000 y=0.250000 z=0.424000 TDS=0.010000

@@ -1,0 +1,36 @@
+data_Sr8Ca25P7O28
+_chemical_name_common Sr8Ca25P7O28
+_chemical_formula_sum 'Sr8 Ca2.5 ( P O4 )7'
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 10.701500
+_cell_length_b 10.701500
+_cell_length_c 19.578700
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 0.189850 0.810150 0.535950 0.838000
+Ca1 Ca 0.189850 0.810150 0.535950 0.162000
+Sr2 Sr 0.487200 0.512800 0.007100 0.220000
+Ca2 Ca 0.487200 0.512800 0.007100 0.030000
+Sr3 Sr 0.462800 0.537200 0.012800 0.220000
+Ca3 Ca 0.462800 0.537200 0.012800 0.030000
+Sr4 Sr 0.000000 0.000000 0.350400 0.165000
+Ca4 Ca 0.000000 0.000000 0.350400 0.085000
+Ca5 Ca 0.000000 0.000000 0.000000 1.000000
+P1 P 0.000000 0.000000 0.500000 1.000000
+P2 P 0.490560 0.509440 0.399910 1.000000
+O1 O 0.895000 0.031000 0.538100 1.000000
+O2 O 0.531700 0.468300 0.676300 1.000000
+O3 O 0.257300 0.007500 0.233900 1.000000
+O4 O 0.907700 0.092300 0.076400 1.000000
+
+# Reference: 04-017-0583

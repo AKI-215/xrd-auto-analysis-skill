@@ -1,0 +1,27 @@
+data_betaLi3PO4
+_chemical_name_common betaLi3PO4
+_chemical_formula_sum 'Li3 P O4'
+_symmetry_space_group_name_H-M Pmn2_1
+_space_group_IT_number 31
+_cell_length_a 6.119000
+_cell_length_b 5.238000
+_cell_length_c 4.882000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li1 Li 0.252200 0.174200 0.491900 1.000000
+Li2 Li 0.000000 0.653300 0.500500 1.000000
+P1 P 0.000000 0.327700 0.000000 1.000000
+O1 O 0.243500 0.164600 0.119900 1.000000
+O2 O 0.000000 0.322500 0.641100 1.000000
+O3 O 0.000000 0.647400 0.125500 1.000000
+
+# Reference: 04-006-9491

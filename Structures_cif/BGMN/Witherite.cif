@@ -1,0 +1,23 @@
+data_Witherite
+_chemical_name_common Witherite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 6.428000
+_cell_length_b 5.313000
+_cell_length_c 8.896000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba1 Ba 0.254900 0.000000 0.083700 1.000000
+C1 C 0.419000 0.000000 0.743000 1.000000
+O1 O 0.412200 0.000000 0.598900 1.000000
+O2 O 0.921000 0.459500 0.683900 1.000000

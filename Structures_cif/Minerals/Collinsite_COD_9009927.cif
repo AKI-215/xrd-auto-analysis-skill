@@ -1,0 +1,31 @@
+data_Collinsite
+_chemical_name_common Collinsite
+_chemical_formula_sum 'Ca2 H4 Mg O10 P2'
+_symmetry_space_group_name_H-M P-1
+_space_group_IT_number 2
+_cell_length_a 5.734400
+_cell_length_b 6.780000
+_cell_length_c 5.441300
+_cell_angle_alpha 97.290000
+_cell_angle_beta 108.560000
+_cell_angle_gamma 107.280000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 0.000000 0.000000 0.000000 1.000000
+Ca1 Ca 0.303100 0.759000 0.654400 1.000000
+P1 P 0.333600 0.243600 0.663300 1.000000
+O1 O 0.331900 0.127600 0.890500 1.000000
+O2 O 0.254900 0.072000 0.402800 1.000000
+O3 O 0.154700 0.374000 0.633400 1.000000
+O4 O 0.618500 0.386400 0.721200 1.000000
+O5 O 0.948900 0.277600 0.068500 1.000000
+H1 H 0.120000 0.390000 0.150000 1.000000
+H2 H 0.770000 0.280000 0.890000 1.000000
+
+# Reference: cod_9009927

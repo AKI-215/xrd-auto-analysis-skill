@@ -1,0 +1,29 @@
+data_Gorceixite
+_chemical_name_common Gorceixite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M R3m
+_space_group_IT_number 160
+_cell_length_a 7.036000
+_cell_length_b 7.036000
+_cell_length_c 17.282000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba1 Ba 0.000000 0.000000 1.000000 1.000000
+P1 P 0.000000 0.000000 0.299600 1.000000
+P2 P 0.000000 0.000000 0.698400 1.000000
+Al1 Al 0.163600 0.000000 0.831600 1.000000
+O1 O 0.000000 0.000000 0.392600 1.000000
+O2 O 0.000000 0.000000 0.612000 1.000000
+O3 O 0.882600 0.000000 0.272300 1.000000
+O4 O 0.451800 0.000000 0.396300 1.000000
+O5 O 0.798800 0.000000 0.473600 1.000000
+O6 O 0.546000 0.000000 0.194400 1.000000

@@ -1,0 +1,33 @@
+data_Cronstedtite2H2
+_chemical_name_common Cronstedtite2H2
+_chemical_formula_sum 'Fe3.7 Si1.3 O5 ( O H )4'
+_symmetry_space_group_name_H-M P6_3
+_space_group_IT_number 173
+_cell_length_a 5.500000
+_cell_length_b 5.500000
+_cell_length_c 14.163000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.333200 0.001600 0.400000 1.000000
+Fe2 Fe 0.333200 0.001600 0.400000 1.000000
+Fe3 Fe 0.000000 0.000000 0.202700 1.000000
+Si1 Si 0.000000 0.000000 0.202700 1.000000
+Si2 Si 0.666660 0.333330 0.199700 1.000000
+Fe4 Fe 0.666660 0.333330 0.199700 1.000000
+O1 O 0.327400 0.101900 0.165200 1.000000
+O2 O 0.000000 0.000000 0.325800 1.000000
+O3 O 0.666660 0.333330 0.326500 1.000000
+O4 O 0.333330 0.666660 0.327400 1.000000
+O5 O 0.333000 0.334000 0.472500 1.000000
+H1 H 0.360000 0.370000 0.536000 1.000000
+
+# Reference: 04-013-2826

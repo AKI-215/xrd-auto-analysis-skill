@@ -1,0 +1,31 @@
+data_Muscovite2M1
+_chemical_name_common Muscovite2M1
+_chemical_formula_sum 'Al1.94 Si3.86 K.86 (O12 H2)'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 5.176500
+_cell_length_b 8.987200
+_cell_length_c 20.072000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 95.756000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.251000 0.080000 0.998500 1.000000
+K1 K 0.000000 0.099000 0.250000 1.000000
+O1 O 0.037000 0.066000 0.453700 1.000000
+O2 O 0.375000 0.245000 0.053700 1.000000
+O3 O 0.042000 0.445000 0.446900 1.000000
+O4 O 0.410000 0.088000 0.167800 1.000000
+O5 O 0.244000 0.368000 0.168300 1.000000
+O6 O 0.249000 0.307000 0.344000 1.000000
+Si1 Si 0.449000 0.257000 0.134100 1.000000
+Si2 Si 0.033000 0.431000 0.365000 1.000000
+
+# Reference: amcsd_0005483

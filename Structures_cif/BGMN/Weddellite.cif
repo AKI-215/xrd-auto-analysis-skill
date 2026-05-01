@@ -1,0 +1,29 @@
+data_Weddellite
+_chemical_name_common Weddellite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M I4/m
+_space_group_IT_number 87
+_cell_length_a 12.371000
+_cell_length_b 12.371000
+_cell_length_c 7.357000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 0.446400 0.241500 0.105300 1.000000
+O1 O 0.356400 0.245800 0.182900 1.000000
+O2 O 0.235500 0.463400 0.179900 1.000000
+Ca1 Ca 0.301100 0.800700 0.000000 1.000000
+O3 O 0.114500 0.851000 0.000000 1.000000
+O4 O 0.384100 0.980800 0.000000 1.000000
+O5 O 0.000000 0.000000 0.317000 1.000000
+O6 O 0.000000 0.000000 0.760000 1.000000
+H1 H 0.166000 0.071000 0.105000 1.000000
+H2 H 0.350000 0.018000 0.115000 1.000000

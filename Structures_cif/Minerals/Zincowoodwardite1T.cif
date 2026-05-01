@@ -1,0 +1,27 @@
+data_Zincowoodwardite1T
+_chemical_name_common Zincowoodwardite1T
+_chemical_formula_sum 'Al0.375 H6 O2.686 S0.188 Zn0.625'
+_symmetry_space_group_name_H-M P-3
+_space_group_IT_number 147
+_cell_length_a 3.063000
+_cell_length_b 3.063000
+_cell_length_c 8.910000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.000000 0.000000 0.000000 0.375000
+Zn1 Zn 0.000000 0.000000 0.000000 0.625000
+O1 O 0.333333 0.666667 0.110000 1.000000
+O2 O 0.267300 0.732700 0.420000 1.000000
+S1 S 0.000000 0.000000 0.464000 1.000000
+O3 O 0.000000 0.000000 0.600000 1.000000
+
+# Reference: cod_9009407

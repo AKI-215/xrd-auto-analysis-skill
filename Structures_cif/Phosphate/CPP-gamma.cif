@@ -1,0 +1,32 @@
+data_gammaCa2P2O7
+_chemical_name_common gammaCa2P2O7
+_chemical_formula_sum 'Ca2 O7 P2'
+_symmetry_space_group_name_H-M P-1
+_space_group_IT_number 2
+_cell_length_a 6.666000
+_cell_length_b 6.722000
+_cell_length_c 6.737400
+_cell_angle_alpha 65.113000
+_cell_angle_beta 87.763400
+_cell_angle_gamma 85.075500
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.645300 0.116900 0.251100 1.000000
+Ca2 Ca 0.118700 0.745100 0.311800 1.000000
+P1 P 0.145600 0.239000 0.230900 1.000000
+P2 P 0.635800 0.642300 0.194200 1.000000
+O1 O 0.982700 0.138200 0.159200 1.000000
+O2 O 0.069800 0.396400 0.339100 1.000000
+O3 O 0.308200 0.052600 0.382400 1.000000
+O4 O 0.637400 0.409800 0.368000 1.000000
+O5 O 0.412200 0.751100 0.112300 1.000000
+O6 O 0.228000 0.214400 0.761700 1.000000
+O7 O 0.276700 0.402600 0.014000 1.000000
+
+# Reference: cod1570298

@@ -1,0 +1,26 @@
+data_Crandallite
+_chemical_name_common Crandallite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 7.006000
+_cell_length_b 7.006000
+_cell_length_c 16.192000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.956000 0.000000 0.000000 1.000000
+P1 P 0.000000 0.000000 0.686300 1.000000
+Al1 Al 0.000000 0.000000 0.000000 1.000000
+O1 O 0.000000 0.000000 0.592400 1.000000
+O2 O 0.119100 0.000000 0.719600 1.000000
+O3 O 0.209600 0.000000 0.531400 1.000000
+Ca2 Ca 0.951000 0.000000 0.000000 1.000000

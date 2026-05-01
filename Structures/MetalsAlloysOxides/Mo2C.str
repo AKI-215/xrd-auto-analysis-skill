@@ -1,0 +1,9 @@
+PHASE=MolybdenumCarbide // 04-003-0962
+Reference=04-003-0962 //
+Formula=Mo2_C //
+SpacegroupNo=60 HermannMauguin=P2_1/b2/c2_1/n Setting=1 Lattice=Orthorhombic //
+PARAM=A=0.472400_0.467676^0.477124 PARAM=B=0.600400_0.594396^0.606404 PARAM=C=0.519900_0.514701^0.525099 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:MolybdenumCarbide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=MO Wyckoff=d x=0.250000 y=0.125000 z=0.083000 TDS=0.010000
+E=C Wyckoff=c x=0.000000 y=0.375000 z=0.250000 TDS=0.010000

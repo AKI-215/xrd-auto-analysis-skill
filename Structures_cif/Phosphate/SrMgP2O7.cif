@@ -1,0 +1,32 @@
+data_SrMgP2O7
+_chemical_name_common SrMgP2O7
+_chemical_formula_sum 'Sr Mg ( P2 O7 )'
+_symmetry_space_group_name_H-M P12_1/n1
+_space_group_IT_number 14
+_cell_length_a 5.304600
+_cell_length_b 8.305300
+_cell_length_c 12.700000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.502000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 0.050950 0.870760 0.293040 1.000000
+O1 O 0.069300 0.158700 0.415600 1.000000
+O2 O 0.255400 0.141200 0.053900 1.000000
+O3 O 0.294900 0.130700 0.245400 1.000000
+P1 P 0.303770 0.314100 0.017070 1.000000
+O4 O 0.315100 0.421600 0.107100 1.000000
+Mg1 Mg 0.331900 0.663100 0.122600 1.000000
+P2 P 0.400290 0.059800 0.166790 1.000000
+O5 O 0.562900 0.313300 0.002200 1.000000
+O6 O 0.669100 0.390200 0.348600 1.000000
+O7 O 0.691500 0.097100 0.207100 1.000000
+
+# Reference: 01-070-9667

@@ -1,0 +1,32 @@
+data_Phengite_1M
+_chemical_name_common Phengite_1M
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 5.199000
+_cell_length_b 9.005000
+_cell_length_c 10.164000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 101.300000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.000000 0.000000 0.000000 0.800000
+Na1 Na 0.000000 0.000000 0.000000 0.020000
+Ca1 Ca 0.000000 0.000000 0.000000 0.010000
+Si1 Si 0.417200 0.670700 0.269800 0.853000
+Al1 Al 0.417200 0.670700 0.269800 0.147000
+Al2 Al 0.000000 0.666900 0.000000 0.830000
+Fe1 Fe 0.000000 0.666900 0.000000 0.040000
+Mg1 Mg 0.000000 0.666900 0.000000 0.150000
+O1 O 0.418900 0.000000 0.105300 1.000000
+O2 O 0.348100 0.691300 0.109700 1.000000
+O3 O 0.981400 0.000000 0.319900 1.000000
+O4 O 0.172200 0.727900 0.334600 1.000000
+H1 H 0.212000 0.000000 0.141000 1.000000

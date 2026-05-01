@@ -1,0 +1,14 @@
+PHASE=CalciumPhosphateHydroxideHydrateHydrogen // 01-073-2656
+Reference=01-073-2656 //
+Formula=Ca9.61_(_P_O4_)5.77_(_O_H_)2.29_(_(_H2_O_)1.01_H0.59_) //
+SpacegroupNo=176 HermannMauguin=P6_3/m Setting=1 UniqueAxis=c Lattice=Hexagonal //
+PARAM=A=0.947370_0.937896^0.956844 PARAM=C=0.688630_0.681744^0.695516 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:CalciumPhosphateHydroxideHydrateHydrogen=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=CA Wyckoff=f x=0.333333 y=0.666667 z=0.002200 TDS=0.010000
+E=CA(0.9350) Wyckoff=h x=0.247500 y=0.991800 z=0.250000 TDS=0.010000
+E=P(0.9620) Wyckoff=h x=0.398400 y=0.369700 z=0.250000 TDS=0.010000
+E=O(0.9830) Wyckoff=h x=0.332200 y=0.488500 z=0.250000 TDS=0.010000
+E=O Wyckoff=h x=0.579800 y=0.459900 z=0.250000 TDS=0.010000
+E=O(0.9880) Wyckoff=i x=0.342600 y=0.260300 z=0.070500 TDS=0.010000
+E=O(0.5730) Wyckoff=e x=0.000000 y=0.000000 z=0.184500 TDS=0.010000

@@ -1,0 +1,29 @@
+data_CalciumAluminumNitrateHydroxideHydrate
+_chemical_name_common CalciumAluminumNitrateHydroxideHydrate
+_chemical_formula_sum 'Ca2 Al ( N O3 ) ( O H )6 ( H2 O )'
+_symmetry_space_group_name_H-M R-32/c
+_space_group_IT_number 167
+_cell_length_a 5.731000
+_cell_length_b 5.731000
+_cell_length_c 48.320000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.000000 0.000000 0.000000 1.000000
+Ca1 Ca 0.000000 0.000000 0.677967 1.000000
+O1 O 0.055600 0.305400 0.020900 1.000000
+H1 H 0.070000 0.290000 0.040200 1.000000
+O2 O 0.000000 0.000000 0.728067 1.000000
+O3 O 0.530000 0.570000 0.083333 1.000000
+N1 N 0.622000 0.411000 0.083333 1.000000
+O4 O 0.110000 0.860000 0.088000 1.000000
+
+# Reference: 04-021-1843

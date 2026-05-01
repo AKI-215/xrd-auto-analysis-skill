@@ -1,0 +1,31 @@
+data_Sodium11aluminiumoxide
+_chemical_name_common Sodium11aluminiumoxide
+_chemical_formula_sum 'Al11 Na O17'
+_symmetry_space_group_name_H-M P6_3/m2/m2/c
+_space_group_IT_number 194
+_cell_length_a 5.584000
+_cell_length_b 5.584000
+_cell_length_c 22.450000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 0.333333 0.666667 0.750000 1.000000
+Al1 Al 0.000000 0.000000 0.000000 1.000000
+Al2 Al 0.333333 0.666667 0.022000 1.000000
+Al3 Al 0.833333 0.666667 0.106000 1.000000
+Al4 Al 0.333333 0.666667 0.178000 1.000000
+O1 O 0.166667 0.333333 0.050000 1.000000
+O2 O 0.333333 0.666667 0.550000 1.000000
+O3 O 0.000000 0.000000 0.144000 1.000000
+O4 O 0.500000 0.000000 0.144000 1.000000
+O5 O 0.333333 0.666667 0.250000 1.000000
+
+# Reference: cod1010017

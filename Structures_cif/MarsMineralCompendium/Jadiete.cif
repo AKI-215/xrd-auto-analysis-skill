@@ -1,0 +1,27 @@
+data_Jadeite
+_chemical_name_common Jadeite
+_chemical_formula_sum 'Na Al Si2 O6'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 9.418000
+_cell_length_b 8.562000
+_cell_length_c 5.219000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 107.580000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.000000 0.906000 0.250000 1.000000
+Na1 Na 0.000000 0.300900 0.250000 1.000000
+O1 O 0.109000 0.076300 0.127500 1.000000
+O2 O 0.360800 0.263000 0.292900 1.000000
+O3 O 0.353300 0.007000 0.005800 1.000000
+Si1 Si 0.290600 0.093400 0.227700 1.000000
+
+# Reference: amcsd_0000147

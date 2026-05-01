@@ -1,0 +1,12 @@
+PHASE=ChromiumCarbide // 04-007-5437
+Reference=04-007-5437 //
+Formula=Cr23_C6 //
+SpacegroupNo=225 HermannMauguin=F4/m-32/m Setting=1 Lattice=Cubic //
+PARAM=A=1.065000_1.054350^1.075650 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:ChromiumCarbide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=CR Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=CR Wyckoff=c x=0.250000 y=0.250000 z=0.250000 TDS=0.010000
+E=CR Wyckoff=h x=0.000000 y=0.169900 z=0.169900 TDS=0.010000
+E=CR Wyckoff=f x=0.380900 y=0.380900 z=0.380900 TDS=0.010000
+E=C Wyckoff=e x=0.276500 y=0.000000 z=0.000000 TDS=0.010000

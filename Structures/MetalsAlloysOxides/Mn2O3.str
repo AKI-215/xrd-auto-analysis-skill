@@ -1,0 +1,10 @@
+PHASE=ManganeseOxide // 04-005-4578
+Reference=04-005-4578 //
+Formula=Mn2_O3 //
+SpacegroupNo=206 HermannMauguin=I2_1/a-3 Setting=1 Lattice=Cubic //
+PARAM=A=0.949500_0.940005^0.958995 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:ManganeseOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=MN Wyckoff=b x=0.250000 y=0.250000 z=0.250000 TDS=0.010000
+E=MN Wyckoff=d x=0.965300 y=0.000000 z=0.250000 TDS=0.010000
+E=O Wyckoff=e x=0.378000 y=0.167000 z=0.397000 TDS=0.010000

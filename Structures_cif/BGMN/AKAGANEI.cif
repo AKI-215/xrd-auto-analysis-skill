@@ -1,0 +1,26 @@
+data_Akaganeite
+_chemical_name_common Akaganeite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 14.903000
+_cell_length_b 3.034000
+_cell_length_c 10.600000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 135.137000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.341000 0.000000 0.483000 1.000000
+Fe2 Fe 0.141000 0.000000 0.802000 1.000000
+O1 O 0.290000 0.000000 0.627000 1.000000
+O2 O 0.030000 0.000000 0.373000 1.000000
+O3 O 0.357000 0.000000 0.064000 1.000000
+O4 O 0.332000 0.000000 0.293000 1.000000
+Cl1 Cl 0.000000 0.000000 0.000000 1.000000

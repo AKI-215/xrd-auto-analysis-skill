@@ -1,0 +1,17 @@
+PHASE=SodiumAluminumOxide // 04-010-0578
+Reference=04-010-0578 //
+Formula=Na_Al11_O17 //
+SpacegroupNo=194 HermannMauguin=P6_3/m2/m2/c Setting=1 UniqueAxis=c Lattice=Hexagonal //
+PARAM=A=0.559620_0.554024^0.565216 PARAM=C=2.252600_2.230074^2.275126 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:SodiumAluminumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=AL Wyckoff=k x=0.166667 y=0.333333 z=0.606010 TDS=0.010000
+E=AL Wyckoff=f x=0.333333 y=0.666667 z=0.024800 TDS=0.010000
+E=AL Wyckoff=f x=0.333333 y=0.666667 z=0.175800 TDS=0.010000
+E=AL Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=O Wyckoff=k x=0.166667 y=0.333333 z=0.049500 TDS=0.010000
+E=O Wyckoff=k x=0.500000 y=0.000000 z=0.146300 TDS=0.010000
+E=O Wyckoff=f x=0.333333 y=0.666667 z=0.554000 TDS=0.010000
+E=O Wyckoff=e x=0.000000 y=0.000000 z=0.142100 TDS=0.010000
+E=O Wyckoff=c x=0.333333 y=0.666667 z=0.250000 TDS=0.010000
+E=NA(0.3500) Wyckoff=d x=0.333333 y=0.666667 z=0.750000 TDS=0.010000

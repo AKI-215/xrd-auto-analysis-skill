@@ -1,0 +1,24 @@
+data_Ce2O3cubic
+_chemical_name_common Ce2O3cubic
+_chemical_formula_sum 'Ce2 O3'
+_symmetry_space_group_name_H-M I2_1/a-3
+_space_group_IT_number 206
+_cell_length_a 11.410000
+_cell_length_b 11.410000
+_cell_length_c 11.410000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ce1 Ce 0.250000 0.250000 0.250000 1.000000
+Ce2 Ce 0.969900 0.000000 0.250000 1.000000
+O1 O 0.390300 0.149000 0.378400 1.000000
+
+# Reference: cod_1531470

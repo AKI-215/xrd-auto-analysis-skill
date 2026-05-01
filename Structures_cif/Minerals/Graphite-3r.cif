@@ -1,0 +1,20 @@
+data_Graphite_3R
+_chemical_name_common Graphite-3R
+_chemical_formula_sum C
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 2.461000
+_cell_length_b 2.461000
+_cell_length_c 10.060000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 0.000000 0.000000 0.166670 1.000000

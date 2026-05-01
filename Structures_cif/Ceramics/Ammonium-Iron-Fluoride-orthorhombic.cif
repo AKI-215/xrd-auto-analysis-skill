@@ -1,0 +1,30 @@
+data_AmmoniumIronFluorideOrtho
+_chemical_name_common AmmoniumIronFluorideOrtho
+_chemical_formula_sum '( N H4 )2 Fe F5'
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 6.337900
+_cell_length_b 7.616500
+_cell_length_c 11.030500
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+N1 N 0.428000 0.250000 0.195800 1.000000
+N2 N 0.510000 0.250000 0.858400 1.000000
+Fe1 Fe 0.000000 0.000000 0.000000 1.000000
+F1 F 0.088000 0.250000 0.008200 1.000000
+F2 F 0.227100 0.052100 0.436700 1.000000
+F3 F 0.105100 0.526500 0.159500 1.000000
+H1 H 0.426000 0.357300 0.872000 1.000000
+H2 H 0.640000 0.250000 0.900000 1.000000
+H3 H 0.550000 0.250000 0.766000 1.000000
+
+# Reference: 04-017-0762

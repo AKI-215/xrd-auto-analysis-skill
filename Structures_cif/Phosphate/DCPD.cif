@@ -1,0 +1,32 @@
+data_DCPD
+_chemical_name_common DCPD
+_chemical_formula_sum 'Ca H (PO4) (H2O)2'
+_symmetry_space_group_name_H-M I1a1
+_space_group_IT_number 9
+_cell_length_a 5.812000
+_cell_length_b 15.180000
+_cell_length_c 6.239000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.430000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.755900 0.326600 0.505900 1.000000
+P1 P 0.248500 0.322500 0.985700 1.000000
+O1 O 0.242300 0.367500 0.216300 1.000000
+O2 O 0.514300 0.282300 0.080100 1.000000
+O3 O 0.191800 0.392700 0.798400 1.000000
+O4 O 0.034600 0.253200 0.890900 1.000000
+O5 O 0.623300 0.426200 0.734300 1.000000
+O6 O 0.782300 0.447300 0.273800 1.000000
+H1 H 0.156800 0.329300 0.289700 1.000000
+H2 H 0.642700 0.489800 0.748200 1.000000
+H3 H 0.464700 0.412100 0.745200 1.000000
+H4 H 0.778500 0.509400 0.279400 1.000000
+H5 H 0.756000 0.433400 0.116700 1.000000

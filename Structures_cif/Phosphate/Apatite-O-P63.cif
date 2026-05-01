@@ -1,0 +1,30 @@
+data_CalciumOxidePhosphate
+_chemical_name_common CalciumOxidePhosphate
+_chemical_formula_sum 'Ca5 ( P O4 )3 O0.5'
+_symmetry_space_group_name_H-M P6_3
+_space_group_IT_number 173
+_cell_length_a 9.405210
+_cell_length_b 9.405210
+_cell_length_c 6.881270
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.333333 0.666667 0.025422 1.000000
+Ca2 Ca 0.333333 0.666667 0.521765 1.000000
+Ca3 Ca 0.244833 0.990128 0.266086 1.000000
+P1 P 0.396856 0.367997 0.268535 1.000000
+O1 O 0.328529 0.486929 0.279871 1.000000
+O2 O 0.585326 0.466809 0.255554 1.000000
+O3 O 0.349970 0.265028 0.067163 1.000000
+O4 O 0.673398 0.757733 0.929893 1.000000
+O5 O 0.000000 0.000000 0.337400 1.000000
+
+# Reference: 04-023-8826

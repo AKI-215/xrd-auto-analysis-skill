@@ -1,0 +1,23 @@
+data_PbOHCl_Laurionite
+_chemical_name_common PbOHCl_Laurionite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 7.111000
+_cell_length_b 4.020000
+_cell_length_c 9.699000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1 Pb 0.297400 0.000000 0.587700 1.000000
+O1 O 0.622300 0.000000 0.542200 1.000000
+Cl1 Cl 0.056400 0.000000 0.320200 1.000000
+H1 H 0.723000 0.000000 0.610000 1.000000

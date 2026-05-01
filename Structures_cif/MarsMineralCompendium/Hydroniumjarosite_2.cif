@@ -1,0 +1,29 @@
+data_Hydroniumjarosite
+_chemical_name_common Hydroniumjarosite
+_chemical_formula_sum 'K.1 H6.86 Fe3 S2 O14'
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 7.352100
+_cell_length_b 7.352100
+_cell_length_c 17.010800
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.500000 0.000000 0.500000 1.000000
+H1 H 0.186000 0.814000 0.125000 1.000000
+H2 H 0.000000 0.000000 0.000000 0.860000
+K1 K 0.000000 0.000000 0.000000 0.100000
+O1 O 0.000000 0.000000 0.395500 1.000000
+O2 O 0.225500 0.774500 0.942600 1.000000
+O3 O 0.126500 0.873500 0.135000 1.000000
+S1 S 0.000000 0.000000 0.309800 1.000000
+
+# Reference: amcsd_0004430

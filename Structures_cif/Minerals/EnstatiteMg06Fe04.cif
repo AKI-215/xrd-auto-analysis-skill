@@ -1,0 +1,33 @@
+data_EnstatiteMg06Fe04
+_chemical_name_common EnstatiteMg06Fe04
+_chemical_formula_sum 'Fe0.41 Mg0.59 O3 Si'
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 18.297400
+_cell_length_b 8.904000
+_cell_length_c 5.209200
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.375900 0.654700 0.872900 0.410000
+Mg1 Mg 0.375900 0.654700 0.872900 0.590000
+Fe2 Fe 0.378200 0.485200 0.365200 0.410000
+Mg2 Mg 0.378200 0.485200 0.365200 0.590000
+O1 O 0.182000 0.338500 0.039000 1.000000
+O2 O 0.563000 0.338200 0.798000 1.000000
+O3 O 0.308800 0.500200 0.050000 1.000000
+O4 O 0.432700 0.483900 0.692000 1.000000
+O5 O 0.301200 0.228000 0.821000 1.000000
+O6 O 0.448600 0.199500 0.596000 1.000000
+Si1 Si 0.271300 0.341300 0.053600 1.000000
+Si2 Si 0.474400 0.336300 0.794600 1.000000
+
+# Reference: cod_9006427

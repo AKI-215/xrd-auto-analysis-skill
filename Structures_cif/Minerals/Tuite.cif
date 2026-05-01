@@ -1,0 +1,24 @@
+data_Tuite
+_chemical_name_common Tuite
+_chemical_formula_sum 'Ca3 (PO4)2'
+_symmetry_space_group_name_H-M R-32/m
+_space_group_IT_number 166
+_cell_length_a 5.247898
+_cell_length_b 5.247898
+_cell_length_c 18.690996
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.000000 0.000000 1.000000
+Ca2 Ca 0.000000 0.000000 0.203500 1.000000
+P1 P 0.000000 0.000000 0.403000 1.000000
+O1 O 0.000000 0.000000 0.322300 1.000000
+O2 O 0.838800 0.161200 0.433800 1.000000

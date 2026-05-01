@@ -1,0 +1,30 @@
+data_Biotite
+_chemical_name_common Biotite
+_chemical_formula_sum 'Fe Mg2 K (Al Si3) O12'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 5.355000
+_cell_length_b 9.251000
+_cell_length_c 10.246000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 100.150000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.075200 0.166667 0.225600 0.250000
+Si1 Si 0.075200 0.166667 0.225600 0.750000
+Fe1 Fe 0.500000 0.500000 0.500000 1.000000
+K1 K 0.000000 0.500000 0.000000 1.000000
+Mg1 Mg 0.500000 0.834200 0.500000 1.000000
+O1 O 0.024100 0.000000 0.169400 1.000000
+O2 O 0.320300 0.235500 0.166800 1.000000
+O3 O 0.133000 0.167600 0.391600 1.000000
+O4 O 0.630400 0.000000 0.394900 1.000000
+
+# Reference: amcsd_0001296

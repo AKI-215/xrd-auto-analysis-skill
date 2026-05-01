@@ -1,0 +1,29 @@
+data_FORSTERITE
+_chemical_name_common FORSTERITE
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 10.209000
+_cell_length_b 5.986000
+_cell_length_c 4.754000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 0.000000 0.000000 0.000000 1.000000
+Fe1 Fe 0.000000 0.000000 0.000000 1.000000
+P1 P 0.000000 0.000000 0.000000 1.000000
+Mg2 Mg 0.777900 0.000000 0.510000 1.000000
+Fe2 Fe 0.777900 0.000000 0.510000 1.000000
+P2 P 0.777900 0.000000 0.510000 1.000000
+Si1 Si 0.594600 0.000000 0.073200 1.000000
+O1 O 0.591400 0.000000 0.734300 1.000000
+O2 O 0.947700 0.000000 0.280100 1.000000
+O3 O 0.163200 0.034500 0.279100 1.000000

@@ -1,0 +1,28 @@
+data_Sillimanite
+_chemical_name_common Sillimanite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 7.672000
+_cell_length_b 5.771000
+_cell_length_c 7.484000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.000000 0.000000 0.000000 1.000000
+Al2 Al 0.843300 0.000000 0.357200 0.910000
+Si1 Si 0.843300 0.000000 0.357200 0.090000
+Si2 Si 0.658800 0.000000 0.847600 0.910000
+Al3 Al 0.658800 0.000000 0.847600 0.090000
+O1 O 0.593100 0.000000 0.639300 1.000000
+O2 O 0.936100 0.000000 0.144600 1.000000
+O3 O 0.996500 0.000000 0.521700 1.000000
+O4 O 0.222200 0.513100 0.125600 1.000000

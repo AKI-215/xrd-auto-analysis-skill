@@ -1,0 +1,32 @@
+data_Mg2P2O7
+_chemical_name_common Mg2P2O7
+_chemical_formula_sum 'Mg2 ( P2 O7 )'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 6.944300
+_cell_length_b 8.286100
+_cell_length_c 9.043800
+_cell_angle_alpha 90.000000
+_cell_angle_beta 113.816000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 0.350400 0.058400 0.023300 1.000000
+Mg2 Mg 0.116200 0.929800 0.005600 1.000000
+P1 P 0.471300 0.732700 0.210600 1.000000
+P2 P 0.235900 0.274000 0.200800 1.000000
+O1 O 0.125900 0.333800 0.226100 1.000000
+O2 O 0.187000 0.735500 0.141100 1.000000
+O3 O 0.438800 0.238500 0.140000 1.000000
+O4 O 0.223800 0.107300 0.119700 1.000000
+O5 O 0.489000 0.592200 0.105600 1.000000
+O6 O 0.258400 0.408800 0.105400 1.000000
+O7 O 0.443600 0.888000 0.128800 1.000000
+
+# Reference: 01-079-8259

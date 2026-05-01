@@ -1,0 +1,28 @@
+data_Gypsum
+_chemical_name_common Gypsum
+_chemical_formula_sum 'Ca S O6 H4'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 6.284000
+_cell_length_b 15.200000
+_cell_length_c 6.523000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 127.410000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.420440 0.250000 1.000000
+H1 H 0.749000 0.162000 0.251000 1.000000
+H2 H 0.584000 0.235000 0.073000 1.000000
+O1 O 0.037200 0.131980 0.587200 1.000000
+O2 O 0.242400 0.022110 0.909200 1.000000
+O3 O 0.620200 0.181970 0.078400 1.000000
+S1 S 0.000000 0.922760 0.250000 1.000000
+
+# Reference: amcsd_0011093
