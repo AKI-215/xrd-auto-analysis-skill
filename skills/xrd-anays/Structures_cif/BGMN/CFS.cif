@@ -1,0 +1,25 @@
+data_CFS_Kirschsteinite
+_chemical_name_common CFS_Kirschsteinite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 11.159000
+_cell_length_b 6.441000
+_cell_length_c 4.875000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.000000 0.000000 0.000000 1.000000
+Ca1 Ca 0.276800 0.000000 0.977500 1.000000
+Si1 Si 0.081600 0.000000 0.411000 1.000000
+O1 O 0.077700 0.000000 0.745700 1.000000
+O2 O 0.449000 0.000000 0.246000 1.000000
+O3 O 0.147500 0.045700 0.273300 1.000000

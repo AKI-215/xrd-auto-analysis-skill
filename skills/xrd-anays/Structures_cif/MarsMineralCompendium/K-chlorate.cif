@@ -1,0 +1,25 @@
+data_KchlorateV
+_chemical_name_common KchlorateV
+_chemical_formula_sum 'Cl K O3'
+_symmetry_space_group_name_H-M P12_1/m1
+_space_group_IT_number 11
+_cell_length_a 4.656900
+_cell_length_b 5.590890
+_cell_length_c 7.099100
+_cell_angle_alpha 90.000000
+_cell_angle_beta 109.648000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 0.878400 0.750000 0.824400 1.000000
+K1 K 0.646300 0.750000 0.290900 1.000000
+O1 O 0.146500 0.461400 0.305000 1.000000
+O2 O 0.603600 0.750000 0.884800 1.000000
+
+# Reference: 00-014-0544

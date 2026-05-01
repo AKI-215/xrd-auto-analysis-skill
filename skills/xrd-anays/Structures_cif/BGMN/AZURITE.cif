@@ -1,0 +1,27 @@
+data_Azurite
+_chemical_name_common Azurite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 5.011000
+_cell_length_b 5.848000
+_cell_length_c 10.345000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 92.400000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 0.000000 0.000000 0.000000 1.000000
+Cu2 Cu 0.250200 0.498600 0.083400 1.000000
+C1 C 0.328900 0.299900 0.318300 1.000000
+O1 O 0.103600 0.399500 0.331600 1.000000
+O2 O 0.450100 0.208000 0.417300 1.000000
+O3 O 0.431300 0.296000 0.207400 1.000000
+O4 O 0.072700 0.811500 0.445300 1.000000
+H1 H 0.180200 0.800500 0.369400 1.000000

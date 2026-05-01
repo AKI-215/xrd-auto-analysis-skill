@@ -1,0 +1,32 @@
+data_StrontiumHydroxide8Hydrate
+_chemical_name_common StrontiumHydroxide8Hydrate
+_chemical_formula_sum 'Sr ( O H )2 ( H2 O )8'
+_symmetry_space_group_name_H-M P4/n2_1/c2/c
+_space_group_IT_number 130
+_cell_length_a 9.017000
+_cell_length_b 9.017000
+_cell_length_c 11.602600
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 0.250000 0.750000 0.250000 1.000000
+O1 O 0.028400 0.656400 0.125600 1.000000
+O2 O 0.026900 0.845900 0.375800 1.000000
+O3 O 0.750000 0.750000 0.595900 1.000000
+O4 O 0.750000 0.750000 0.343600 1.000000
+H1 H 0.944900 0.686200 0.122700 1.000000
+H2 H 0.946100 0.811600 0.366100 1.000000
+H3 H 0.038900 0.842800 0.444000 1.000000
+H4 H 0.750000 0.750000 0.531700 1.000000
+H5 H 0.750000 0.750000 0.279400 1.000000
+H6 H 0.020600 0.568100 0.122700 1.000000
+
+# Reference: 04-014-9422

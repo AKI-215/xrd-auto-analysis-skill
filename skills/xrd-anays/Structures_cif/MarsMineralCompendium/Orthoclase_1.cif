@@ -1,0 +1,31 @@
+data_Orthoclase
+_chemical_name_common Orthoclase
+_chemical_formula_sum 'K (Si3 Al) O8'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.554000
+_cell_length_b 12.970000
+_cell_length_c 7.207000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.010000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.009400 0.184300 0.224700 0.390000
+Si1 Si 0.009400 0.184300 0.224700 0.610000
+Al2 Al 0.707900 0.117600 0.344300 0.110000
+Si2 Si 0.707900 0.117600 0.344300 0.890000
+K1 K 0.283500 0.000000 0.136900 1.000000
+O1 O 0.000000 0.144800 0.000000 1.000000
+O2 O 0.635400 0.000000 0.284000 1.000000
+O3 O 0.827600 0.144800 0.227700 1.000000
+O4 O 0.035100 0.311600 0.259000 1.000000
+O5 O 0.181800 0.125400 0.407500 1.000000
+
+# Reference: amcsd_0000166

@@ -1,0 +1,11 @@
+PHASE=YttriumIronOxide // 01-079-2435
+Reference=01-079-2435 //
+Formula=Y_Fe2_O4 //
+SpacegroupNo=166 HermannMauguin=R-32/m Setting=1 UniqueAxis=c Lattice=Trigonal //
+PARAM=A=0.351360_0.347846^0.354874 PARAM=C=2.477810_2.453032^2.502588 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:YttriumIronOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=Y Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.017371
+E=FE Wyckoff=c x=0.000000 y=0.000000 z=0.214140 TDS=0.010588
+E=O Wyckoff=c x=0.000000 y=0.000000 z=0.292000 TDS=0.009396
+E=O Wyckoff=c x=0.000000 y=0.000000 z=0.127900 TDS=0.023805

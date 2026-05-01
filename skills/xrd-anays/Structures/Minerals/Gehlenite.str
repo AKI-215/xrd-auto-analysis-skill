@@ -1,0 +1,13 @@
+PHASE=Gehlenite // cod_1000048
+Reference=cod_1000048 //
+Formula=Al2_Ca2_O7_Si //
+SpacegroupNo=113 HermannMauguin=P-42_1m Setting=1 UniqueAxis=c Lattice=Tetragonal //
+PARAM=A=0.768500_0.760815^0.776185 PARAM=C=0.506360_0.501296^0.511424 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:Gehlenite=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=CA+2 Wyckoff=e x=0.161100 y=0.661100 z=0.489600 TDS=0.014767
+E=AL+3 Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.007067
+E=(SI+4(0.5000),AL+3(0.5000)) Wyckoff=e x=0.356600 y=0.856600 z=0.046000 TDS=0.004000
+E=O-2 Wyckoff=c x=0.000000 y=0.500000 z=0.823500 TDS=0.009533
+E=O-2 Wyckoff=e x=0.357300 y=0.857300 z=0.716500 TDS=0.011300
+E=O-2 Wyckoff=f x=0.087600 y=0.167800 z=0.807800 TDS=0.010667

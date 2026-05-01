@@ -1,0 +1,13 @@
+PHASE=SodiumCalciumSilicate // 00-024-1069
+Reference=00-024-1069 //
+Formula=Na2_Ca_Si_O4 //
+SpacegroupNo=198 HermannMauguin=P2_13 Setting=1 Lattice=Cubic //
+PARAM=A=0.748000_0.740520^0.755480 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:SodiumCalciumSilicate=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=CA Wyckoff=a x=0.993100 y=0.993100 z=0.993100 TDS=0.010000
+E=SI Wyckoff=a x=0.253000 y=0.253000 z=0.253000 TDS=0.010000
+E=NA Wyckoff=a x=0.500000 y=0.500000 z=0.500000 TDS=0.010000
+E=NA Wyckoff=a x=0.750000 y=0.750000 z=0.750000 TDS=0.010000
+E=O Wyckoff=a x=0.133000 y=0.133000 z=0.133000 TDS=0.010000
+E=O Wyckoff=b x=0.556000 y=0.667000 z=0.222000 TDS=0.010000

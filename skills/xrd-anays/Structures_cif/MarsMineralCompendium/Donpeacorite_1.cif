@@ -1,0 +1,31 @@
+data_Donpeacorite
+_chemical_name_common Donpeacorite
+_chemical_formula_sum 'Mg1.47 Mn.53 Si2 O6'
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 18.384000
+_cell_length_b 8.878000
+_cell_length_c 5.226000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1 Mg 0.375100 0.654300 0.872100 1.000000
+Mg2 Mg 0.377600 0.480100 0.368400 0.470000
+Mn1 Mn 0.377600 0.480100 0.368400 0.530000
+O1 O 0.183300 0.337900 0.040700 1.000000
+O2 O 0.563200 0.340200 0.798100 1.000000
+O3 O 0.309900 0.502200 0.046700 1.000000
+O4 O 0.447500 0.205000 0.590200 1.000000
+O5 O 0.301700 0.229200 0.822200 1.000000
+Si1 Si 0.271200 0.341300 0.048400 1.000000
+Si2 Si 0.474900 0.338200 0.794900 1.000000
+
+# Reference: amcsd_0000937

@@ -1,0 +1,32 @@
+data_Todorokite
+_chemical_name_common Todorokite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P12/m1
+_space_group_IT_number 10
+_cell_length_a 9.764000
+_cell_length_b 2.842000
+_cell_length_c 9.551000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 94.100000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1 Mn 0.000000 0.000000 0.000000 1.000000
+Mn2 Mn 0.236000 0.000000 0.998000 1.000000
+Mn3 Mn 0.000000 0.000000 0.000000 1.000000
+Mn4 Mn 0.026000 0.000000 0.235000 1.000000
+O1 O 0.822000 0.000000 0.881000 1.000000
+O2 O 0.582000 0.000000 0.921000 1.000000
+O3 O 0.335000 0.000000 0.910000 1.000000
+O4 O 0.083000 0.000000 0.850000 1.000000
+O5 O 0.087000 0.000000 0.593000 1.000000
+O6 O 0.120000 0.000000 0.351000 1.000000
+O7 O 0.637000 0.000000 0.647000 1.000000
+O8 O 0.304000 0.000000 0.620000 1.000000
+O9 O 0.000000 0.000000 0.000000 1.000000

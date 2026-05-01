@@ -1,0 +1,25 @@
+data_DiytterbiumdiiridateIV
+_chemical_name_common DiytterbiumdiiridateIV
+_chemical_formula_sum 'Ir2 O6.97 Yb2'
+_symmetry_space_group_name_H-M F4_1/d-32/m
+_space_group_IT_number 227
+_cell_length_a 10.104000
+_cell_length_b 10.104000
+_cell_length_c 10.104000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Yb1 Yb 0.500000 0.500000 0.500000 1.000000
+Ir1 Ir 0.000000 0.000000 0.000000 1.000000
+O1 O 0.375000 0.375000 0.375000 1.000000
+O2 O 0.340000 0.125000 0.125000 1.000000
+
+# Reference: ICSD35850

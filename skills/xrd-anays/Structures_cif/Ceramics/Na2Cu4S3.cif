@@ -1,0 +1,30 @@
+data_Na2Cu4S3
+_chemical_name_common Na2Cu4S3
+_chemical_formula_sum 'Na2 Cu4 S3'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 15.630000
+_cell_length_b 3.860000
+_cell_length_c 10.330000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 107.600000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 0.688000 0.000000 0.347400 1.000000
+Cu1 Cu 0.523000 0.000000 0.636500 1.000000
+S1 S 0.335100 0.000000 0.383300 1.000000
+S2 S 0.968600 0.000000 0.718200 1.000000
+Na2 Na 0.831600 0.000000 0.154200 1.000000
+Cu2 Cu 0.901700 0.000000 0.893800 1.000000
+Cu3 Cu 0.096900 0.000000 0.514100 1.000000
+Cu4 Cu 0.508500 0.000000 0.878400 1.000000
+S3 S 0.644900 0.000000 0.043200 1.000000
+
+# Reference: 04-008-9975

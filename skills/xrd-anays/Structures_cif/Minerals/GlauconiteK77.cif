@@ -1,0 +1,32 @@
+data_GlauconiteK77
+_chemical_name_common GlauconiteK77
+_chemical_formula_sum 'K0.77 Na0.03 Mg0.47 Fe1.14 Al0.72 Si3.72 O10 ( O H )2'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 5.246000
+_cell_length_b 9.066000
+_cell_length_c 10.182000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 101.200000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.000000 0.500000 0.500000 0.768000
+Na1 Na 0.000000 0.500000 0.500000 0.032000
+Fe1 Fe 0.000000 0.666667 0.000000 0.550000
+Mg1 Mg 0.000000 0.666667 0.000000 0.230000
+Al1 Al 0.000000 0.666667 0.000000 0.220000
+Si1 Si 0.421900 0.331400 0.272900 0.930000
+Al2 Al 0.421900 0.331400 0.272900 0.070000
+O1 O 0.360200 0.321600 0.111300 1.000000
+O2 O 0.963900 0.000000 0.327600 1.000000
+O3 O 0.689900 0.244800 0.335100 1.000000
+O4 O 0.412200 0.000000 0.109100 1.000000
+
+# Reference: 04-017-0529

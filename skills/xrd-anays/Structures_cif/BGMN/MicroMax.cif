@@ -1,0 +1,35 @@
+data_MICROCLINE_maximum
+_chemical_name_common MICROCLINE_maximum
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C-1
+_space_group_IT_number 2
+_cell_length_a 8.573000
+_cell_length_b 12.962000
+_cell_length_c 7.219000
+_cell_angle_alpha 90.600000
+_cell_angle_beta 115.900000
+_cell_angle_gamma 87.800000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.283100 -0.006700 0.136000 1.000000
+Al1 Al 0.009600 0.188000 0.217900 0.900000
+Si1 Si 0.009600 0.188000 0.217900 0.100000
+Al2 Al 0.009800 0.819100 0.232700 0.030000
+Si2 Si 0.009800 0.819100 0.232700 0.970000
+Al3 Al 0.711700 0.120000 0.340000 0.070000
+Si3 Si 0.711700 0.120000 0.340000 0.930000
+Si4 Si 0.706700 0.885800 0.349500 1.000000
+O1 O 0.000700 0.144800 -0.017900 1.000000
+O2 O 0.636100 0.005300 0.286200 1.000000
+O3 O 0.821800 0.147600 0.220000 1.000000
+O4 O 0.830700 0.856800 0.243500 1.000000
+O5 O 0.034700 0.318800 0.256400 1.000000
+O6 O 0.038200 0.695500 0.264600 1.000000
+O7 O 0.190000 0.122800 0.405500 1.000000
+O8 O 0.175400 0.874500 0.409100 1.000000

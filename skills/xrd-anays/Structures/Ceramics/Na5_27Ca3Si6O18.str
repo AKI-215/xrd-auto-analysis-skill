@@ -1,0 +1,15 @@
+PHASE=SodiumCalciumSilicate // 01-078-1650
+Reference=01-078-1650 //
+Formula=Na5.27_Ca3_(_Si6_O18_) //
+SpacegroupNo=166 HermannMauguin=R-32/m Setting=1 UniqueAxis=c Lattice=Trigonal //
+PARAM=A=1.042900_1.032471^1.053329 PARAM=C=1.314900_1.301751^1.328049 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:SodiumCalciumSilicate=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=SI Wyckoff=h x=0.151100 y=0.848900 z=0.564200 TDS=0.011228
+E=O Wyckoff=g x=0.251100 y=0.000000 z=0.500000 TDS=0.039305
+E=O Wyckoff=h x=0.115000 y=0.885000 z=0.674000 TDS=0.026845
+E=O Wyckoff=h x=0.238500 y=0.761500 z=0.554800 TDS=0.029925
+E=(NA(0.6000),CA(0.4000)) Wyckoff=c x=0.000000 y=0.000000 z=0.250500 TDS=0.012373
+E=NA(0.7550) Wyckoff=e x=0.500000 y=0.000000 z=0.000000 TDS=0.022029
+E=(NA(0.6000),CA(0.4000)) Wyckoff=d x=0.500000 y=0.000000 z=0.500000 TDS=0.018160
+E=CA Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.007106

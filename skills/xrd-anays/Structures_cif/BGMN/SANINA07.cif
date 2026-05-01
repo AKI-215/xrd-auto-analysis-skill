@@ -1,0 +1,30 @@
+data_Sanidine_Na07
+_chemical_name_common Sanidine_Na07
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.578000
+_cell_length_b 12.978000
+_cell_length_c 7.204000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.714600 0.000000 0.862100 0.930000
+Na1 Na 0.714600 0.000000 0.862100 0.070000
+Al1 Al 0.009400 0.184900 0.224300 0.384000
+Si1 Si 0.009400 0.184900 0.224300 0.616000
+Al2 Al 0.209200 0.382300 0.344500 0.116000
+Si2 Si 0.209200 0.382300 0.344500 0.884000
+O1 O 0.000000 0.854300 0.000000 1.000000
+O2 O 0.361500 0.000000 0.714400 1.000000
+O3 O 0.826500 0.146400 0.227500 1.000000
+O4 O 0.035200 0.311900 0.259400 1.000000
+O5 O 0.180900 0.125800 0.407600 1.000000

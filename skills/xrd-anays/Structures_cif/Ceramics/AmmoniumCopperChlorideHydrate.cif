@@ -1,0 +1,29 @@
+data_AmmoniumCopperChlorideHydrate
+_chemical_name_common AmmoniumCopperChlorideHydrate
+_chemical_formula_sum '( N H4 )2 Cu Cl4 ( H2 O )2'
+_symmetry_space_group_name_H-M P4_2/m2_1/n2/m
+_space_group_IT_number 136
+_cell_length_a 7.596000
+_cell_length_b 7.596000
+_cell_length_c 7.976000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.000000 0.000000 0.245000 1.000000
+Cl1 Cl 0.723500 0.276500 0.000000 1.000000
+Cl2 Cl 0.211400 0.211400 0.000000 1.000000
+H1 H 0.065900 0.413000 0.175300 1.000000
+H2 H 0.074000 0.419600 0.322400 1.000000
+H3 H 0.073100 0.073100 0.315300 1.000000
+Cu1 Cu 0.000000 0.000000 0.000000 1.000000
+N1 N 0.000000 0.500000 0.250000 1.000000
+
+# Reference: 04-009-3801

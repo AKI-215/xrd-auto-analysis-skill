@@ -1,0 +1,32 @@
+data_NiobiumPhosphateOxide
+_chemical_name_common NiobiumPhosphateOxide
+_chemical_formula_sum 'Nb9 P1.25 O25'
+_symmetry_space_group_name_H-M I4/m
+_space_group_IT_number 87
+_cell_length_a 15.593000
+_cell_length_b 15.593000
+_cell_length_c 3.828200
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Nb1 Nb 0.000000 0.000000 0.000000 1.000000
+Nb2 Nb 0.218430 0.108900 0.000000 1.000000
+Nb3 Nb 0.114280 0.329770 0.000000 1.000000
+P1 P 0.000000 0.500000 0.250000 1.000000
+O1 O 0.175100 0.220300 0.000000 1.000000
+O2 O 0.282000 0.988500 0.000000 1.000000
+O3 O 0.247200 0.389300 0.000000 1.000000
+O4 O 0.354300 0.156100 0.000000 1.000000
+O5 O 0.066400 0.451200 0.000000 1.000000
+O6 O 0.116900 0.051800 0.000000 1.000000
+O7 O 0.000000 0.000000 0.500000 1.000000
+
+# Reference: 04-007-2851

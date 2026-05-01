@@ -1,0 +1,27 @@
+data_Vivianite
+_chemical_name_common Vivianite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 10.086000
+_cell_length_b 13.441000
+_cell_length_c 4.703000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 104.300000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.000000 0.000000 0.000000 1.000000
+Fe2 Fe 0.000000 0.610200 0.000000 1.000000
+P1 P 0.686100 0.000000 0.624900 1.000000
+O1 O 0.842100 0.000000 0.636800 1.000000
+O2 O 0.609400 0.000000 0.301900 1.000000
+O3 O 0.344900 0.095400 0.222400 1.000000
+O4 O 0.101900 0.117200 0.799400 1.000000
+O5 O 0.396200 0.224600 0.711400 1.000000

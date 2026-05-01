@@ -1,0 +1,32 @@
+data_SANIDINE_K08
+_chemical_name_common SANIDINE_K08
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.540000
+_cell_length_b 13.036000
+_cell_length_c 7.189000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.716600 0.000000 0.864000 0.826000
+Na1 Na 0.716600 0.000000 0.864000 0.100000
+Ba1 Ba 0.716600 0.000000 0.864000 0.040000
+Sr1 Sr 0.716600 0.000000 0.864000 0.040000
+Al1 Al 0.009200 0.184000 0.223700 0.320000
+Si1 Si 0.009200 0.184000 0.223700 0.680000
+Al2 Al 0.707000 0.117700 0.344300 0.220000
+Si2 Si 0.707000 0.117700 0.344300 0.780000
+O1 O 0.000000 0.855000 0.000000 1.000000
+O2 O 0.368100 0.000000 0.714900 1.000000
+O3 O 0.827900 0.144400 0.227300 1.000000
+O4 O 0.032400 0.309600 0.256400 1.000000
+O5 O 0.181700 0.126500 0.404700 1.000000

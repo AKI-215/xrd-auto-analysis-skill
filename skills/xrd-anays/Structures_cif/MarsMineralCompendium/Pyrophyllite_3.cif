@@ -1,0 +1,30 @@
+data_Pyrophyllite
+_chemical_name_common Pyrophyllite
+_chemical_formula_sum 'Al2 Si4 O11'
+_symmetry_space_group_name_H-M C-1
+_space_group_IT_number 2
+_cell_length_a 5.191900
+_cell_length_b 9.122400
+_cell_length_c 9.499000
+_cell_angle_alpha 91.170000
+_cell_angle_beta 100.210000
+_cell_angle_gamma 88.620000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.552000 0.149000 0.000000 1.000000
+O1 O 0.250000 0.250000 0.000000 1.000000
+O2 O 0.123000 0.492000 0.115000 1.000000
+O3 O 0.728000 0.292000 0.115000 1.000000
+O4 O 0.037000 0.378000 0.355000 1.000000
+O5 O 0.717000 0.152000 0.355000 1.000000
+O6 O 0.522000 0.425000 0.320000 1.000000
+Si1 Si 0.225000 0.486000 0.286000 1.000000
+Si2 Si 0.749000 0.312000 0.286000 1.000000
+
+# Reference: amcsd_0000286

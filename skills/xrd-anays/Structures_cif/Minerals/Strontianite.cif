@@ -1,0 +1,25 @@
+data_SrCO3
+_chemical_name_common SrCO3
+_chemical_formula_sum 'Sr ( C O3 )'
+_symmetry_space_group_name_H-M P2_1/m2_1/c2_1/n
+_space_group_IT_number 62
+_cell_length_a 5.022000
+_cell_length_b 8.566000
+_cell_length_c 5.997000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 0.250000 0.418900 0.744550 1.000000
+C1 C 0.250000 0.760330 0.899360 1.000000
+O1 O 0.250000 0.915400 0.922430 1.000000
+O2 O 0.499540 0.674060 0.954390 1.000000
+
+# Reference: 04-013-9700

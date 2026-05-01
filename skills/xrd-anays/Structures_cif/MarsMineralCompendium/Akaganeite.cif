@@ -1,0 +1,28 @@
+data_Akaganeite
+_chemical_name_common Akaganeite
+_chemical_formula_sum 'Fe4 O8 Cl.675'
+_symmetry_space_group_name_H-M I12/m1
+_space_group_IT_number 12
+_cell_length_a 10.600000
+_cell_length_b 3.033900
+_cell_length_c 10.513000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.240000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 0.000000 0.000000 0.000000 1.000000
+Fe1 Fe 0.858000 0.000000 0.341000 1.000000
+Fe2 Fe 0.339000 0.000000 0.141000 1.000000
+O1 O 0.663000 0.000000 0.290000 1.000000
+O2 O 0.657000 0.000000 0.030000 1.000000
+O3 O 0.293000 0.000000 0.357000 1.000000
+O4 O 0.039000 0.000000 0.332000 1.000000
+
+# Reference: amcsd_0001349

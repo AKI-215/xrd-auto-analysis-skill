@@ -1,0 +1,25 @@
+data_Spodumene
+_chemical_name_common Spodumene
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 9.449000
+_cell_length_b 8.386000
+_cell_length_c 5.215000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 110.100000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li1 Li 0.000000 0.275200 0.000000 1.000000
+Al1 Al 0.000000 0.906600 0.000000 1.000000
+Si1 Si 0.294100 0.093500 0.256000 1.000000
+O1 O 0.109900 0.082300 0.140200 1.000000
+O2 O 0.364600 0.267300 0.300900 1.000000
+O3 O 0.356500 -0.012900 0.057800 1.000000

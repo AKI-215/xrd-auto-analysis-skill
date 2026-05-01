@@ -1,0 +1,9 @@
+PHASE=IronZirconiumOxide // 04-002-8311
+Reference=04-002-8311 //
+Formula=Zr0.73_Fe0.27_O1.865 //
+SpacegroupNo=225 HermannMauguin=F4/m-32/m Setting=1 Lattice=Cubic //
+PARAM=A=0.503000_0.497970^0.508030 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:IronZirconiumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=(ZR(0.7300),FE(0.2700)) Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=O(0.9350) Wyckoff=c x=0.250000 y=0.250000 z=0.250000 TDS=0.010000

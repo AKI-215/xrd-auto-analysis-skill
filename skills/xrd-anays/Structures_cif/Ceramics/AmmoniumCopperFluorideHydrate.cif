@@ -1,0 +1,33 @@
+data_AmmoniumCopperFluorideHydrate
+_chemical_name_common AmmoniumCopperFluorideHydrate
+_chemical_formula_sum '( N H4 )2 Cu F4 ( H2 O )2'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 10.463000
+_cell_length_b 9.245000
+_cell_length_c 7.368000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 108.610000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 0.500000 0.300460 0.750000 1.000000
+F1 F 0.500000 0.093100 0.750000 1.000000
+F2 F 0.500000 0.508000 0.750000 1.000000
+F3 F 0.283700 0.304700 0.748700 1.000000
+O1 O 0.442200 0.295500 0.466400 1.000000
+N1 N 0.196500 0.554000 0.511100 1.000000
+H1 H 0.231000 0.595000 0.433000 1.000000
+H2 H 0.175000 0.621000 0.580000 1.000000
+H3 H 0.250000 0.497000 0.588000 1.000000
+H4 H 0.115000 0.506000 0.417000 1.000000
+H5 H 0.435000 0.353000 0.404000 1.000000
+H6 H 0.353000 0.250000 0.381000 1.000000
+
+# Reference: 04-012-8865

@@ -1,0 +1,32 @@
+data_FerrosiliteCa03Fe17
+_chemical_name_common FerrosiliteCa03Fe17
+_chemical_formula_sum 'Ca0.3 Fe1.7 O6 Si2'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 9.779000
+_cell_length_b 9.088000
+_cell_length_c 5.258000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 107.390000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.253400 0.018200 0.244300 0.300000
+Fe1 Fe 0.253400 0.018200 0.244300 0.700000
+Fe2 Fe 0.251200 0.654300 0.245400 1.000000
+O1 O 0.872900 0.340700 0.160100 1.000000
+O2 O 0.371900 0.836000 0.149900 1.000000
+O3 O 0.118200 0.494800 0.342300 1.000000
+O4 O 0.628000 0.987300 0.365600 1.000000
+O5 O 0.100200 0.229900 0.517200 1.000000
+O6 O 0.603800 0.719200 0.498300 1.000000
+Si1 Si 0.046100 0.338700 0.256900 1.000000
+Si2 Si 0.545500 0.837300 0.243600 1.000000
+
+# Reference: cod_9000449

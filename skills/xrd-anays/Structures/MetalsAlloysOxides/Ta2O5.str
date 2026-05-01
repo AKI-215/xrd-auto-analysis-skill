@@ -1,0 +1,11 @@
+PHASE=TantalumOxide // 01-089-2843
+Reference=01-089-2843 //
+Formula=Ta2_O5 //
+SpacegroupNo=38 HermannMauguin=C2mm Setting=4 Lattice=Orthorhombic //
+PARAM=A=0.620000_0.613800^0.626200 PARAM=B=0.366000_0.362340^0.369660 PARAM=C=0.389000_0.385110^0.392890 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:TantalumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=TA(0.2500) Wyckoff=f x=0.040000 y=0.030000 z=0.030000 TDS=0.010000
+E=O Wyckoff=b x=0.000000 y=0.000000 z=0.500000 TDS=0.010000
+E=O Wyckoff=a x=0.500000 y=0.000000 z=0.000000 TDS=0.010000
+E=O(0.5000) Wyckoff=a x=0.250000 y=0.000000 z=0.000000 TDS=0.010000

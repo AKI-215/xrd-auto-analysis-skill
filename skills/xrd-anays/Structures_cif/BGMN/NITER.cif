@@ -1,0 +1,23 @@
+data_Niter
+_chemical_name_common Niter
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 6.431000
+_cell_length_b 5.414000
+_cell_length_c 9.166000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.256800 0.000000 0.083400 1.000000
+N1 N 0.415200 0.000000 0.745200 1.000000
+O1 O 0.410700 0.000000 0.609800 1.000000
+O2 O 0.915100 0.449200 0.686600 1.000000

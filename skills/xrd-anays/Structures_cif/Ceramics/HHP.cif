@@ -1,0 +1,30 @@
+data_HydrogenHydraziniumPhosphate
+_chemical_name_common HydrogenHydraziniumPhosphate
+_chemical_formula_sum 'H4 (NH3)2 (PO4)2'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 4.483100
+_cell_length_b 8.038900
+_cell_length_c 10.701400
+_cell_angle_alpha 90.000000
+_cell_angle_beta 99.678000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1 P 0.002360 0.164790 0.174870 1.000000
+O1 O 0.070960 0.309910 0.095700 1.000000
+O2 O 0.101790 0.727570 0.200200 1.000000
+O3 O 0.269390 0.567100 0.400490 1.000000
+O4 O 0.261250 0.044270 0.213750 1.000000
+N1 N 0.496850 0.081710 0.473190 1.000000
+H1 H 0.162000 0.848000 0.205000 1.000000
+H2 H 0.449000 0.558000 0.357000 1.000000
+H3 H 0.410000 0.068000 0.379000 1.000000
+H4 H 0.354000 0.156000 0.515000 1.000000
+H5 H 0.714000 0.128000 0.484000 1.000000

@@ -1,0 +1,33 @@
+data_C3Acub
+_chemical_name_common C3Acub
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/a-3
+_space_group_IT_number 205
+_cell_length_a 15.263000
+_cell_length_b 15.263000
+_cell_length_c 15.263000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.000000 0.000000 1.000000
+Ca2 Ca 0.000000 0.000000 0.000000 1.000000
+Ca3 Ca 0.743900 0.000000 0.000000 1.000000
+Ca4 Ca 0.625000 0.000000 0.000000 1.000000
+Ca5 Ca 0.138600 0.376300 0.127200 1.000000
+Ca6 Ca 0.380000 0.383800 0.120900 1.000000
+Al1 Al 0.252600 0.013300 0.019700 1.000000
+Al2 Al 0.244400 0.233500 0.004600 1.000000
+O1 O 0.277700 0.124100 0.010300 1.000000
+O2 O 0.483500 0.131500 0.253600 1.000000
+O3 O 0.266400 0.284100 0.104900 1.000000
+O4 O 0.235000 0.404700 0.292100 1.000000
+O5 O 0.349100 -0.038500 -0.017400 1.000000
+O6 O 0.150900 -0.010400 -0.024200 1.000000

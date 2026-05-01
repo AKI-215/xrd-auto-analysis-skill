@@ -1,0 +1,23 @@
+data_LaBO3
+_chemical_name_common LaBO3
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P12_1/m1
+_space_group_IT_number 11
+_cell_length_a 6.348000
+_cell_length_b 5.084000
+_cell_length_c 4.186000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 107.900000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+La1 La 0.776000 0.000000 0.620000 1.000000
+B1 B 0.257000 0.000000 0.002000 1.000000
+O1 O 0.380000 0.000000 0.319000 1.000000
+O2 O 0.174000 0.020000 0.839000 1.000000

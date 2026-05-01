@@ -1,0 +1,11 @@
+PHASE=BaO3Ti // cod9014756
+Reference=cod9014756 //
+Formula=Ba_O3_Ti //
+SpacegroupNo=160 HermannMauguin=R3m Setting=2 Lattice=Rhombohedral //
+PARAM=A=0.400410_0.396406^0.404414 //
+PARAM=GAMMA=89.852000_88.953480^90.750520 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:BaO3Ti=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=BA Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=-0.000158
+E=TI Wyckoff=a x=0.486000 y=0.486000 z=0.486000 TDS=0.002369
+E=O Wyckoff=b x=0.508400 y=0.508400 z=0.018500 TDS=0.002369

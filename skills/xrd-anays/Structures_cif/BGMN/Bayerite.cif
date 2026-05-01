@@ -1,0 +1,23 @@
+data_bayerite
+_chemical_name_common bayerite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P12_1/a1
+_space_group_IT_number 14
+_cell_length_a 5.060000
+_cell_length_b 8.671000
+_cell_length_c 4.713000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.300000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.527000 0.167000 -0.015000 1.000000
+O1 O 0.365000 -0.011000 0.215000 1.000000
+O2 O 0.204000 0.176000 0.777000 1.000000
+O3 O 0.344000 0.308000 0.229000 1.000000

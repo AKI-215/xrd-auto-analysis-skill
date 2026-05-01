@@ -1,0 +1,13 @@
+PHASE=SodiumCalciumPhosphate // 04-006-2362
+Reference=04-006-2362 //
+Formula=Na_Ca_(_P_O4_) //
+SpacegroupNo=62 HermannMauguin=P2_1/n2_1/m2_1/a Setting=1 Lattice=Orthorhombic //
+PARAM=A=0.680000_0.673200^0.686800 PARAM=B=0.520000_0.514800^0.525200 PARAM=C=0.932000_0.922680^0.941320 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:SodiumCalciumPhosphate=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=O Wyckoff=d x=0.302400 y=0.026800 z=0.154000 TDS=0.010000
+E=O Wyckoff=c x=0.035800 y=0.250000 z=0.083600 TDS=0.010000
+E=NA Wyckoff=c x=0.161900 y=0.250000 z=0.414030 TDS=0.010000
+E=P Wyckoff=c x=0.236100 y=0.250000 z=0.082390 TDS=0.010000
+E=CA Wyckoff=c x=0.490720 y=0.250000 z=0.695010 TDS=0.010000
+E=O Wyckoff=c x=0.801500 y=0.250000 z=0.564300 TDS=0.010000

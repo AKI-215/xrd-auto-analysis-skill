@@ -1,0 +1,28 @@
+data_FeOxalateHydrate
+_chemical_name_common FeOxalateHydrate
+_chemical_formula_sum 'Fe C2 O6 H4'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 12.011000
+_cell_length_b 5.557000
+_cell_length_c 9.920000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 128.530000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.000000 0.170400 0.250000 1.000000
+C1 C 0.049900 0.668400 0.351100 1.000000
+O1 O 0.084800 0.469400 0.422700 1.000000
+O2 O 0.086300 0.871600 0.423600 1.000000
+O3 O 0.179700 0.177700 0.257300 1.000000
+H1 H 0.263000 0.091000 0.349000 1.000000
+H2 H 0.167000 0.130000 0.156000 1.000000
+
+# Reference: amcsd_0019940

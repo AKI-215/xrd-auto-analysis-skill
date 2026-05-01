@@ -1,0 +1,33 @@
+data_EnstatiteMg075Fe025
+_chemical_name_common EnstatiteMg075Fe025
+_chemical_formula_sum 'Fe0.249 Mg0.751 O3 Si'
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 18.274700
+_cell_length_b 8.872900
+_cell_length_c 5.198800
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.375700 0.654300 0.870200 0.093000
+Mg1 Mg 0.375700 0.654300 0.870200 0.907000
+Fe2 Fe 0.377600 0.484800 0.364000 0.405000
+Mg2 Mg 0.377600 0.484800 0.364000 0.595000
+O1 O 0.183600 0.338300 0.040100 1.000000
+O2 O 0.562600 0.338700 0.796800 1.000000
+O3 O 0.311200 0.500800 0.049600 1.000000
+O4 O 0.433400 0.484100 0.692700 1.000000
+O5 O 0.302700 0.226700 0.829700 1.000000
+O6 O 0.447600 0.198400 0.598200 1.000000
+Si1 Si 0.271700 0.340800 0.052100 1.000000
+Si2 Si 0.473700 0.336600 0.795900 1.000000
+
+# Reference: cod_9001641

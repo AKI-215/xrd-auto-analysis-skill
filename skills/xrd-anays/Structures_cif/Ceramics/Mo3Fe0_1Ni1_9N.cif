@@ -1,0 +1,25 @@
+data_MolybdenumIronNickelNitride
+_chemical_name_common MolybdenumIronNickelNitride
+_chemical_formula_sum 'Mo3 Fe0.1 Ni1.9 N'
+_symmetry_space_group_name_H-M P4_132
+_space_group_IT_number 213
+_cell_length_a 6.637400
+_cell_length_b 6.637400
+_cell_length_c 6.637400
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 0.066800 0.066800 0.066800 1.000000
+Fe1 Fe 0.066800 0.066800 0.066800 1.000000
+Mo1 Mo 0.125000 0.201610 0.451610 1.000000
+N1 N 0.375000 0.375000 0.375000 1.000000
+
+# Reference: 04-011-9109

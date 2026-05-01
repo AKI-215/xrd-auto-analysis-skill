@@ -1,0 +1,33 @@
+data_Jarosite
+_chemical_name_common Jarosite
+_chemical_formula_sum 'Na.75 H6.73 Fe2.856 S2 O14'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 12.748520
+_cell_length_b 7.346970
+_cell_length_c 6.982430
+_cell_angle_alpha 90.000000
+_cell_angle_beta 127.197400
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.500000 0.500000 0.500000 1.000000
+Fe2 Fe 0.750000 0.750000 0.500000 1.000000
+H1 H 0.000000 0.000000 0.000000 0.250000
+Na1 Na 0.000000 0.000000 0.000000 0.750000
+O1 O 0.260300 0.000000 0.400000 0.920000
+O2 O 0.260300 0.000000 0.400000 0.080000
+O3 O 0.074300 0.202300 0.394300 0.920000
+O4 O 0.074300 0.202300 0.394300 0.080000
+O5 O 0.409100 0.000000 0.198000 1.000000
+O6 O 0.167900 0.000000 0.829000 1.000000
+O7 O 0.342300 0.165600 0.846000 1.000000
+S1 S 0.306600 0.000000 0.932900 1.000000
+
+# Reference: amcsd_0017748

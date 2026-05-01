@@ -1,0 +1,36 @@
+data_Wollastonite2M
+_chemical_name_common Wollastonite2M
+_chemical_formula_sum 'Ca Si O3'
+_symmetry_space_group_name_H-M P12_1/a1
+_space_group_IT_number 14
+_cell_length_a 15.409000
+_cell_length_b 7.322000
+_cell_length_c 7.063000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 95.300000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.347900 0.612100 0.036100 1.000000
+O2 O 0.509600 0.118700 0.236900 1.000000
+Si1 Si 0.407500 0.658500 0.231000 1.000000
+Ca1 Ca 0.398600 0.117900 0.736000 1.000000
+O3 O 0.299100 0.372200 0.670600 1.000000
+Ca2 Ca 0.248300 0.375400 0.972600 1.000000
+O4 O 0.214100 0.373700 0.301000 1.000000
+O5 O 0.364000 0.555300 0.407500 1.000000
+O6 O 0.364100 0.196900 0.406000 1.000000
+Si2 Si 0.407600 0.092000 0.231100 1.000000
+O7 O 0.349300 0.134600 0.035400 1.000000
+O8 O 0.508800 0.613400 0.233200 1.000000
+Ca3 Ca 0.400600 0.623600 0.738900 1.000000
+O9 O 0.390800 0.875300 0.275300 1.000000
+Si3 Si 0.301500 0.376000 0.443600 1.000000
+
+# Reference: 04-010-2581

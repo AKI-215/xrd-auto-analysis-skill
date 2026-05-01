@@ -1,0 +1,37 @@
+data_Muscovite2M1
+_chemical_name_common Muscovite2M1
+_chemical_formula_sum '(K.99 Na.01) Si3.32 Al2.37 Fe.3 Mn.06 H.3 O11.96 F.04'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 5.226000
+_cell_length_b 9.074000
+_cell_length_c 20.039000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 95.740000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.250000 0.250000 0.500000 1.000000
+Al2 Al 0.249700 0.083333 0.000020 0.820000
+Fe1 Fe 0.249700 0.083333 0.000020 0.150000
+Mn1 Mn 0.249700 0.083333 0.000020 0.030000
+F1 F 0.954900 0.064600 0.050980 0.020000
+O1 O 0.954900 0.064600 0.050980 0.980000
+H1 H 0.876000 0.143000 0.046000 1.000000
+K1 K 0.000000 0.096200 0.250000 0.990000
+Na1 Na 0.000000 0.096200 0.250000 0.010000
+O2 O 0.740200 0.321100 0.159660 1.000000
+O3 O 0.241000 0.361100 0.168670 1.000000
+O4 O 0.434400 0.092700 0.168150 1.000000
+O5 O 0.392400 0.251400 0.053670 1.000000
+O6 O 0.957200 0.439800 0.053770 1.000000
+Si1 Si 0.452700 0.257820 0.135380 1.000000
+Si2 Si 0.964200 0.428580 0.135380 1.000000
+
+# Reference: amcsd_0002013

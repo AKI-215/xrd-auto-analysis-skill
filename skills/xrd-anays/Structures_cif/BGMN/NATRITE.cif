@@ -1,0 +1,25 @@
+data_Natrite
+_chemical_name_common Natrite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.904000
+_cell_length_b 5.239000
+_cell_length_c 6.042000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 101.300000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1 Na 0.000000 0.000000 0.000000 1.000000
+Na2 Na 0.000000 0.000000 0.000000 1.000000
+Na3 Na 0.324000 0.000000 0.252200 1.000000
+C1 C 0.335900 0.000000 0.750400 1.000000
+O1 O 0.210300 0.000000 0.822900 1.000000
+O2 O 0.101600 0.294000 0.285500 1.000000

@@ -1,0 +1,9 @@
+PHASE=YttriumHafniumOxide // 04-001-9353
+Reference=04-001-9353 //
+Formula=Y0.5_Hf0.5_O1.75 //
+SpacegroupNo=225 HermannMauguin=F4/m-32/m Setting=1 Lattice=Cubic //
+PARAM=A=0.517000_0.511830^0.522170 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:YttriumHafniumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=(Y(0.5000),HF(0.5000)) Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=O(0.8750) Wyckoff=c x=0.250000 y=0.250000 z=0.250000 TDS=0.010000

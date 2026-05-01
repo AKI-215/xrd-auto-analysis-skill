@@ -1,0 +1,32 @@
+data_Dickite_Bailey
+_chemical_name_common Dickite_Bailey
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P1
+_space_group_IT_number 9
+_cell_length_a 5.150000
+_cell_length_b 8.940000
+_cell_length_c 14.424000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 96.700000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Si1 Si 0.011700 0.400100 0.040500 1.000000
+Si2 Si 0.500200 0.573200 0.040200 1.000000
+Al1 Al 0.915400 0.253400 0.232000 1.000000
+Al2 Al 0.419000 0.417000 0.230600 1.000000
+O1 O 0.955400 0.237300 0.993900 1.000000
+O2 O 0.258700 0.472400 0.994200 1.000000
+O3 O 0.764600 0.510500 0.005800 1.000000
+O4 O 0.080300 0.387600 0.152300 1.000000
+O5 O 0.511000 0.581300 0.152600 1.000000
+O6 O 0.581800 0.275800 0.157400 1.000000
+O7 O 0.243900 0.273300 0.294800 1.000000
+O8 O 0.747200 0.394900 0.298100 1.000000
+O9 O 0.332800 0.583200 0.296300 1.000000

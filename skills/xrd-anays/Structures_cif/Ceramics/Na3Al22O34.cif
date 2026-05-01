@@ -1,0 +1,33 @@
+data_SodiumAluminumOxide
+_chemical_name_common SodiumAluminumOxide
+_chemical_formula_sum 'Na3 Al22 O34'
+_symmetry_space_group_name_H-M P6_3/m2/m2/c
+_space_group_IT_number 194
+_cell_length_a 5.601000
+_cell_length_b 5.601000
+_cell_length_c 22.540000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.832000 0.664000 0.107700 1.000000
+Al2 Al 0.333333 0.666667 0.023700 1.000000
+Al3 Al 0.333333 0.666667 0.173600 1.000000
+Al4 Al 0.000000 0.000000 0.000000 1.000000
+Al5 Al 0.838000 0.676000 0.173600 1.000000
+O1 O 0.157400 0.314800 0.050600 1.000000
+O2 O 0.503700 0.007400 0.146700 1.000000
+O3 O 0.333333 0.666667 0.555900 1.000000
+O4 O 0.000000 0.000000 0.140700 1.000000
+O5 O 0.304500 0.609000 0.250000 1.000000
+Na1 Na 0.899600 0.799200 0.250000 1.000000
+Na2 Na 0.617000 0.234000 0.250000 1.000000
+
+# Reference: 01-084-0515

@@ -1,0 +1,25 @@
+data_Arcanite_K2SO4
+_chemical_name_common Arcanite_K2SO4
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 7.476000
+_cell_length_b 5.763000
+_cell_length_c 10.071000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+S1 S 0.733000 0.000000 0.919700 1.000000
+K1 K 0.173800 0.000000 0.910600 1.000000
+K2 K 0.489000 0.000000 0.204100 1.000000
+O1 O 0.537900 0.000000 0.916600 1.000000
+O2 O 0.796300 0.000000 0.058200 1.000000
+O3 O 0.300900 0.041200 0.647800 1.000000

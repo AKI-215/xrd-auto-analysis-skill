@@ -1,0 +1,25 @@
+data_Sb2O4_Cervantite
+_chemical_name_common Sb2O4_Cervantite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M Pna2_1
+_space_group_IT_number 33
+_cell_length_a 5.456000
+_cell_length_b 4.814000
+_cell_length_c 11.787000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sb1 Sb -0.032000 0.036000 0.009000 1.000000
+Sb2 Sb 0.366000 0.016000 0.253000 1.000000
+O1 O 0.340000 0.177000 0.096200 1.000000
+O2 O 0.159000 0.710000 0.195000 1.000000
+O3 O 0.086000 0.208000 0.312000 1.000000
+O4 O 0.330000 0.840000 0.410000 1.000000

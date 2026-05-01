@@ -1,0 +1,27 @@
+data_Indiumsulfide
+_chemical_name_common Indiumsulfide
+_chemical_formula_sum 'In2 S3'
+_symmetry_space_group_name_H-M I4_1/a2/m2/d
+_space_group_IT_number 141
+_cell_length_a 7.593700
+_cell_length_b 7.593700
+_cell_length_c 32.352000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+In1 In 0.000000 0.000000 0.000000 1.000000
+In2 In 0.000000 -0.031000 0.332500 1.000000
+In3 In 0.000000 0.250000 0.207000 1.000000
+S1 S 0.000000 -0.013000 0.248000 1.000000
+S2 S 0.000000 0.004000 0.080000 1.000000
+S3 S 0.000000 0.024000 0.415000 1.000000
+
+# Reference: ICSD_151644

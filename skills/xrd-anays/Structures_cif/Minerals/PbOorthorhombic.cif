@@ -1,0 +1,30 @@
+data_PbOorthorhombic
+_chemical_name_common PbOorthorhombic
+_chemical_formula_sum 'O Pb'
+_symmetry_space_group_name_H-M P2_1/b2_1/m2/a
+_space_group_IT_number 57
+_cell_length_a 5.609900
+_cell_length_b 44.860800
+_cell_length_c 4.997900
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1 Pb 0.262599 0.375133 0.762725 1.000000
+O1 O 0.520979 0.031250 0.977446 1.000000
+Pb2 Pb 0.256818 0.687594 0.237275 1.000000
+O2 O 0.520979 0.406250 0.977446 1.000000
+Pb3 Pb 0.266461 0.437406 0.237275 1.000000
+O3 O 0.520979 0.718750 0.022554 1.000000
+O4 O 0.520979 0.343750 0.022554 1.000000
+Pb4 Pb 0.732183 0.250000 0.237275 1.000000
+Pb5 Pb 0.250000 0.000000 0.762725 1.000000
+
+# Reference: cod_1533609

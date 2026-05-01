@@ -1,0 +1,26 @@
+data_AlTiO5
+_chemical_name_common AlTiO5
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C2/m2/c2_1/m
+_space_group_IT_number 63
+_cell_length_a 3.591000
+_cell_length_b 9.429000
+_cell_length_c 9.636000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti1 Ti 0.000000 0.186300 0.000000 0.333000
+Al1 Al 0.000000 0.186300 0.000000 0.667000
+Al2 Al 0.000000 0.864900 0.438700 0.667000
+Ti2 Ti 0.000000 0.864900 0.438700 0.333000
+O1 O 0.000000 0.759000 0.000000 1.000000
+O2 O 0.000000 0.952000 0.882000 1.000000
+O3 O 0.000000 0.683000 0.925000 1.000000

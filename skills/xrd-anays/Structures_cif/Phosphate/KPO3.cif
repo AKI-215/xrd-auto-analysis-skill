@@ -1,0 +1,31 @@
+data_KPO3
+_chemical_name_common KPO3
+_chemical_formula_sum 'K P O3'
+_symmetry_space_group_name_H-M P12_1/a1
+_space_group_IT_number 14
+_cell_length_a 14.020000
+_cell_length_b 4.540000
+_cell_length_c 10.280000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 101.500000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.113000 0.730000 0.916000 1.000000
+P1 P 0.153000 0.202000 0.690000 1.000000
+O2 O 0.167000 0.300000 0.555000 1.000000
+O3 O 0.062000 0.388000 0.725000 1.000000
+O4 O 0.103000 0.886000 0.677000 1.000000
+K1 K 0.130000 0.767000 0.397000 1.000000
+K2 K 0.170000 0.227000 0.067000 1.000000
+P2 P 0.055000 0.704000 0.784000 1.000000
+O5 O 0.051000 0.240000 0.237000 1.000000
+O6 O 0.237000 0.231000 0.798000 1.000000
+
+# Reference: 04-009-8782

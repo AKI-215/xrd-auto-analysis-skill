@@ -1,0 +1,28 @@
+data_FerrihydriteFe487
+_chemical_name_common FerrihydriteFe487
+_chemical_formula_sum 'Fe4.87 H O8'
+_symmetry_space_group_name_H-M P6_3mc
+_space_group_IT_number 186
+_cell_length_a 5.953000
+_cell_length_b 5.953000
+_cell_length_c 9.096000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.168800 0.831100 0.635800 1.000000
+Fe2 Fe 0.333333 0.666667 0.334700 1.000000
+Fe3 Fe 0.333333 0.666667 0.960000 1.000000
+O1 O 0.000000 0.000000 0.046000 1.000000
+O2 O 0.333333 0.666667 0.765100 1.000000
+O3 O 0.167000 0.832900 0.245700 1.000000
+O4 O 0.525800 0.474200 0.977800 1.000000
+
+# Reference: cod_9011572

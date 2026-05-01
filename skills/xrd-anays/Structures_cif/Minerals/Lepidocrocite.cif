@@ -1,0 +1,23 @@
+data_FeOOH_Lepidocrocite
+_chemical_name_common FeOOH_Lepidocrocite
+_chemical_formula_sum 'Fe O (OH)'
+_symmetry_space_group_name_H-M A2_1/m2/a2/m
+_space_group_IT_number 63
+_cell_length_a 3.873000
+_cell_length_b 12.516000
+_cell_length_c 3.072000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.000000 0.677800 0.000000 1.000000
+O1 O 0.000000 0.288900 0.000000 1.000000
+O2 O 0.000000 0.073800 0.000000 1.000000
+H1 H 0.679000 -0.001000 0.000000 1.000000

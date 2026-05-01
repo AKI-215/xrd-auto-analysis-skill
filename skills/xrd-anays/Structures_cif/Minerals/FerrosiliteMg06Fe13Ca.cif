@@ -1,0 +1,34 @@
+data_FerrosiliteMg06Fe13Ca
+_chemical_name_common FerrosiliteMg06Fe13Ca
+_chemical_formula_sum 'Ca0.032 Fe1.331 Mg0.636 O6 Si2'
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 18.337000
+_cell_length_b 8.971000
+_cell_length_c 5.232000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.377790 0.483980 0.396430 0.032000
+Fe1 Fe 0.377790 0.483980 0.396430 0.906000
+Mg1 Mg 0.377790 0.483980 0.396430 0.062000
+Fe2 Fe 0.375460 0.654590 0.876520 0.425000
+Mg2 Mg 0.375460 0.654590 0.876520 0.574000
+O1 O 0.183800 0.337600 0.044100 1.000000
+O2 O 0.562300 0.336100 0.791000 1.000000
+O3 O 0.311300 0.499100 0.057000 1.000000
+O4 O 0.434000 0.484200 0.696500 1.000000
+O5 O 0.302300 0.234700 0.821000 1.000000
+O6 O 0.447500 0.203400 0.588000 1.000000
+Si1 Si 0.271820 0.339670 0.051880 1.000000
+Si2 Si 0.473910 0.335600 0.791820 1.000000
+
+# Reference: cod_9000353

@@ -1,0 +1,31 @@
+data_Illite
+_chemical_name_common Illite
+_chemical_formula_sum 'K Al4 Si2 O12'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 5.222600
+_cell_length_b 9.018300
+_cell_length_c 20.143000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 95.665000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.443200 0.263500 0.136500 1.000000
+Al2 Al 0.258600 0.082800 0.006800 1.000000
+K1 K 0.000000 0.090100 0.250000 1.000000
+O1 O 0.462300 0.919400 0.050500 1.000000
+O2 O 0.383500 0.266500 0.066300 1.000000
+O3 O 0.425900 0.103900 0.153000 1.000000
+O4 O 0.222600 0.836800 0.168500 1.000000
+O5 O 0.273500 0.372200 0.167800 1.000000
+O6 O 0.408000 0.567100 0.045400 1.000000
+Si1 Si 0.482500 0.929700 0.137000 1.000000
+
+# Reference: amcsd_0012865

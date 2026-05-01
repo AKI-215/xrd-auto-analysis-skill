@@ -1,0 +1,28 @@
+data_Titanomaghemite
+_chemical_name_common Titanomaghemite
+_chemical_formula_sum 'Fe2.18 O4 Ti0.42'
+_symmetry_space_group_name_H-M P4_332
+_space_group_IT_number 212
+_cell_length_a 8.341000
+_cell_length_b 8.341000
+_cell_length_c 8.341000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.125000 0.366230 0.883770 0.700000
+Ti1 Ti 0.125000 0.366230 0.883770 0.240000
+Fe2 Fe 0.995560 0.995560 0.995560 1.000000
+Fe3 Fe 0.625000 0.625000 0.625000 0.340000
+Ti2 Ti 0.625000 0.625000 0.625000 0.120000
+O1 O 0.386200 0.386200 0.386200 1.000000
+O2 O 0.117900 0.130400 0.383700 1.000000
+
+# Reference: amcsd_0001136

@@ -1,0 +1,27 @@
+data_GdP3O9ortho
+_chemical_name_common GdP3O9ortho
+_chemical_formula_sum 'Gd P3 O9'
+_symmetry_space_group_name_H-M C222_1
+_space_group_IT_number 20
+_cell_length_a 8.453000
+_cell_length_b 11.057600
+_cell_length_c 7.195200
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Gd1 Gd 0.125161 0.000000 0.000000 1.000000
+P1 P 0.750570 0.000000 0.000000 1.000000
+P2 P 0.010990 0.323390 0.456220 1.000000
+O1 O 0.981000 0.192330 0.466700 1.000000
+O2 O 0.862500 0.390500 0.546700 1.000000
+O3 O 0.158300 0.372900 0.539200 1.000000
+O4 O 0.000000 0.372900 0.250000 1.000000
+O5 O 0.651800 0.519560 0.670600 1.000000

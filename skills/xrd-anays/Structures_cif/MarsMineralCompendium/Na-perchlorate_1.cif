@@ -1,0 +1,24 @@
+data_NaPerchlorate
+_chemical_name_common NaPerchlorate
+_chemical_formula_sum 'Cl Na O4'
+_symmetry_space_group_name_H-M F-43m
+_space_group_IT_number 216
+_cell_length_a 7.250000
+_cell_length_b 7.250000
+_cell_length_c 7.250000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl1 Cl 0.000000 0.000000 0.000000 1.000000
+Na1 Na 0.000000 0.000000 0.000000 1.000000
+O1 O 0.127000 0.000000 0.000000 1.000000
+
+# Reference: cod_1010573

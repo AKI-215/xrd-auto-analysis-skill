@@ -1,0 +1,24 @@
+data_PbZr0_52Ti0_48O3_tet
+_chemical_name_common PbZr0.52Ti0.48O3_tet
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P4mm
+_space_group_IT_number 99
+_cell_length_a 4.036000
+_cell_length_b 4.036000
+_cell_length_c 4.146000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1 Pb 0.000000 0.000000 1.000000 1.000000
+Zr1 Zr 0.000000 0.000000 0.547100 0.520000
+Ti1 Ti 0.000000 0.000000 0.547100 0.480000
+O1 O 0.000000 0.000000 0.108100 1.000000
+O2 O 0.000000 0.000000 0.605700 1.000000

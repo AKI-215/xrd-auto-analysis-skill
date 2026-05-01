@@ -1,0 +1,28 @@
+data_Fluorapatite
+_chemical_name_common Fluorapatite
+_chemical_formula_sum 'Ca5 P3 O12 F'
+_symmetry_space_group_name_H-M P6_3/m
+_space_group_IT_number 176
+_cell_length_a 9.397300
+_cell_length_b 9.397300
+_cell_length_c 6.878200
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.333330 0.666670 0.501000 1.000000
+Ca2 Ca -0.007120 0.242270 0.250000 1.000000
+P1 P 0.368950 0.398500 0.250000 1.000000
+O1 O 0.484900 0.327300 0.250000 1.000000
+O2 O 0.466700 0.587500 0.250000 1.000000
+O3 O 0.257500 0.342100 0.070500 1.000000
+F1 F 0.000000 0.000000 0.250000 1.000000
+
+# Reference: amcsd_0001256

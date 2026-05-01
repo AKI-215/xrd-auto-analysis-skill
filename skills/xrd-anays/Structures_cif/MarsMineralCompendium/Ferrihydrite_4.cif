@@ -1,0 +1,28 @@
+data_Ferrihydrite
+_chemical_name_common Ferrihydrite
+_chemical_formula_sum 'Fe4.75 (O8 H)'
+_symmetry_space_group_name_H-M P6_3mc
+_space_group_IT_number 186
+_cell_length_a 5.958000
+_cell_length_b 5.958000
+_cell_length_c 8.965000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.168800 0.831200 0.635600 1.000000
+Fe2 Fe 0.333333 0.666667 0.341400 1.000000
+Fe3 Fe 0.333333 0.666667 0.953800 1.000000
+O1 O 0.000000 0.000000 0.014700 1.000000
+O2 O 0.333333 0.666667 0.735300 1.000000
+O3 O 0.167100 0.832900 0.254700 1.000000
+O4 O 0.523800 0.476200 0.005300 1.000000
+
+# Reference: amcsd_0015441

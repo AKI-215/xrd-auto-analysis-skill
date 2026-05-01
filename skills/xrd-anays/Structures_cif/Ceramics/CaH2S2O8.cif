@@ -1,0 +1,32 @@
+data_CaH2S2O8
+_chemical_name_common CaH2S2O8
+_chemical_formula_sum 'Ca H2 (SO4)2'
+_symmetry_space_group_name_H-M P2_1/b2_1/c2_1/a
+_space_group_IT_number 61
+_cell_length_a 12.678000
+_cell_length_b 6.913000
+_cell_length_c 14.043000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.107700 0.292200 0.025300 1.000000
+O2 O 0.373900 0.259300 0.071000 1.000000
+H1 H 0.329000 0.331000 0.028000 1.000000
+S1 S 0.143300 0.135900 0.434700 1.000000
+O3 O 0.250000 0.371000 0.190800 1.000000
+O4 O 0.075900 0.012100 0.183400 1.000000
+Ca1 Ca 0.063500 0.349900 0.188100 1.000000
+O5 O 0.133100 0.305900 0.361700 1.000000
+O6 O 0.419100 0.484800 0.393500 1.000000
+H2 H 0.176000 0.420000 0.378000 1.000000
+O7 O 0.256000 0.085700 0.438100 1.000000
+S2 S 0.360000 0.337500 0.173200 1.000000
+O8 O 0.407600 0.185100 0.232200 1.000000

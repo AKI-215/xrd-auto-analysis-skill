@@ -1,0 +1,13 @@
+PHASE=Calcioolivine // 04-016-5413
+Reference=04-016-5413 //
+Formula=Ca2_O4_Si //
+SpacegroupNo=62 HermannMauguin=P2_1/b2_1/n2_1/m Setting=3 Lattice=Orthorhombic //
+PARAM=A=0.507389_0.502315^0.512463 PARAM=B=1.121128_1.109917^1.132339 PARAM=C=0.675340_0.668587^0.682093 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:Calcioolivine=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=CA Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.038997
+E=CA Wyckoff=c x=0.989000 y=0.279600 z=0.250000 TDS=0.038002
+E=SI Wyckoff=c x=0.429700 y=0.099100 z=0.250000 TDS=0.033999
+E=O Wyckoff=c x=0.741000 y=0.090200 z=0.250000 TDS=0.035996
+E=O Wyckoff=c x=0.295000 y=0.961900 z=0.250000 TDS=0.016999
+E=O Wyckoff=d x=0.300000 y=0.160400 z=0.059600 TDS=0.026000

@@ -1,0 +1,11 @@
+PHASE=YttriumZirconiumOxide // 00-029-1389
+Reference=00-029-1389 //
+Formula=Zr3_Y4_O12 //
+SpacegroupNo=148 HermannMauguin=R-3 Setting=1 UniqueAxis=c Lattice=Trigonal //
+PARAM=A=0.973450_0.963716^0.983185 PARAM=C=0.910920_0.901811^0.920029 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:YttriumZirconiumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=ZR Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.005000
+E=(Y(0.6670),ZR(0.3330)) Wyckoff=f x=0.410900 y=0.290500 z=0.982600 TDS=0.005000
+E=O Wyckoff=f x=0.154400 y=0.452200 z=0.273400 TDS=0.005000
+E=O Wyckoff=f x=0.459900 y=0.296500 z=0.228100 TDS=0.005000

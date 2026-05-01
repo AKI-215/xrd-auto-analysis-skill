@@ -1,0 +1,26 @@
+data_SrCaCO3
+_chemical_name_common SrCaCO3
+_chemical_formula_sum 'Sr0.5 Ca0.5 ( C O3 )'
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 5.900000
+_cell_length_b 5.040000
+_cell_length_c 8.270000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr1 Sr 0.240460 0.250000 0.584920 1.000000
+O1 O 0.095570 0.250000 0.077760 1.000000
+Ca1 Ca 0.240460 0.250000 0.584920 1.000000
+O2 O 0.087260 0.026530 0.319350 1.000000
+C1 C 0.085180 0.250000 0.237890 1.000000
+
+# Reference: 04-006-5443

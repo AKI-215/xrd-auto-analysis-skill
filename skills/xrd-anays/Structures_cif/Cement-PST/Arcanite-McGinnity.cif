@@ -1,0 +1,27 @@
+data_Arcanite
+_chemical_name_common Arcanite
+_chemical_formula_sum 'K2 (S O4)'
+_symmetry_space_group_name_H-M P2_1/n2_1/a2_1/m
+_space_group_IT_number 62
+_cell_length_a 7.476000
+_cell_length_b 10.071000
+_cell_length_c 5.763000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+S1 S 0.232980 0.419710 0.250000 1.000000
+K1 K 0.673770 0.410620 0.250000 1.000000
+K2 K -0.011040 0.704060 0.250000 1.000000
+O1 O 0.037900 0.416600 0.250000 1.000000
+O2 O 0.296300 0.558200 0.250000 1.000000
+O3 O 0.300900 0.352200 0.041200 1.000000
+
+# Reference: ICSD_2827

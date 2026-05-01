@@ -1,0 +1,26 @@
+data_Belite
+_chemical_name_common Belite
+_chemical_formula_sum Ca2SiO4
+_symmetry_space_group_name_H-M P12_1/n1
+_space_group_IT_number 14
+_cell_length_a 5.512100
+_cell_length_b 6.757500
+_cell_length_c 9.313800
+_cell_angle_alpha 90.000000
+_cell_angle_beta 94.581000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.227600 0.343500 0.430400 1.000000
+Ca2 Ca 0.220300 0.997900 0.701800 1.000000
+Si1 Si 0.268000 0.780600 0.419300 1.000000
+O1 O 0.219500 0.007700 0.442400 1.000000
+O2 O 0.475300 0.749600 0.308300 1.000000
+O3 O 0.015800 0.672800 0.361900 1.000000
+O4 O 0.343100 0.675700 0.571800 1.000000

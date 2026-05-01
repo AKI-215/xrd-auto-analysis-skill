@@ -1,0 +1,12 @@
+PHASE=ChromiumIronCarbide // 01-078-1502
+Reference=01-078-1502 //
+Formula=Cr15.58_Fe7.42_C6 //
+SpacegroupNo=225 HermannMauguin=F4/m-32/m Setting=1 Lattice=Cubic //
+PARAM=A=1.059900_1.049301^1.070499 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:ChromiumIronCarbide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=FE Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.004106
+E=(CR(0.6500),FE(0.3500)) Wyckoff=c x=0.250000 y=0.250000 z=0.250000 TDS=0.005077
+E=(CR(0.7800),FE(0.2200)) Wyckoff=k x=0.381730 y=0.381730 z=0.381720 TDS=0.003711
+E=(CR(0.6700),FE(0.3300)) Wyckoff=h x=0.000000 y=0.168520 z=0.168520 TDS=0.003395
+E=C Wyckoff=e x=0.276600 y=0.000000 z=0.000000 TDS=0.004974

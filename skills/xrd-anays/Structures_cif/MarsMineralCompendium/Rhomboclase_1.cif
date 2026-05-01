@@ -1,0 +1,35 @@
+data_Rhomboclase
+_chemical_name_common Rhomboclase
+_chemical_formula_sum 'Fe S2 O12 H7'
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 9.722600
+_cell_length_b 18.280000
+_cell_length_c 5.427000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.000000 0.000000 0.000000 1.000000
+O1 O 0.488400 0.086900 0.733000 0.250000
+O2 O 0.488400 0.086900 0.733000 0.750000
+O3 O 0.631800 0.250000 0.550000 0.250000
+O4 O 0.631800 0.250000 0.550000 0.750000
+O5 O 0.391600 0.250000 0.584000 0.224000
+O6 O 0.391600 0.250000 0.584000 0.671000
+O7 O 0.428000 0.250000 0.141000 0.026000
+O8 O 0.428000 0.250000 0.141000 0.079000
+O9 O 0.326400 0.021700 0.343000 1.000000
+O10 O 0.093200 0.055700 0.253000 1.000000
+O11 O 0.288100 0.120300 0.063000 1.000000
+O12 O 0.226900 0.132900 0.505000 1.000000
+S1 S 0.237500 0.086800 0.284900 1.000000
+
+# Reference: amcsd_0007142

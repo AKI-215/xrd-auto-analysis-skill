@@ -1,0 +1,22 @@
+data_Si2N2O
+_chemical_name_common Si2N2O
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M Cmc2_1
+_space_group_IT_number 36
+_cell_length_a 8.872000
+_cell_length_b 5.491000
+_cell_length_c 4.850000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.000000 0.787300 0.730000 1.000000
+Si1 Si 0.176700 0.151100 0.281500 1.000000
+N1 N 0.219100 0.122800 0.626700 1.000000

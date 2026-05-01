@@ -1,0 +1,23 @@
+data_TiN
+_chemical_name_common TiN
+_chemical_formula_sum 'Ti N'
+_symmetry_space_group_name_H-M F4/m-32/m
+_space_group_IT_number 225
+_cell_length_a 4.241730
+_cell_length_b 4.241730
+_cell_length_c 4.241730
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti1 Ti 0.000000 0.000000 0.000000 1.000000
+N1 N 0.500000 0.500000 0.500000 1.000000
+
+# Reference: 00-038-1420

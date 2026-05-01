@@ -1,0 +1,32 @@
+data_Brushite
+_chemical_name_common Brushite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C1c1
+_space_group_IT_number 9
+_cell_length_a 6.360000
+_cell_length_b 15.181000
+_cell_length_c 5.811200
+_cell_angle_alpha 90.000000
+_cell_angle_beta 118.530000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.494000 0.326700 0.250000 1.000000
+P1 P 0.014300 0.322500 0.262800 1.000000
+O1 O 0.783700 0.367500 0.026000 1.000000
+O2 O 0.919900 0.282300 0.434200 1.000000
+O3 O 0.201600 0.392700 0.393400 1.000000
+O4 O 0.109100 0.253200 0.143700 1.000000
+O5 O 0.265700 0.426200 0.889000 1.000000
+O6 O 0.726200 0.447300 0.508500 1.000000
+H1 H 0.710300 0.329300 0.867100 1.000000
+H2 H 0.251800 0.489800 0.894500 1.000000
+H3 H 0.254800 0.412100 0.719500 1.000000
+H4 H 0.720600 0.509400 0.499100 1.000000
+H5 H 0.883300 0.433400 0.639300 1.000000

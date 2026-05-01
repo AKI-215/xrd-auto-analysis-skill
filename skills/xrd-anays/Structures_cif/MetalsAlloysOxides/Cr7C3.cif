@@ -1,0 +1,28 @@
+data_ChromiumCarbide
+_chemical_name_common ChromiumCarbide
+_chemical_formula_sum 'C3 Cr7'
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 4.526000
+_cell_length_b 7.010000
+_cell_length_c 12.142000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 0.028800 0.029100 0.342800 1.000000
+C2 C 0.459400 0.250000 0.562900 1.000000
+Cr1 Cr 0.056500 0.064200 0.811900 1.000000
+Cr2 Cr 0.057900 0.250000 0.626100 1.000000
+Cr3 Cr 0.250100 0.250000 0.206300 1.000000
+Cr4 Cr 0.250900 0.065700 0.021800 1.000000
+Cr5 Cr 0.261900 0.250000 0.416500 1.000000
+
+# Reference: 03-065-1347

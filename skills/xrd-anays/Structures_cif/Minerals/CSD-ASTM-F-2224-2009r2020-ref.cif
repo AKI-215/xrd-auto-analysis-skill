@@ -1,0 +1,26 @@
+data_CalciumSulfateDihydrate
+_chemical_name_common CalciumSulfateDihydrate
+_chemical_formula_sum 'Ca S O4 ·2 H2 O'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 6.284500
+_cell_length_b 15.207900
+_cell_length_c 5.677600
+_cell_angle_alpha 90.000000
+_cell_angle_beta 114.090000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 0.082600 0.227900 0.092800 1.000000
+O2 O 0.200500 0.117300 0.414700 1.000000
+O3 O 0.205300 0.432600 0.077400 1.000000
+S1 S 0.000000 0.172200 0.250000 1.000000
+Ca1 Ca 0.000000 0.671700 0.250000 1.000000
+
+# Reference: 00-033-0311

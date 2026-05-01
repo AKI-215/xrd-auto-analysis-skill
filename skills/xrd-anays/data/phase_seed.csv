@@ -1,0 +1,13 @@
+phase_name,formula,aliases,main_elements,minor_elements,impossible_if_contains,hallmark_peaks_cu_ka,common_context,confirmation_methods,notes
+Magnetite,Fe3O4,"magnetite|Fe3O4",Fe,"O",,"30.1|35.5|43.1|57.0|62.6",Fe-rich oxide; corrosion product; iron oxide,"XRD|Raman|TEM-SAED",Common iron oxide candidate; distinguish from hematite/wustite
+Hematite,Fe2O3,"hematite|alpha-Fe2O3|Fe2O3",Fe,"O",,"24.1|33.2|35.6|49.5|54.1|62.5",oxidized iron-bearing sample,"XRD|Raman|TEM-SAED",May overlap partially with magnetite region
+Wustite,FeO,"wustite|FeO",Fe,"O",,"36.1|41.9|60.9|72.7",high-temperature iron oxide,"XRD|Raman|TEM-SAED",Do not infer from temperature alone
+Fe-Cr spinel,"Fe(Fe,Cr)2O4 / (Fe,Cr)3O4","Fe-Cr spinel|(Fe,Cr)3O4|FeCr2O4",Fe|Cr,O,,"30.2|35.4|43.0|56.9|62.5",Cr-bearing steel oxide or mixed spinel,"XRD|Raman|TEM|EDS",Peaks can overlap with magnetite and related spinels
+Chromia,Cr2O3,"chromia|Cr2O3",Cr,O,,"24.5|33.6|36.2|41.5|54.9|63.1",Cr-rich oxide; protective scale,"XRD|Raman|XPS|TEM",Thin chromia may be hard to detect in conventional XRD
+Alumina,Al2O3,"alumina|alpha-Al2O3|Al2O3",Al,O,,"25.6|35.1|37.8|43.4|52.6|57.5",Al-containing oxide; ceramic; coating,"XRD|TEM|XPS",Polymorphs and low crystallinity can complicate matching
+Silica,SiO2,"silica|quartz|SiO2",Si,O,,"20.9|26.6|36.5|39.5|50.1|59.9",silica-bearing oxide or mineral,"XRD|Raman|TEM|EDS",May be amorphous or polymorph-dependent
+Lead oxide,PbO,"lead oxide|PbO",Pb,O,,"29.0|30.3|32.0|36.3|52.4",Pb-containing residue or product,"XRD|Raman|EDS",Check contamination or residual lead-bearing phase
+Bismuth oxide,Bi2O3,"bismuth oxide|Bi2O3",Bi,O,,"27.4|33.0|46.3|54.3|56.3",Bi-containing residue or product,"XRD|Raman|EDS",Needs confirmation with chemistry support
+Nickel oxide,NiO,"nickel oxide|NiO",Ni,O,,"37.2|43.3|62.9|75.4|79.4",Ni-bearing oxide,"XRD|Raman|XPS|TEM-SAED",Do not use as default explanation for Ni loss without direct evidence
+Ferrite / alpha-Fe,"ferrite|alpha-Fe|bcc Fe-Cr","ferrite|alpha-Fe|bcc Fe-Cr",Fe,"Cr|Ni",,"44.7|65.0|82.3",Fe-rich transformed or base phase,"XRD|EBSD|TEM",Use carefully; can indicate transformed matrix rather than oxide product
+Spinel Mn-Cr oxide,"(Mn,Cr,Fe)3O4","Mn-Cr spinel|MnCr2O4",Mn|Cr,"Fe|O",,"30.3|35.7|43.3|57.2|62.8",Mn-containing corrosion or oxide scale,"XRD|Raman|TEM|EDS",Only plausible when Mn is present in sample history

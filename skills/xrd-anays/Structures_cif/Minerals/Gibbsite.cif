@@ -1,0 +1,35 @@
+data_Gibbsite
+_chemical_name_common Gibbsite
+_chemical_formula_sum 'Al ( O H )3'
+_symmetry_space_group_name_H-M P12_1/n1
+_space_group_IT_number 14
+_cell_length_a 8.684000
+_cell_length_b 5.078000
+_cell_length_c 9.736000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 94.540000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.167900 0.529500 0.997700 1.000000
+Al2 Al 0.334400 0.023600 0.997600 1.000000
+O1 O 0.177900 0.218300 0.888500 1.000000
+O2 O 0.669200 0.655800 0.897700 1.000000
+O3 O 0.498400 0.131500 0.895600 1.000000
+O4 O 0.979500 0.629300 0.893200 1.000000
+O5 O 0.297100 0.717800 0.894800 1.000000
+O6 O 0.819400 0.149100 0.898500 1.000000
+H1 H 0.101000 0.152000 0.876000 1.000000
+H2 H 0.595000 0.573000 0.902000 1.000000
+H3 H 0.503000 0.137000 0.810000 1.000000
+H4 H 0.971000 0.801000 0.893000 1.000000
+H5 H 0.293000 0.724000 0.804000 1.000000
+H6 H 0.815000 0.160000 0.810000 1.000000
+
+# Reference: 04-011-1369

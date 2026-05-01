@@ -1,0 +1,28 @@
+data_FaujasiteK
+_chemical_name_common FaujasiteK
+_chemical_formula_sum 'Al34.9 K34.9 O390.8 Si157.1'
+_symmetry_space_group_name_H-M F4_1/d-32/m
+_space_group_IT_number 227
+_cell_length_a 24.525000
+_cell_length_b 24.525000
+_cell_length_c 24.525000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Si1 Si 0.124000 0.945300 0.036300 1.000000
+Al1 Al 0.124000 0.945300 0.036300 1.000000
+O1 O 0.000000 0.891100 0.108900 1.000000
+O2 O 0.251200 0.251200 0.139500 1.000000
+O3 O 0.175200 0.175200 0.968600 1.000000
+O4 O 0.179100 0.179100 0.322400 1.000000
+K1 K 0.083200 0.083200 0.083200 1.000000
+K2 K 0.262100 0.262100 0.262100 1.000000
+O5 O 0.181700 0.181700 0.181700 1.000000

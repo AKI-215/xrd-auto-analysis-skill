@@ -1,0 +1,28 @@
+data_Hedenbergite
+_chemical_name_common Hedenbergite
+_chemical_formula_sum 'Fe1.5 Ca.5 Si2 O6'
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 9.781000
+_cell_length_b 9.072000
+_cell_length_c 5.246000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 106.600000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.274700 0.250000 0.500000
+Fe1 Fe 0.000000 0.274700 0.250000 0.500000
+Fe2 Fe 0.000000 0.904700 0.250000 1.000000
+O1 O 0.120700 0.089300 0.151700 1.000000
+O2 O 0.370600 0.242600 0.349600 1.000000
+O3 O 0.352000 0.025500 0.995700 1.000000
+Si1 Si 0.293600 0.089800 0.243400 1.000000
+
+# Reference: amcsd_0000458

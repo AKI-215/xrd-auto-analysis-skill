@@ -1,0 +1,25 @@
+data_C2S_gamma_Mumme
+_chemical_name_common C2S_gamma_Mumme
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M P2_1/n2_1/m2_1/a
+_space_group_IT_number 62
+_cell_length_a 11.224000
+_cell_length_b 6.764000
+_cell_length_c 5.082000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.000000 0.000000 1.000000
+Ca2 Ca 0.780900 0.000000 0.510700 1.000000
+Si1 Si 0.597800 0.000000 0.071400 1.000000
+O1 O 0.593100 0.000000 0.756900 1.000000
+O2 O 0.463000 0.000000 0.206400 1.000000
+O3 O 0.160100 0.058800 0.301500 1.000000

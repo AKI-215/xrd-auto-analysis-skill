@@ -1,0 +1,31 @@
+data_Sanidine
+_chemical_name_common Sanidine
+_chemical_formula_sum 'K (Si3 Al) O8'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.603000
+_cell_length_b 13.036000
+_cell_length_c 7.174000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.030000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.010000 0.185840 0.223900 0.250000
+Si1 Si 0.010000 0.185840 0.223900 0.750000
+Al2 Al 0.710800 0.118280 0.344200 0.250000
+Si2 Si 0.710800 0.118280 0.344200 0.750000
+K1 K 0.286900 0.000000 0.138300 1.000000
+O1 O 0.000000 0.147600 0.000000 1.000000
+O2 O 0.639600 0.000000 0.283900 1.000000
+O3 O 0.830100 0.148600 0.226400 1.000000
+O4 O 0.036100 0.310300 0.257200 1.000000
+O5 O 0.178200 0.127200 0.402600 1.000000
+
+# Reference: amcsd_0005270

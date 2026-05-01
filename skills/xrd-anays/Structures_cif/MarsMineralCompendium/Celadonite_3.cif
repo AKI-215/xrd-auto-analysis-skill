@@ -1,0 +1,32 @@
+data_Celadonite
+_chemical_name_common Celadonite
+_chemical_formula_sum 'K.78 Ca.04 Mg.61 Fe1.39 (Si3.67 Al.33) O12 H2'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 5.200000
+_cell_length_b 9.000000
+_cell_length_c 10.250000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 100.100000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.421000 0.332600 0.275000 0.082500
+Si1 Si 0.421000 0.332600 0.275000 0.917500
+Ca1 Ca 0.500000 0.000000 0.500000 0.040000
+K1 K 0.500000 0.000000 0.500000 0.780000
+Fe1 Fe 0.000000 0.664800 0.000000 0.155000
+Fe2 Fe 0.000000 0.664800 0.000000 0.540000
+Mg1 Mg 0.000000 0.664800 0.000000 0.305000
+O1 O 0.386000 0.000000 0.116000 1.000000
+O2 O 0.367000 0.324000 0.111000 1.000000
+O3 O 0.187000 0.254000 0.338000 1.000000
+O4 O 0.945000 0.000000 0.338000 1.000000
+
+# Reference: amcsd_0014183

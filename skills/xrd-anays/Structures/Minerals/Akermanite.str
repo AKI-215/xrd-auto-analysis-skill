@@ -1,0 +1,13 @@
+PHASE=Akermanite // cod_9006448
+Reference=cod_9006448 //
+Formula=Ca2_Mg_O7_Si2 //
+SpacegroupNo=113 HermannMauguin=P-42_1m Setting=1 UniqueAxis=c Lattice=Tetragonal //
+PARAM=A=0.783380_0.775546^0.791214 PARAM=C=0.500820_0.495812^0.505828 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:Akermanite=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=CA Wyckoff=e x=0.167600 y=0.667600 z=0.493500 TDS=0.018002
+E=MG Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.012696
+E=SI Wyckoff=e x=0.360400 y=0.860400 z=0.064200 TDS=0.009301
+E=O Wyckoff=c x=0.000000 y=0.500000 z=0.820100 TDS=0.021003
+E=O Wyckoff=e x=0.359300 y=0.859300 z=0.747100 TDS=0.021003
+E=O Wyckoff=f x=0.079800 y=0.186200 z=0.785600 TDS=0.023000

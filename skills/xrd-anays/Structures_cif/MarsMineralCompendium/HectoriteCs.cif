@@ -1,0 +1,31 @@
+data_HectoriteCs
+_chemical_name_common HectoriteCs
+_chemical_formula_sum 'Cs0.601 F2 Li0.602 Mg2.398 O10 Si4'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 5.240100
+_cell_length_b 9.094200
+_cell_length_c 10.797100
+_cell_angle_alpha 90.000000
+_cell_angle_beta 99.210000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cs1 Cs 0.000000 0.000000 0.000000 1.000000
+F1 F 0.137300 0.000000 0.406400 1.000000
+Li1 Li 0.500000 0.666500 0.500000 0.195000
+Mg1 Mg 0.500000 0.666500 0.500000 0.805000
+Li2 Li 0.500000 0.000000 0.500000 0.212000
+Mg2 Mg 0.500000 0.000000 0.500000 0.788000
+O1 O 0.131200 0.332900 0.394720 1.000000
+O2 O 0.558700 0.000000 0.188700 1.000000
+O3 O 0.185600 0.248400 0.811550 1.000000
+Si1 Si 0.081100 0.333180 0.244430 1.000000
+
+# Reference: cod_9012351

@@ -1,0 +1,23 @@
+data_ANHYDRITE
+_chemical_name_common ANHYDRITE
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C2/m2/c2_1/m
+_space_group_IT_number 63
+_cell_length_a 6.996000
+_cell_length_b 6.238000
+_cell_length_c 6.991000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.654000 0.000000 1.000000
+S1 S 0.000000 0.155000 0.000000 1.000000
+O1 O 0.329000 0.515000 0.000000 1.000000
+O2 O 0.000000 0.702000 0.920000 1.000000

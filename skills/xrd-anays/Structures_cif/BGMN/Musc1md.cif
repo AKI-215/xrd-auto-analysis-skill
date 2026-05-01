@@ -1,0 +1,27 @@
+data_Muscovite_1Md
+_chemical_name_common Muscovite_1Md
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 5.208000
+_cell_length_b 8.995000
+_cell_length_c 10.275000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 101.300000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Kp1 Kp 0.000000 0.000000 0.000000 1.000000
+Si1 Si 0.425000 0.332000 0.276000 0.850000
+Al1 Al 0.425000 0.332000 0.276000 0.150000
+Al2 Al 0.000000 0.668000 0.000000 1.000000
+O1 O 0.620000 0.000000 0.887000 1.000000
+O2 O 0.353000 0.317000 0.107000 1.000000
+O3 O 0.998000 0.000000 0.670000 1.000000
+O4 O 0.182000 0.267000 0.329000 1.000000

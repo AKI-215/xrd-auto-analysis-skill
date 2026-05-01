@@ -1,0 +1,31 @@
+data_Montmorillonite
+_chemical_name_common Montmorillonite
+_chemical_formula_sum 'Si3.9 Al.86 Li.08 Fe.1 Mg.14 O10 H'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 5.175000
+_cell_length_b 8.896000
+_cell_length_c 12.450000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 99.690000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.148000 0.163000 0.309000 0.025000
+Si1 Si 0.148000 0.163000 0.309000 0.975000
+Al2 Al 0.500000 0.884000 0.500000 0.380000
+Fe1 Fe 0.500000 0.884000 0.500000 0.050000
+Mg1 Mg 0.500000 0.884000 0.500000 0.070000
+Li1 Li 0.000000 0.500000 0.000000 1.000000
+O1 O 0.627000 0.000000 0.387000 1.000000
+O2 O 0.218000 0.000000 0.261000 1.000000
+O3 O 0.406000 0.226000 0.262000 1.000000
+O4 O 0.201000 0.215000 0.437000 1.000000
+
+# Reference: amcsd_0009126

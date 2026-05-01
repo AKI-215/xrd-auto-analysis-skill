@@ -1,0 +1,17 @@
+PHASE=Sodium11aluminiumoxide // cod1010017
+Reference=cod1010017 //
+Formula=Al11_Na_O17 //
+SpacegroupNo=194 HermannMauguin=P6_3/m2/m2/c Setting=1 UniqueAxis=c Lattice=Hexagonal //
+PARAM=A=0.558400_0.552816^0.563984 PARAM=C=2.245000_2.222550^2.267450 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:Sodium11aluminiumoxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=NA+1 Wyckoff=d x=0.333333 y=0.666667 z=0.750000 TDS=0.010000
+E=AL+3 Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=AL+3 Wyckoff=f x=0.333333 y=0.666667 z=0.022000 TDS=0.010000
+E=AL+3 Wyckoff=k x=0.833333 y=0.666667 z=0.106000 TDS=0.010000
+E=AL+3 Wyckoff=f x=0.333333 y=0.666667 z=0.178000 TDS=0.010000
+E=O-2 Wyckoff=k x=0.166667 y=0.333333 z=0.050000 TDS=0.010000
+E=O-2 Wyckoff=f x=0.333333 y=0.666667 z=0.550000 TDS=0.010000
+E=O-2 Wyckoff=e x=0.000000 y=0.000000 z=0.144000 TDS=0.010000
+E=O-2 Wyckoff=k x=0.500000 y=0.000000 z=0.144000 TDS=0.010000
+E=O-2 Wyckoff=c x=0.333333 y=0.666667 z=0.250000 TDS=0.010000

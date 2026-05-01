@@ -1,0 +1,242 @@
+# CIF quick groups
+
+基于 `_cif_index.tsv` 生成，方便后续 XRD 候选相快速定位。
+
+## Ti-related
+
+- `Alumina-Titania-Zirconia-Yttria/TiO2-Anatase.cif` — Ti O2
+- `Alumina-Titania-Zirconia-Yttria/TiO2-Rutile.cif` — Ti O2
+- `BGMN/Actinolite.cif` — ?
+- `BGMN/ALTIO5.cif` — ?
+- `BGMN/Ba2ti9o20.cif` — ?
+- `BGMN/BA2TIO4.cif` — ?
+- `BGMN/BA6TI17O.cif` — ?
+- `BGMN/BATI2O5.cif` — ?
+- `BGMN/BATI4O9.cif` — ?
+- `BGMN/BaTi5O11.cif` — ?
+- `BGMN/BATIO3C.cif` — ?
+- `BGMN/BATIO3H.cif` — ?
+- `BGMN/Batio3t.cif` — ?
+- `BGMN/BEUDANTI.cif` — ?
+- `BGMN/Biotite1M.cif` — ?
+- `BGMN/Biotite1mf.cif` — ?
+- `BGMN/Bonattite.cif` — ?
+- `BGMN/CELESTIN.cif` — ?
+- `BGMN/Cementite.cif` — ?
+- `BGMN/CLINOMIM.cif` — ?
+- `BGMN/Clinopt.cif` — ?
+- `BGMN/Enstatite.cif` — ?
+- `BGMN/Fluorapa.cif` — ?
+- `BGMN/GROUTITE.cif` — ?
+- `BGMN/HAP.cif` — ?
+- `BGMN/HAPmod.cif` — ?
+- `BGMN/HEMATITE.cif` — ?
+- `BGMN/HUNTITE.cif` — ?
+- `BGMN/Laumontite.cif` — ?
+- `BGMN/LCystine.cif` — ?
+- `BGMN/Magnetite.cif` — ?
+- `BGMN/MIMETITE.cif` — ?
+- `BGMN/Monetite.cif` — ?
+- `BGMN/Monticellite.cif` — ?
+- `BGMN/ND_APAT.cif` — ?
+- `BGMN/Nitratine.cif` — ?
+- `BGMN/Pbtio3.cif` — ?
+- `BGMN/PBZR75TI.cif` — ?
+- `BGMN/PBZR90TI.cif` — ?
+- `BGMN/PLZTCUB.cif` — ?
+- `BGMN/Pseudorutile.cif` — ?
+- `BGMN/Pyrrhotite_3T.cif` — ?
+- `BGMN/PZTTET.cif` — ?
+- `BGMN/Pzttrig.cif` — ?
+- `BGMN/RUTILE.cif` — ?
+- `BGMN/Sb2o3.cif` — ?
+- `BGMN/Sb2O4_Cervantite.cif` — ?
+- `BGMN/smectitedi2wfix1.cif` — ?
+- `BGMN/Stibnite.cif` — ?
+- `BGMN/STILBITE.cif` — ?
+- `BGMN/TI4O7.cif` — ?
+- `BGMN/TITANITE.cif` — ?
+- `BGMN/TITANOMA.cif` — ?
+- `BGMN/WUESTITE.cif` — ?
+- `BGMN/XENOTIME.cif` — ?
+- `Ceramics/BaO3Ti.cif` — Ba O3 Ti
+- `Ceramics/BaTiO3-cubic.cif` — Ba Ti O3
+- `Ceramics/BaTiO3-tetragonal.cif` — Ba Ti O3
+- `Ceramics/NiOH2.cif` — Ni ( O H )2
+- `Ceramics/Sr-Hydroxide.cif` — Sr ( O H )2
+
+## Fe-related
+
+- `BGMN/ALFEO3.cif` — ?
+- `BGMN/Ankerit02.cif` — ?
+- `BGMN/Ankerit05.cif` — ?
+- `BGMN/Ankerit07.cif` — ?
+- `BGMN/Ca2fe2o5.cif` — ?
+- `BGMN/CAFE2O4.cif` — ?
+- `BGMN/DIOPFE25.cif` — ?
+- `BGMN/DIOPFE3.cif` — ?
+- `BGMN/DIOPFE7.cif` — ?
+- `BGMN/DIOPFE75.cif` — ?
+- `BGMN/Fechromi.cif` — ?
+- `BGMN/FeNbO4m.cif` — ?
+- `BGMN/FeNbO4mklnew.cif` — ?
+- `BGMN/FeNbO4o.cif` — ?
+- `BGMN/Ferberite.cif` — ?
+- `BGMN/Ferricopiapite.cif` — ?
+- `BGMN/Ferritemg.cif` — ?
+- `BGMN/FESI2TET.cif` — ?
+- `BGMN/FESIKUB.cif` — ?
+- `BGMN/Grossular_fe.cif` — ?
+- `BGMN/Kutnafe.cif` — ?
+- `BGMN/SphalerFe.cif` — ?
+- `Cement-PST/Ferrite.cif` — Ca2 Fe Al2 O5
+- `Cement-PST/Ferrite-Colville.cif` — Ca2 Fe Al2 O5
+- `Cement-PST/Ferrite_88.cif` — Ca2 Fe Al2 O5
+- `Ceramics/AgFeO2.cif` — Ag Fe O2
+- `Ceramics/Ammonium-Iron-Fluoride-hexagonal.cif` — ( N H4 )0.75 Fe3 F9
+- `Ceramics/Ammonium-Iron-Fluoride-orthorhombic.cif` — ( N H4 )2 Fe F5
+- `Ceramics/CoFe2O4.cif` — Fe2 Co O4
+- `Ceramics/Cu3F2F12-12Hydrate.cif` — Cu3 Fe2 F12 ( H2 O )12
+- `Ceramics/Fe3Si2O5_OH4.cif` — Fe3 Si2 O5 ( O H )4
+- `Ceramics/FeCO3.cif` — Fe ( C O3 )
+- `Ceramics/FeF3-o.cif` — Fe F3
+- `Ceramics/FeF3-t.cif` — Fe F3
+- `Ceramics/HCu2FeF8_H2O10.cif` — H Cu2 Fe F8 ( H2 O )10
+- `Ceramics/HydrogenCopperIronFluorideHydrate.cif` — H Cu2 Fe F8 ( H2 O )10
+- `Ceramics/Mo3Fe0_1Ni1_9N.cif` — Mo3 Fe0.1 Ni1.9 N
+- `Ceramics/NaFeFeCN_ICSD_15560.cif` — C6 Fe2 N6 Na1.88
+- `Ceramics/NiFe2O4.cif` — Ni Fe2 O4
+- `Ceramics/SrFeO3.cif` — Sr Fe O3
+- `Ceramics/ZnFe2O4.cif` — Zn Fe2 O4
+- `Ceramics/Zr073Fe027O185.cif` — Zr0.73 Fe0.27 O1.865
+- `MarsMineralCompendium/Akaganeite.cif` — Fe4 O8 Cl.675
+- `MarsMineralCompendium/Augite_1.cif` — Ca Mg.74 Fe.25 Si2 O6
+- `MarsMineralCompendium/Augite_2.cif` — Na.09 Ca.616 Mg.902 Fe.21 Al.342 Ti.02 Si1.82 O6
+- `MarsMineralCompendium/Barringerite.cif` — Fe2 P
+- `MarsMineralCompendium/Biotite_1.cif` — Si2.856 Al1.369 (K.955 Ca.03 Na.015) Mg2.166 Cr.048 Fe.39 Mn.021 Ti.144 O12
+- `MarsMineralCompendium/Biotite_2.cif` — (Si2.908 Al1.092) K.952 Ca.006 Na.024 Mg2.424 Cr.024 Fe.282 Mn.015 Ti.177 O12
+- `MarsMineralCompendium/Biotite_3.cif` — Fe Mg2 K (Al Si3) O12 H2
+- `MarsMineralCompendium/Biotite_4.cif` — Fe Mg2 K (Al Si3) O12 H2
+- `MarsMineralCompendium/Biotite_5.cif` — Fe Mg2 K (Al Si3) O12
+- `MarsMineralCompendium/Celadonite_3.cif` — K.78 Ca.04 Mg.61 Fe1.39 (Si3.67 Al.33) O12 H2
+- `MarsMineralCompendium/Celadonite_4.cif` — K (Fe1.22 Mg.78) Si4 O12 H2
+- `MarsMineralCompendium/Chamosite_1.cif` — (Mg2.518 Fe2.482) Al1.2 Si3.8 O18 H10
+- `MarsMineralCompendium/Chamosite_2.cif` — (Mg2.518 Fe2.482) Al1.2 Si3.8 O18 H10
+- `MarsMineralCompendium/Clinoferrosilite.cif` — Fe1.6 Ca.4 Si2 O6
+- `MarsMineralCompendium/Clinohypersthene.cif` — Fe1.337 Mg.631 Ca.032 Si2 O6
+- `MarsMineralCompendium/Clinopyroxene.cif` — Mg.57 Fe.22 Al.64 Ti.07 (Ca.98 Mn.01 Na.01) Si1.5 O6
+- `MarsMineralCompendium/Coquimbite_1.cif` — Al Fe3 S6 O42 H36
+- `MarsMineralCompendium/Coquimbite_2.cif` — Al Fe3 S6 O42 H36
+
+## Ni-related
+
+- `Alumina-Titania-Zirconia-Yttria/Al2O3-beta-Na.cif` — Al11 Na O17
+- `Alumina-Titania-Zirconia-Yttria/ZrO2-m.cif` — Zr O2
+- `BGMN/Akermanite.cif` — ?
+- `BGMN/ALUNITE.cif` — ?
+- `BGMN/ANNITE.cif` — ?
+- `BGMN/Aragonite.cif` — ?
+- `BGMN/ARCANITE.cif` — ?
+- `BGMN/ARSENIC.cif` — ?
+- `BGMN/Bassanite.cif` — ?
+- `BGMN/BORNITE.cif` — ?
+- `BGMN/Braunite.cif` — ?
+- `BGMN/C3s3h.cif` — ?
+- `BGMN/C3SCMNIS.cif` — ?
+- `BGMN/C3SR3MNI.cif` — ?
+- `BGMN/Ca6.cif` — ?
+- `BGMN/CERIANIT.cif` — ?
+- `BGMN/CFS.cif` — ?
+- `BGMN/Cotunnit.cif` — ?
+- `BGMN/Dawsonite.cif` — ?
+- `BGMN/FeNbO4m.cif` — ?
+- `BGMN/GARRONIT.cif` — ?
+- `BGMN/Gehlenite.cif` — ?
+- `BGMN/Hausmannite.cif` — ?
+- `BGMN/Hercynite.cif` — ?
+- `BGMN/ILMENITE.cif` — ?
+- `BGMN/Iron_gamma_Austenite.cif` — ?
+- `BGMN/Kainite.cif` — ?
+- `BGMN/Kaolid.cif` — ?
+- `BGMN/Kaolinitedis.cif` — ?
+- `BGMN/Kyanite.cif` — ?
+- `BGMN/Langanit.cif` — ?
+- `BGMN/Laurioni.cif` — ?
+- `BGMN/LUZONITE.cif` — ?
+- `BGMN/Manganite.cif` — ?
+- `BGMN/MASCAGNI.cif` — ?
+- `BGMN/Mayenite.cif` — ?
+- `BGMN/Merwinite.cif` — ?
+- `BGMN/Mordenitena7.cif` — ?
+- `BGMN/NITER.cif` — ?
+- `BGMN/Nitratine.cif` — ?
+- `BGMN/nontronite15a.cif` — ?
+- `BGMN/PARAGO1M.cif` — ?
+- `BGMN/PARAGO2M.cif` — ?
+- `BGMN/Pb3o4_Minium.cif` — ?
+- `BGMN/Plag85an.cif` — ?
+- `BGMN/PREHNITE.cif` — ?
+- `BGMN/ROZENITE.cif` — ?
+- `BGMN/Sanid08.cif` — ?
+- `BGMN/Sanid086.cif` — ?
+- `BGMN/SANINA07.cif` — ?
+- `BGMN/Sanina16.cif` — ?
+- `BGMN/SANINA35.cif` — ?
+- `BGMN/SANINA56.cif` — ?
+- `BGMN/SANINA67.cif` — ?
+- `BGMN/Sanina75.cif` — ?
+- `BGMN/SANINA85.cif` — ?
+- `BGMN/Sillimanite.cif` — ?
+- `BGMN/Smithsonite.cif` — ?
+- `BGMN/STANNITE.cif` — ?
+- `BGMN/Stibnite.cif` — ?
+
+## Cr-related
+
+- `BGMN/CR.cif` — ?
+- `BGMN/Cr2N.cif` — ?
+- `BGMN/Crandallite.cif` — ?
+- `BGMN/CRISHIGH.cif` — ?
+- `BGMN/Cristobalite.cif` — ?
+- `BGMN/CRN.cif` — ?
+- `BGMN/CRYOLITE.cif` — ?
+- `BGMN/CRYPTOHA.cif` — ?
+- `BGMN/K2cr2o7.cif` — ?
+- `BGMN/Lepidocrocite.cif` — ?
+- `BGMN/MicroInt1.cif` — ?
+- `BGMN/MicroInt2.cif` — ?
+- `BGMN/MicroMax.cif` — ?
+- `BGMN/NACRITE.cif` — ?
+- `BGMN/Picromerite.cif` — ?
+- `Ceramics/CaCr2O4-alpha.cif` — Ca Cr2 O4
+- `Ceramics/CaCr2O4-beta.cif` — Ca Cr2 O4
+- `Ceramics/Cr2O3.cif` — Cr2 O3
+- `Ceramics/CuCrO4.cif` — CuCrO4
+- `MarsMineralCompendium/Biotite_1.cif` — Si2.856 Al1.369 (K.955 Ca.03 Na.015) Mg2.166 Cr.048 Fe.39 Mn.021 Ti.144 O12
+- `MarsMineralCompendium/Biotite_2.cif` — (Si2.908 Al1.092) K.952 Ca.006 Na.024 Mg2.424 Cr.024 Fe.282 Mn.015 Ti.177 O12
+- `MarsMineralCompendium/Carlsbergite.cif` — Cr N
+- `MarsMineralCompendium/Clinochlore_1.cif` — Mg5.1 Al1.2 Cr.7 Si3 O18 H8
+- `MarsMineralCompendium/Clinochlore_2.cif` — Mg5 Al1.75 Cr.25 Si3 O18 H8
+- `MarsMineralCompendium/Clinochlore_3.cif` — Mg5 Al1.67 Cr.28 Si3.04 O18 H8
+- `MarsMineralCompendium/Cristobalite.cif` — Si O2
+- `MarsMineralCompendium/Lepidocrocite.cif` — Fe O2 H
+- `MarsMineralCompendium/Orthopyroxene.cif` — Al0.028 Ca0.036 Cr0.004 Fe0.801 Mg1.128 Mn0.026 O6 Si1.986 Ti0.005
+- `MetalsAlloysOxides/Cr17Fe6C6.cif` — Cr17 Fe6 C6
+- `MetalsAlloysOxides/Cr23C6.cif` — Cr23 C6
+- `MetalsAlloysOxides/Cr23C6-iron-bearing.cif` — Cr15.58 Fe7.42 C6
+- `MetalsAlloysOxides/Cr7C3.cif` — C3 Cr7
+- `Minerals/Chromatite.cif` — Ca ( Cr O4 )
+- `Minerals/Cristobalite.cif` — Si O2
+- `Minerals/Cronstedtite2H2.cif` — Fe3.7 Si1.3 O5 ( O H )4
+- `Minerals/Lepidocrocite.cif` — Fe O (OH)
+- `Minerals/Microcline.cif` — K ( Al Si3 O8 )
+- `Minerals/MicroInt1.cif` — ?
+- `Minerals/Nacrite.cif` — Al2 Si2 O5 ( O H )4
+- `Minerals/Plumbonacrite.cif` — C3 H2 O12 Pb5
+- `Organic/inh_benzoic_cocrystal.cif` — ?
+- `Phosphate/Cr3P2O8.cif` — Cr3 ( P O4 )2
+- `Phosphate/TCP-Cr0_29.cif` — Ca9 Cr ( P O4 )7
+
+## 316-ish alloys/oxides
+
+- none

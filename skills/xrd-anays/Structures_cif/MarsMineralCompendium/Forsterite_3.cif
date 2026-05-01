@@ -1,0 +1,27 @@
+data_Forsterite
+_chemical_name_common Forsterite
+_chemical_formula_sum 'Si (Mg1.816 Fe.184) O4'
+_symmetry_space_group_name_H-M P2_1/b2_1/n2_1/m
+_space_group_IT_number 62
+_cell_length_a 4.764200
+_cell_length_b 10.225800
+_cell_length_c 6.004500
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.989780 0.277740 0.250000 0.088000
+Mg1 Mg 0.989780 0.277740 0.250000 0.912000
+O1 O 0.766600 0.091700 0.250000 1.000000
+O2 O 0.219900 0.447860 0.250000 1.000000
+O3 O 0.278830 0.163320 0.033700 1.000000
+Si1 Si 0.426570 0.094410 0.250000 1.000000
+
+# Reference: amcsd_0005395

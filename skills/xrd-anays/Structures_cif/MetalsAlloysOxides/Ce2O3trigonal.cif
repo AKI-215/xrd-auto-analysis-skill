@@ -1,0 +1,24 @@
+data_Ce2O3trigonal
+_chemical_name_common Ce2O3trigonal
+_chemical_formula_sum 'Ce2 O3'
+_symmetry_space_group_name_H-M P-32/m1
+_space_group_IT_number 164
+_cell_length_a 3.941000
+_cell_length_b 3.941000
+_cell_length_c 6.182000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ce1 Ce 0.333333 0.666667 0.248100 1.000000
+O1 O 0.333333 0.666667 0.644700 1.000000
+O2 O 0.000000 0.000000 0.000000 1.000000
+
+# Reference: cod_1531455

@@ -1,0 +1,26 @@
+data_Sodiumironhexacyanoferratehydrate
+_chemical_name_common Sodiumironhexacyanoferratehydrate
+_chemical_formula_sum 'C6 Fe2 N6 Na1.88'
+_symmetry_space_group_name_H-M R-3
+_space_group_IT_number 148
+_cell_length_a 6.543100
+_cell_length_b 6.543100
+_cell_length_c 18.829000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 120.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.000000 0.000000 0.000000 1.000000
+Fe2 Fe 0.000000 0.000000 0.500000 1.000000
+C1 C 0.243000 0.250000 0.056600 1.000000
+N1 N 0.297000 0.394000 0.102400 1.000000
+Na1 Na 0.000000 0.000000 0.199700 1.000000
+
+# Reference: ICSD15560

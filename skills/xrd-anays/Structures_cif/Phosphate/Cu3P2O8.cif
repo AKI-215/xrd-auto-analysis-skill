@@ -1,0 +1,28 @@
+data_Cu3P2O8
+_chemical_name_common Cu3P2O8
+_chemical_formula_sum 'Cu3 ( P O4 )2'
+_symmetry_space_group_name_H-M P-1
+_space_group_IT_number 2
+_cell_length_a 4.855000
+_cell_length_b 5.288000
+_cell_length_c 6.184000
+_cell_angle_alpha 72.340000
+_cell_angle_beta 86.990000
+_cell_angle_gamma 68.540000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1 Cu 0.277100 0.225900 0.314900 1.000000
+O1 O 0.845200 0.343600 0.340800 1.000000
+P1 P 0.356300 0.355300 0.775600 1.000000
+O2 O 0.231000 0.226900 0.004900 1.000000
+O3 O 0.334100 0.653900 0.170100 1.000000
+O4 O 0.375200 0.150400 0.634200 1.000000
+Cu2 Cu 0.000000 0.000000 0.000000 1.000000
+
+# Reference: 04-009-1558

@@ -1,0 +1,33 @@
+data_Pigeonite
+_chemical_name_common Pigeonite
+_chemical_formula_sum 'Ca.2 Fe1.12 Mg.68 Si2 O6'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 9.731000
+_cell_length_b 8.953000
+_cell_length_c 5.256000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 71.450000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.246000 0.981000 0.231000 0.200000
+Fe1 Fe 0.246000 0.981000 0.231000 0.800000
+Fe2 Fe 0.251000 0.344000 0.236000 0.320000
+Mg1 Mg 0.251000 0.344000 0.236000 0.680000
+O1 O 0.372000 0.168000 0.315000 1.000000
+O2 O 0.127000 0.166000 0.161000 1.000000
+O3 O 0.378000 0.506000 0.323000 1.000000
+O4 O 0.125000 0.508000 0.147000 1.000000
+O5 O 0.395000 0.773000 0.070000 1.000000
+O6 O 0.108000 0.782000 0.994000 1.000000
+Si1 Si 0.453000 0.661000 0.274000 1.000000
+Si2 Si 0.049000 0.662000 0.252000 1.000000
+
+# Reference: amcsd_0010588

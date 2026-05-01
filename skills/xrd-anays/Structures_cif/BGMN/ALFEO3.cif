@@ -1,0 +1,29 @@
+data_AlFeO3
+_chemical_name_common AlFeO3
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M Pna2_1
+_space_group_IT_number 33
+_cell_length_a 4.984000
+_cell_length_b 8.554000
+_cell_length_c 9.241000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1 Fe 0.185000 0.151800 0.582700 1.000000
+Fe2 Fe 0.673100 0.033400 0.798200 1.000000
+Al1 Al 0.172900 0.152800 0.000000 1.000000
+Al2 Al 0.815500 0.160000 0.303500 1.000000
+O1 O 0.982200 0.323000 0.421100 1.000000
+O2 O 0.510100 0.491100 0.429400 1.000000
+O3 O 0.658100 1.001900 0.200500 1.000000
+O4 O 0.155500 0.162900 0.194800 1.000000
+O5 O 0.845100 0.168300 0.672700 1.000000
+O6 O 0.508900 0.172700 0.940900 1.000000

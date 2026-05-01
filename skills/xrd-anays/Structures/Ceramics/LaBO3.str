@@ -1,0 +1,11 @@
+PHASE=LanthanumBorate // 04-013-4216
+Reference=04-013-4216 //
+Formula=La_(_B_O3_) //
+SpacegroupNo=62 HermannMauguin=P2_1/n2_1/m2_1/a Setting=1 Lattice=Orthorhombic //
+PARAM=A=0.587440_0.581566^0.593314 PARAM=B=0.510870_0.505761^0.515979 PARAM=C=0.825810_0.817552^0.834068 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:LanthanumBorate=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=LA Wyckoff=c x=0.243190 y=0.250000 z=0.584490 TDS=0.004919
+E=B Wyckoff=c x=0.582200 y=0.250000 z=0.261100 TDS=0.006317
+E=O Wyckoff=c x=0.097000 y=0.250000 z=0.072900 TDS=0.007635
+E=O Wyckoff=d x=0.586300 y=0.018200 z=0.176900 TDS=0.007288

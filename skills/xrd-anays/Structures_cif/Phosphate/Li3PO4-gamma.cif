@@ -1,0 +1,25 @@
+data_gammaLi3PO4
+_chemical_name_common gammaLi3PO4
+_chemical_formula_sum 'Li3 O4 P'
+_symmetry_space_group_name_H-M P2_1/m2_1/n2_1/b
+_space_group_IT_number 62
+_cell_length_a 6.111300
+_cell_length_b 10.461200
+_cell_length_c 4.920800
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li1 Li 0.501600 0.162700 0.300800 1.000000
+Li2 Li 0.750000 0.424600 0.204500 1.000000
+P1 P 0.250000 0.411500 0.307900 1.000000
+O1 O 0.044100 0.341800 0.205400 1.000000
+O2 O 0.250000 0.050300 0.292800 1.000000
+O3 O 0.750000 0.089600 0.122300 1.000000

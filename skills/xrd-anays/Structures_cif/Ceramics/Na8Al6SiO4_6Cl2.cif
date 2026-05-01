@@ -1,0 +1,24 @@
+data_SodiumAluminumChlorideSilicate
+_chemical_name_common SodiumAluminumChlorideSilicate
+_chemical_formula_sum 'Na8 Al6 (Si O4)6 Cl2'
+_symmetry_space_group_name_H-M P-43n
+_space_group_IT_number 218
+_cell_length_a 8.885350
+_cell_length_b 8.885350
+_cell_length_c 8.885350
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Si1 Si 0.250000 0.000000 0.500000 1.000000
+Al1 Al 0.250000 0.500000 0.000000 1.000000
+Na1 Na 0.178000 0.178000 0.178000 1.000000
+O1 O 0.137000 0.444000 0.150000 1.000000
+Cl1 Cl 0.000000 0.000000 0.000000 1.000000

@@ -1,0 +1,22 @@
+data_Boehmite
+_chemical_name_common Boehmite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C2/m2/c2_1/m
+_space_group_IT_number 63
+_cell_length_a 2.874000
+_cell_length_b 12.234000
+_cell_length_c 3.701000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1 Al 0.000000 -0.316500 0.000000 1.000000
+O1 O 0.000000 0.289100 0.000000 1.000000
+O2 O 0.000000 0.077500 0.000000 1.000000

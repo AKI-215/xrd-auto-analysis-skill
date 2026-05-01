@@ -1,0 +1,27 @@
+data_Braunite
+_chemical_name_common Braunite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M I4_1/a2/c2/d
+_space_group_IT_number 142
+_cell_length_a 9.426000
+_cell_length_b 9.426000
+_cell_length_c 18.696000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1 Mn 0.000000 0.000000 0.000000 1.000000
+Mn2 Mn 0.000000 0.000000 0.000000 1.000000
+Mn3 Mn 0.533400 0.000000 0.000000 1.000000
+Mn4 Mn 0.767200 0.000000 0.000000 1.000000
+Si1 Si 0.000000 0.000000 0.000000 1.000000
+O1 O 0.150700 0.855300 0.945600 1.000000
+O2 O 0.144400 0.073300 0.056700 1.000000
+O3 O 0.077800 0.134000 0.925200 1.000000

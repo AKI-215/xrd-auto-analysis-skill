@@ -1,0 +1,32 @@
+data_PotassiumSodiumAluminumSilicate
+_chemical_name_common PotassiumSodiumAluminumSilicate
+_chemical_formula_sum 'K0.93 Na0.07 Al Si3 O8'
+_symmetry_space_group_name_H-M C12/m1
+_space_group_IT_number 12
+_cell_length_a 8.573900
+_cell_length_b 12.987400
+_cell_length_c 7.201800
+_cell_angle_alpha 90.000000
+_cell_angle_beta 116.042000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.284990 0.000000 0.138580 0.930000
+Na1 Na 0.284990 0.000000 0.138580 0.070000
+Si1 Si 0.009350 0.184810 0.223910 0.620000
+Al1 Al 0.009350 0.184810 0.223910 0.380000
+Si2 Si 0.709140 0.117670 0.344530 0.880000
+Al2 Al 0.709140 0.117670 0.344530 0.120000
+O1 O 0.000000 0.146070 0.000000 1.000000
+O2 O 0.637800 0.000000 0.284900 1.000000
+O3 O 0.826800 0.146720 0.227800 1.000000
+O4 O 0.035200 0.311360 0.259200 1.000000
+O5 O 0.180900 0.126050 0.406700 1.000000
+
+# Reference: 04-023-1766

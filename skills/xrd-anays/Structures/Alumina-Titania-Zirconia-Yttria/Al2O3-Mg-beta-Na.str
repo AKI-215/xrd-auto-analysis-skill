@@ -1,0 +1,18 @@
+PHASE=MagnesiumAluminumOxideSodiumOxide // 01-073-9551
+Reference=01-073-9551 //
+Formula=(_Al10.35_Mg0.65_O16_)_(_Na1.678_O_) //
+SpacegroupNo=166 HermannMauguin=R-32/m Setting=1 UniqueAxis=c Lattice=Trigonal //
+PARAM=A=0.564000_0.558360^0.569640 PARAM=C=3.373000_3.339270^3.406730 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:MagnesiumAluminumOxideSodiumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=AL Wyckoff=h x=0.167000 y=0.833000 z=0.929000 TDS=0.010000
+E=(AL(0.6750),MG(0.3250)) Wyckoff=c x=0.000000 y=0.000000 z=0.350000 TDS=0.010000
+E=AL Wyckoff=c x=0.000000 y=0.000000 z=0.450000 TDS=0.010000
+E=AL Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
+E=O Wyckoff=h x=0.163000 y=0.837000 z=0.235000 TDS=0.010000
+E=O Wyckoff=i x=0.154000 y=0.307000 z=0.035000 TDS=0.010000
+E=O Wyckoff=c x=0.000000 y=0.000000 z=0.097000 TDS=0.010000
+E=O Wyckoff=c x=0.000000 y=0.000000 z=0.295000 TDS=0.010000
+E=O Wyckoff=b x=0.000000 y=0.000000 z=0.500000 TDS=0.010000
+E=NA(0.3300) Wyckoff=c x=0.000000 y=0.000000 z=0.828400 TDS=0.010000
+E=NA(0.1697) Wyckoff=h x=0.095000 y=0.905000 z=0.832300 TDS=0.010000

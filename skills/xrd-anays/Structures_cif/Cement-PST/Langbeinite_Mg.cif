@@ -1,0 +1,30 @@
+data_Langbeinite
+_chemical_name_common Langbeinite
+_chemical_formula_sum 'K2 Mg2 S3 O12'
+_symmetry_space_group_name_H-M P2_13
+_space_group_IT_number 198
+_cell_length_a 9.919000
+_cell_length_b 9.919000
+_cell_length_c 9.919000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.000000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K1 K 0.066730 0.066730 0.066730 1.000000
+K2 K 0.298220 0.298220 0.298220 1.000000
+Mg1 Mg 0.585080 0.585080 0.585080 1.000000
+Mg2 Mg 0.849020 0.849020 0.849020 1.000000
+S1 S 0.625570 0.465960 0.267840 1.000000
+O1 O 0.651930 0.503330 0.407510 1.000000
+O2 O 0.750110 0.484990 0.190960 1.000000
+O3 O 0.579570 0.325590 0.258880 1.000000
+O4 O 0.523540 0.554200 0.207820 1.000000
+
+# Reference: amcsd_0017885

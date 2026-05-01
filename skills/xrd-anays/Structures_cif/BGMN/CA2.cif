@@ -1,0 +1,26 @@
+data_CA2_Grossite
+_chemical_name_common CA2_Grossite
+_chemical_formula_sum ?
+_symmetry_space_group_name_H-M C12/c1
+_space_group_IT_number 15
+_cell_length_a 12.870000
+_cell_length_b 8.880000
+_cell_length_c 5.440000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 106.800000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1 Ca 0.000000 0.190800 0.000000 1.000000
+Al1 Al 0.164700 0.913700 0.302900 1.000000
+Al2 Al 0.119500 0.558900 0.241800 1.000000
+O1 O 0.000000 0.467500 0.000000 1.000000
+O2 O 0.114900 0.949300 0.564100 1.000000
+O3 O 0.119500 0.747600 0.148200 1.000000
+O4 O 0.193500 0.558100 0.580500 1.000000

@@ -1,0 +1,13 @@
+PHASE=NiobiumPhosphateOxide // 04-009-4376
+Reference=04-009-4376 //
+Formula=Nb_(_P_O4_)_O //
+SpacegroupNo=62 HermannMauguin=P2_1/n2_1/m2_1/a Setting=1 Lattice=Orthorhombic //
+PARAM=A=1.130400_1.119096^1.141704 PARAM=B=0.531600_0.526284^0.536916 PARAM=C=0.664000_0.657360^0.670640 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:NiobiumPhosphateOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=NB Wyckoff=c x=0.437570 y=0.250000 z=0.331110 TDS=0.005800
+E=P Wyckoff=c x=0.154400 y=0.250000 z=0.528200 TDS=0.005900
+E=O Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.025000
+E=O Wyckoff=c x=0.081800 y=0.250000 z=0.335300 TDS=0.017000
+E=O Wyckoff=d x=0.128700 y=0.018000 z=0.647700 TDS=0.039000
+E=O Wyckoff=c x=0.285200 y=0.250000 z=0.471900 TDS=0.011000

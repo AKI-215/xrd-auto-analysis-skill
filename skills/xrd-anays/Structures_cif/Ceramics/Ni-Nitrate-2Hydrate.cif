@@ -1,0 +1,25 @@
+data_NiNitrate2Hydrate
+_chemical_name_common NiNitrate2Hydrate
+_chemical_formula_sum 'Ni (NO3)2 (H2O)2'
+_symmetry_space_group_name_H-M P12_1/c1
+_space_group_IT_number 14
+_cell_length_a 8.467000
+_cell_length_b 5.907000
+_cell_length_c 5.766000
+_cell_angle_alpha 90.000000
+_cell_angle_beta 90.960000
+_cell_angle_gamma 90.000000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni1 Ni 0.000000 0.000000 0.000000 1.000000
+O1 O 0.048500 0.366400 0.228500 1.000000
+O2 O 0.423700 0.414700 0.242400 1.000000
+O3 O 0.252400 0.218400 0.422000 1.000000
+N1 N 0.244100 0.335200 0.295400 1.000000
+O4 O 0.243900 -0.247400 0.511900 1.000000

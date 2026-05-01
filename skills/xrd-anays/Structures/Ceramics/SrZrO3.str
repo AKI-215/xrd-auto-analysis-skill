@@ -1,0 +1,11 @@
+PHASE=StrontiumZirconiumOxide // 00-044-0161
+Reference=00-044-0161 //
+Formula=Sr_Zr_O3 //
+SpacegroupNo=62 HermannMauguin=P2_1/n2_1/m2_1/a Setting=1 Lattice=Orthorhombic //
+PARAM=A=0.581600_0.575784^0.587416 PARAM=B=0.822000_0.813780^0.830220 PARAM=C=0.579700_0.573903^0.585497 //
+RP=4 k1=0 k2=0 PARAM=B1=0_0^0.01 GEWICHT=SPHAR4 //
+GOAL:StrontiumZirconiumOxide=GEWICHT*ifthenelse(ifdef(d),exp(my*d*3/4),1) //
+E=O Wyckoff=d x=0.198400 y=0.050600 z=0.304300 TDS=0.010000
+E=SR Wyckoff=c x=0.437160 y=0.250000 z=0.015560 TDS=0.010000
+E=O Wyckoff=c x=0.532800 y=0.250000 z=0.600500 TDS=0.010000
+E=ZR Wyckoff=a x=0.000000 y=0.000000 z=0.000000 TDS=0.010000
